@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Flashcard Creator"
+  short_description: "Create approved English flashcard notes"
+  default_prompt: "Use $english-flashcard-creator to analyze this English item, propose matching decks, and create the approved Markdown cards."

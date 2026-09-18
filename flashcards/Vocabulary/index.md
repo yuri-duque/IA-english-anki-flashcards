@@ -1,0 +1,129 @@
+# Índice de Flashcards — English Vocabulary
+
+Cada card criado nesta pasta deve aparecer nesta tabela. A coluna Anki é mantida pela sincronização.
+
+| Palavra | Card | Anki |
+| --- | --- | --- |
+| augmentation | [augmentation](augmentation.md) | ✅ |
+| all | [all](all.md) | ✅ |
+| although | [although](although.md) | ✅ |
+| becoming | [becoming](becoming.md) | ✅ |
+| bottom | [bottom](bottom.md) | ✅ |
+| beyond | [beyond](beyond.md) | ✅ |
+| bring | [bring](bring.md) | ✅ |
+| buddy | [buddy](buddy.md) | ✅ |
+| chase | [chase](chase.md) | ✅ |
+| come | [come](come.md) | ✅ |
+| comparison | [comparison](comparison.md) | ✅ |
+| counter | [counter](counter.md) | ✅ |
+| cow | [cow](cow.md) | ✅ |
+| despite | [despite](despite.md) | ✅ |
+| detach | [detach](detach.md) | ✅ |
+| desirable | [desirable](desirable.md) | ✅ |
+| either | [either](either.md) | ✅ |
+| embarrassing | [embarrassing](embarrassing.md) | ✅ |
+| even | [even](even.md) | ✅ |
+| even though | [even-though](even-though.md) | ✅ |
+| fancy | [fancy](fancy.md) | ✅ |
+| fence | [fence](fence.md) | ✅ |
+| far away | [far-away](far-away.md) | ❌ |
+| few | [few](few.md) | ❌ |
+| forth | [forth](forth.md) | ✅ |
+| gate | [gate](gate.md) | ✅ |
+| ground | [ground](ground.md) | ✅ |
+| heard | [heard](heard.md) | ✅ |
+| huge | [huge](huge.md) | ✅ |
+| little | [little](little.md) | ✅ |
+| a little | [a-little](a-little.md) | ✅ |
+| a lot of / lots of | [a-lot-of-lots-of](a-lot-of-lots-of.md) | ✅ |
+| many | [many](many.md) | ✅ |
+| much | [much](much.md) | ✅ |
+| most | [most](most.md) | ✅ |
+| no | [no](no.md) | ✅ |
+| instead | [instead](instead.md) | ✅ |
+| majority | [majority](majority.md) | ✅ |
+| matter | [matter](matter.md) | ✅ |
+| meant | [meant](meant.md) | ✅ |
+| might | [might](might.md) | ✅ |
+| patio | [patio](patio.md) | ✅ |
+| perhaps | [perhaps](perhaps.md) | ✅ |
+| pick | [pick](pick.md) | ✅ |
+| pointless | [pointless](pointless.md) | ✅ |
+| pound | [pound](pound.md) | ✅ |
+| pretty | [pretty](pretty.md) | ✅ |
+| quite | [quite](quite.md) | ✅ |
+| a few | [a-few](a-few.md) | ✅ |
+| remains | [remains](remains.md) | ✅ |
+| rot | [rot](rot.md) | ✅ |
+| same sort | [same-sort](same-sort.md) | ✅ |
+| scarce | [scarce](scarce.md) | ✅ |
+| several | [several](several.md) | ✅ |
+| some | [some](some.md) | ✅ |
+| straight | [straight](straight.md) | ✅ |
+| straightforward | [straightforward](straightforward.md) | ✅ |
+| thoughtful | [thoughtful](thoughtful.md) | ✅ |
+| too many | [too-many](too-many.md) | ✅ |
+| too much | [too-much](too-much.md) | ✅ |
+| through | [through](through.md) | ✅ |
+| throughout | [throughout](throughout.md) | ✅ |
+| treat | [treat](treat.md) | ✅ |
+| truly | [truly](truly.md) | ✅ |
+| turn | [turn](turn.md) | ✅ |
+| usually | [usually](usually.md) | ✅ |
+| wasting | [wasting](wasting.md) | ✅ |
+| weird | [weird](weird.md) | ✅ |
+| which | [which](which.md) | ✅ |
+| whole | [whole](whole.md) | ✅ |
+| enough | [enough](enough.md) | ✅ |
+| each | [each](each.md) | ✅ |
+| every | [every](every.md) | ✅ |
+| both | [both](both.md) | ✅ |
+| neither | [neither](neither.md) | ✅ |
+| went | [went](went.md) | ❌ |
+| anyone | [anyone](anyone.md) | ❌ |
+| notice | [notice](notice.md) | ❌ |
+| grandfather | [grandfather](grandfather.md) | ❌ |
+| say | [say](say.md) | ❌ |
+| sure | [sure](sure.md) | ❌ |
+| mention | [mention](mention.md) | ❌ |
+| someone | [someone](someone.md) | ❌ |
+| something | [something](something.md) | ❌ |
+| anything | [anything](anything.md) | ❌ |
+| young | [young](young.md) | ❌ |
+| perform | [perform](perform.md) | ❌ |
+| grandmother | [grandmother](grandmother.md) | ❌ |
+| had | [had](had.md) | ❌ |
+| advice | [advice](advice.md) | ❌ |
+| actually | [actually](actually.md) | ❌ |
+| grandpa | [grandpa](grandpa.md) | ❌ |
+| grandchildren | [grandchildren](grandchildren.md) | ❌ |
+| own | [own](own.md) | ❌ |
+| pleased | [pleased](pleased.md) | ❌ |
+| useful | [useful](useful.md) | ❌ |
+| soon | [soon](soon.md) | ❌ |
+| noon | [noon](noon.md) | ❌ |
+| ugly | [ugly](ugly.md) | ❌ |
+| look | [look](look.md) | ❌ |
+| side | [side](side.md) | ❌ |
+| evening | [evening](evening.md) | ❌ |
+| toward | [toward](toward.md) | ❌ |
+| him | [him](him.md) | ❌ |
+| her | [her](her.md) | ❌ |
+| thing | [thing](thing.md) | ❌ |
+| think | [think](think.md) | ❌ |
+| during | [during](during.md) | ❌ |
+| ten | [ten](ten.md) | ❌ |
+| twenty | [twenty](twenty.md) | ❌ |
+| thirty | [thirty](thirty.md) | ❌ |
+| forty | [forty](forty.md) | ❌ |
+| fifty | [fifty](fifty.md) | ❌ |
+| sixty | [sixty](sixty.md) | ❌ |
+| seventy | [seventy](seventy.md) | ❌ |
+| eighty | [eighty](eighty.md) | ❌ |
+| ninety | [ninety](ninety.md) | ❌ |
+| one hundred | [one hundred](one-hundred.md) | ❌ |
+| ride | [ride](ride.md) | ❌ |
+| throw | [throw](throw.md) | ❌ |
+| worry | [worry](worry.md) | ❌ |
+| so much | [so-much](so-much.md) | ❌ |
+| hurry | [hurry](hurry.md) | ❌ |

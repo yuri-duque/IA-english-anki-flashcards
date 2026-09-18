@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Grammar Flashcard Creator"
+  short_description: "Create approved English grammar flashcards"
+  default_prompt: "Use $english-grammar-flashcard-creator to analyze this grammar topic, propose organized cards, and create only the approved Markdown notes."

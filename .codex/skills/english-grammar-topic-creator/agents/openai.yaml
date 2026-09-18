@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Grammar Topic Creator"
+  short_description: "Create didactic English grammar modules"
+  default_prompt: "Use $english-grammar-topic-creator to create a didactic grammar module for this topic."
