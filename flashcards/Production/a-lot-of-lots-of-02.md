@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423584'
 ---
 
 # a lot of work — Production 2

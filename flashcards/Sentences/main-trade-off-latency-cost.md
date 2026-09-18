@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422600'
 ---
 
 # The main trade-off was lower latency at a higher cost

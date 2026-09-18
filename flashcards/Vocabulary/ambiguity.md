@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421301'
 ---
 
 # ambiguity
@@ -61,4 +62,3 @@ _Reescrevemos o contrato da API para eliminar a ambiguidade dos requisitos._
 ### Related words and differences
 
 **ambiguity** envolve mais de uma interpretação possível; **uncertainty** envolve falta de conhecimento sobre o resultado.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424583'
 ---
 
 # constraint — Production 3
@@ -54,4 +55,3 @@ _Não podemos otimizar para toda restrição ao mesmo tempo._
 ### Common mistakes
 
 Não diga “has priority” neste contexto; <b>take priority</b> é mais natural.
-

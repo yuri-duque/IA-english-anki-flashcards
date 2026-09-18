@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699427966'
 ---
 
 # scope — Production 1
@@ -54,4 +55,3 @@ _Mantivemos a primeira versão dentro de um escopo limitado._
 ### Common mistakes
 
 Evite confundir <b>scope</b> com <b>schedule</b>: prazo não define o que será entregue.
-

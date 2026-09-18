@@ -1,19 +1,20 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699425283'
 ---
 
-# fault-tolerance — Production 1
+# fault tolerance — Production 1
 
 ## Dados da nota
 
-- **Prompt:** Como dizer em inglês que você precisa continuar quando uma réplica falha?
+- **Prompt:** Como dizer em inglês que você precisa continuar quando uma réplica falha após um incidente de produção?
 - **Context:** Entrevista técnica sênior; explique a decisão e seu impacto mensurável.
-- **Answer:** The team used <b>fault tolerance</b> to address this senior engineering situation.
+- **Answer:** The team took <b>fault tolerance</b> after the incident.
 - **PossibleAnswers:** The team improved <b>fault tolerance</b> through a focused engineering change.
 - **Focus:** fault tolerance
 - **HowToUse:** Use <b>fault tolerance</b> em entrevistas para falar de continuar quando uma réplica falha.
-- **Example:** We improved <b>fault tolerance</b> after measuring the impact on the service.
-- **ExampleTranslation:** Melhoramos continuar quando uma réplica falha depois de medir o impacto no serviço.
+- **Example:** Clear <b>fault tolerance</b> made the on-call response faster.
+- **ExampleTranslation:** Exemplo técnico sobre continuar quando uma réplica falha.
 - **CommonMistakes:** Não confunda <b>fault tolerance</b> com conceitos próximos.
 - **Source:** Entrevista técnica de engenharia de software sênior.
 
@@ -21,7 +22,7 @@ anki: false
 
 ### ENGLISH · PRODUCTION
 
-Como dizer em inglês que você precisa continuar quando uma réplica falha?
+Como dizer em inglês que você precisa continuar quando uma réplica falha após um incidente de produção?
 
 _Contexto: Entrevista técnica sênior; explique a decisão e seu impacto mensurável._
 
@@ -31,7 +32,7 @@ _Contexto: Entrevista técnica sênior; explique a decisão e seu impacto mensur
 
 ### Answer
 
-The team used <b>fault tolerance</b> to address this senior engineering situation.
+The team took <b>fault tolerance</b> after the incident.
 
 ### Other natural answers
 
@@ -47,9 +48,9 @@ Use <b>fault tolerance</b> em entrevistas para falar de continuar quando uma ré
 
 ### Example
 
-We improved <b>fault tolerance</b> after measuring the impact on the service.
+Clear <b>fault tolerance</b> made the on-call response faster.
 
-_Melhoramos continuar quando uma réplica falha depois de medir o impacto no serviço._
+_Exemplo técnico sobre continuar quando uma réplica falha._
 
 ### Common mistakes
 
@@ -58,4 +59,3 @@ Não confunda <b>fault tolerance</b> com conceitos próximos.
 ### Source
 
 Entrevista técnica de engenharia de software sênior.
-

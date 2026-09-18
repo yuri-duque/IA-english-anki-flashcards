@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422249'
 ---
 
 # throughput
@@ -56,4 +57,3 @@ _A nova fila aumentou a vazão do serviço durante o tráfego de pico._
 ### Related words and differences
 
 **throughput** é a quantidade de trabalho concluída; **capacity** é o limite máximo que o sistema pode suportar.
-

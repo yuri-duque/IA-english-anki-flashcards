@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422233'
 ---
 
 # technical debt
@@ -56,4 +57,3 @@ _Reservamos tempo para reduzir a dívida técnica no serviço de autenticação.
 ### Related words and differences
 
 **technical debt** é uma metáfora para custos futuros de manutenção; **bug** é um defeito específico no comportamento do software.
-

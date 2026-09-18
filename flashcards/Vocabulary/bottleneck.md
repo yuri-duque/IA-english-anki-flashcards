@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421385'
 ---
 
 # bottleneck
@@ -9,19 +10,19 @@ anki: false
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** **bottleneck** — termo técnico.
-- **CommonExpressions:** **improve bottleneck** — melhorar identificar o componente limitante; **bottleneck target** — meta de identificar o componente limitante.
-- **RelatedWords:** **bottleneck** descreve identificar o componente limitante; não é sinônimo automático de conceitos próximos.
+- **WordFamily:** **bottleneck** — termo técnico; **related adjective** — forma adjetiva.
+- **CommonExpressions:** **improve bottleneck** — melhorar gargalo; **bottleneck target** — meta de gargalo.
+- **RelatedWords:** **Bottleneck** é o limite sistêmico; **hot spot** é uma região carregada que pode causá-lo.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 - **Word:** bottleneck
-- **Meaning:** **identificar o componente limitante**
+- **Meaning:** **gargalo**
 - **PartOfSpeech:** noun
-- **Definition:** The ability to deal effectively with identificar o componente limitante.
-- **Example:** The architecture improved <b>bottleneck</b> under a measured production constraint.
-- **ExampleTranslation:** A arquitetura melhorou identificar o componente limitante sob uma restrição de produção medida.
-- **HowToUse:** Use **bottleneck** em discussões técnicas para falar de identificar o componente limitante.
+- **Definition:** A component or step that limits the throughput of an entire system.
+- **Example:** The shared connection pool became a throughput <b>bottleneck</b>.
+- **ExampleTranslation:** _Exemplo técnico sobre gargalo._
+- **HowToUse:** Use **bottleneck** em discussões de arquitetura e operação para falar de gargalo.
 
 ## Frente
 
@@ -33,35 +34,34 @@ anki: false
 
 ## Verso
 
-**identificar o componente limitante**
+**gargalo**
 
 _noun_
 
-> The ability to deal effectively with identificar o componente limitante.
+> A component or step that limits the throughput of an entire system.
 
 ### How to use
 
-Use **bottleneck** em discussões técnicas para falar de identificar o componente limitante.
+Use **bottleneck** em discussões de arquitetura e operação para falar de gargalo.
 
 ### Example
 
-The architecture improved <b>bottleneck</b> under a measured production constraint.
+The shared connection pool became a throughput <b>bottleneck</b>.
 
-_A arquitetura melhorou identificar o componente limitante sob uma restrição de produção medida._
+_Exemplo técnico sobre gargalo._
 
 ### Common expressions
 
-**improve bottleneck** — melhorar identificar o componente limitante; **bottleneck target** — meta de identificar o componente limitante.
+**improve bottleneck** — melhorar gargalo; **bottleneck target** — meta de gargalo.
 
 ### Word family
 
-**bottleneck** — termo técnico.
+**bottleneck** — termo técnico; **related adjective** — forma adjetiva.
 
 ### Related words and differences
 
-**bottleneck** descreve identificar o componente limitante; não é sinônimo automático de conceitos próximos.
+**Bottleneck** é o limite sistêmico; **hot spot** é uma região carregada que pode causá-lo.
 
 ### Source
 
 Lista de estudo para entrevistas de desenvolvimento sênior.
-

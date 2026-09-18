@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699428082'
 ---
 
 # several of my friends — Production 3

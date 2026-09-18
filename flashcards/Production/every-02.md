@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699425233'
 ---
+
 # every — Production 2
 ## Dados da nota
 - **Prompt:** Num aviso da escola, como dizer “Todo aluno deve assinar o formulário”?

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422083'
 ---
 
 # resilience
@@ -9,19 +10,19 @@ anki: false
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** **resilience** — termo técnico.
-- **CommonExpressions:** **improve resilience** — melhorar recuperar-se de uma queda regional; **resilience target** — meta de recuperar-se de uma queda regional.
-- **RelatedWords:** **resilience** descreve recuperar-se de uma queda regional; não é sinônimo automático de conceitos próximos.
+- **WordFamily:** **resilience** — termo técnico; **related adjective** — forma adjetiva.
+- **CommonExpressions:** **improve resilience** — melhorar resiliência; **resilience target** — meta de resiliência.
+- **RelatedWords:** **Resilience** inclui recuperação; **fault tolerance** enfatiza continuar sem interrupção.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 - **Word:** resilience
-- **Meaning:** **recuperar-se de uma queda regional**
+- **Meaning:** **resiliência**
 - **PartOfSpeech:** noun
-- **Definition:** The ability to deal effectively with recuperar-se de uma queda regional.
-- **Example:** The architecture improved <b>resilience</b> under a measured production constraint.
-- **ExampleTranslation:** A arquitetura melhorou recuperar-se de uma queda regional sob uma restrição de produção medida.
-- **HowToUse:** Use **resilience** em discussões técnicas para falar de recuperar-se de uma queda regional.
+- **Definition:** The ability to absorb disruption, recover, and continue providing service.
+- **Example:** Checkpointing let the worker recover with greater <b>resilience</b> after restarts.
+- **ExampleTranslation:** _Exemplo técnico sobre resiliência._
+- **HowToUse:** Use **resilience** em discussões de arquitetura e operação para falar de resiliência.
 
 ## Frente
 
@@ -33,35 +34,34 @@ anki: false
 
 ## Verso
 
-**recuperar-se de uma queda regional**
+**resiliência**
 
 _noun_
 
-> The ability to deal effectively with recuperar-se de uma queda regional.
+> The ability to absorb disruption, recover, and continue providing service.
 
 ### How to use
 
-Use **resilience** em discussões técnicas para falar de recuperar-se de uma queda regional.
+Use **resilience** em discussões de arquitetura e operação para falar de resiliência.
 
 ### Example
 
-The architecture improved <b>resilience</b> under a measured production constraint.
+Checkpointing let the worker recover with greater <b>resilience</b> after restarts.
 
-_A arquitetura melhorou recuperar-se de uma queda regional sob uma restrição de produção medida._
+_Exemplo técnico sobre resiliência._
 
 ### Common expressions
 
-**improve resilience** — melhorar recuperar-se de uma queda regional; **resilience target** — meta de recuperar-se de uma queda regional.
+**improve resilience** — melhorar resiliência; **resilience target** — meta de resiliência.
 
 ### Word family
 
-**resilience** — termo técnico.
+**resilience** — termo técnico; **related adjective** — forma adjetiva.
 
 ### Related words and differences
 
-**resilience** descreve recuperar-se de uma queda regional; não é sinônimo automático de conceitos próximos.
+**Resilience** inclui recuperação; **fault tolerance** enfatiza continuar sem interrupção.
 
 ### Source
 
 Lista de estudo para entrevistas de desenvolvimento sênior.
-

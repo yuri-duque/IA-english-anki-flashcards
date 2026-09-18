@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424850'
 ---
+
 # each — Production 2
 ## Dados da nota
 - **Prompt:** Ao dividir os ingressos igualmente, como dizer “Eles receberam dois ingressos cada um”?

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424533'
 ---
 
 # constraint — Production 1
@@ -54,4 +55,3 @@ _O orçamento foi outra restrição importante._
 ### Common mistakes
 
 Não use <b>constraint</b> como sinônimo de problema; ele é um limite de contexto.
-

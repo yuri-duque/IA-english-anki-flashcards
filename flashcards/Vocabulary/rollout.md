@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422100'
 ---
 
 # rollout
@@ -60,4 +61,3 @@ _Usamos uma liberação gradual para monitorar erros antes do lançamento comple
 ### Related words and differences
 
 **rollout** descreve a forma de liberar uma mudança; **deployment** é o processo técnico de publicá-la.
-

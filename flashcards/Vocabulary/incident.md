@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421601'
 ---
 
 # incident
@@ -60,4 +61,3 @@ _O engenheiro de plantão coordenou a resposta ao incidente._
 ### Related words and differences
 
 **incident** descreve o evento operacional; **outage** é um tipo de incidente com indisponibilidade significativa.
-

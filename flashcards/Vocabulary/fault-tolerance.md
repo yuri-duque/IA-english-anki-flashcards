@@ -1,27 +1,28 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421534'
 ---
 
-# fault-tolerance
+# fault tolerance
 
 ## Dados da nota
 
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** **fault tolerance** — termo técnico.
-- **CommonExpressions:** **improve fault tolerance** — melhorar continuar quando uma réplica falha; **fault tolerance target** — meta de continuar quando uma réplica falha.
-- **RelatedWords:** **fault tolerance** descreve continuar quando uma réplica falha; não é sinônimo automático de conceitos próximos.
+- **WordFamily:** **fault tolerance** — termo técnico; **fault-tolerant** — forma adjetiva.
+- **CommonExpressions:** **improve fault tolerance** — melhorar tolerância a falhas; **fault tolerance target** — meta de tolerância a falhas.
+- **RelatedWords:** Escreva **fault tolerance** em duas palavras; **fault-tolerant** é o adjetivo.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 - **Word:** fault tolerance
-- **Meaning:** **continuar quando uma réplica falha**
+- **Meaning:** **tolerância a falhas**
 - **PartOfSpeech:** noun
-- **Definition:** The ability to deal effectively with continuar quando uma réplica falha.
-- **Example:** The architecture improved <b>fault tolerance</b> under a measured production constraint.
-- **ExampleTranslation:** A arquitetura melhorou continuar quando uma réplica falha sob uma restrição de produção medida.
-- **HowToUse:** Use **fault tolerance** em discussões técnicas para falar de continuar quando uma réplica falha.
+- **Definition:** The ability to continue operating when specified component failures occur.
+- **Example:** Quorum writes provided <b>fault tolerance</b> when one replica failed.
+- **ExampleTranslation:** _Exemplo técnico sobre tolerância a falhas._
+- **HowToUse:** Use **fault tolerance** em discussões de arquitetura e operação para falar de tolerância a falhas.
 
 ## Frente
 
@@ -33,35 +34,34 @@ anki: false
 
 ## Verso
 
-**continuar quando uma réplica falha**
+**tolerância a falhas**
 
 _noun_
 
-> The ability to deal effectively with continuar quando uma réplica falha.
+> The ability to continue operating when specified component failures occur.
 
 ### How to use
 
-Use **fault tolerance** em discussões técnicas para falar de continuar quando uma réplica falha.
+Use **fault tolerance** em discussões de arquitetura e operação para falar de tolerância a falhas.
 
 ### Example
 
-The architecture improved <b>fault tolerance</b> under a measured production constraint.
+Quorum writes provided <b>fault tolerance</b> when one replica failed.
 
-_A arquitetura melhorou continuar quando uma réplica falha sob uma restrição de produção medida._
+_Exemplo técnico sobre tolerância a falhas._
 
 ### Common expressions
 
-**improve fault tolerance** — melhorar continuar quando uma réplica falha; **fault tolerance target** — meta de continuar quando uma réplica falha.
+**improve fault tolerance** — melhorar tolerância a falhas; **fault tolerance target** — meta de tolerância a falhas.
 
 ### Word family
 
-**fault tolerance** — termo técnico.
+**fault tolerance** — termo técnico; **fault-tolerant** — forma adjetiva.
 
 ### Related words and differences
 
-**fault tolerance** descreve continuar quando uma réplica falha; não é sinônimo automático de conceitos próximos.
+Escreva **fault tolerance** em duas palavras; **fault-tolerant** é o adjetivo.
 
 ### Source
 
 Lista de estudo para entrevistas de desenvolvimento sênior.
-

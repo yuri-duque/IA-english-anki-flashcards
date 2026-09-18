@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423600'
 ---
 
 # lots of people — Production 3

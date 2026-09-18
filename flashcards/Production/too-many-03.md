@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699428583'
 ---
 
 # too many tasks to finish — Production 3

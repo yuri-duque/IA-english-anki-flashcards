@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423983'
 ---
 
 # ambiguity — Production 2
@@ -54,4 +55,3 @@ _Exemplos podem reduzir a ambiguidade na documentação._
 ### Common mistakes
 
 Não diga “remove the ambiguous”; use <b>ambiguity</b> como substantivo.
-

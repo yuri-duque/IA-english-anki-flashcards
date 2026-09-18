@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424000'
 ---
 
 # ambiguity — Production 3
@@ -54,4 +55,3 @@ _Um código de status ambíguo pode confundir consumidores da API._
 ### Common mistakes
 
 Não use <b>ambiguity</b> como adjetivo; use <b>ambiguous</b>.
-

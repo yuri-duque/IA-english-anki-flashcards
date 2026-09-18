@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423450'
 ---
 
 # a few of them — Production 3

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699426432'
 ---
 
 # most students — Production 1

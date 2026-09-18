@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422183'
 ---
 
 # scope
@@ -61,4 +62,3 @@ _Concordamos sobre o escopo antes de estimar a migração._
 ### Related words and differences
 
 **requirement** descreve o que é necessário; **scope** define o que será incluído no trabalho.
-

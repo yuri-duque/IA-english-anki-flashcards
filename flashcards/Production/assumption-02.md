@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424101'
 ---
 
 # assumption — Production 2
@@ -54,4 +55,3 @@ _Validamos a suposição com um pequeno protótipo._
 ### Common mistakes
 
 Não use <b>challenge</b> para atacar uma pessoa; aqui ele questiona uma ideia.
-

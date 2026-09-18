@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422625'
 ---
 
 # I mentored engineers and helped unblock the team

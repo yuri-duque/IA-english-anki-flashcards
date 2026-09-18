@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424833'
 ---
+
 # each — Production 1
 ## Dados da nota
 - **Prompt:** Na distribuição de materiais, como dizer “Cada funcionário recebeu um crachá”?

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422734'
 ---
 
 # I took ownership of the migration

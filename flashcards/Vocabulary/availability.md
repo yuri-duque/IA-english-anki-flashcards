@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421352'
 ---
 
 # availability
@@ -9,19 +10,19 @@ anki: false
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** **availability** — termo técnico.
-- **CommonExpressions:** **improve availability** — melhorar manter acesso durante manutenção; **availability target** — meta de manter acesso durante manutenção.
-- **RelatedWords:** **availability** descreve manter acesso durante manutenção; não é sinônimo automático de conceitos próximos.
+- **WordFamily:** **availability** — termo técnico; **related adjective** — forma adjetiva.
+- **CommonExpressions:** **improve availability** — melhorar disponibilidade; **availability target** — meta de disponibilidade.
+- **RelatedWords:** **Availability** é acesso contínuo; um serviço disponível ainda pode retornar dados errados.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 - **Word:** availability
-- **Meaning:** **manter acesso durante manutenção**
+- **Meaning:** **disponibilidade**
 - **PartOfSpeech:** noun
-- **Definition:** The ability to deal effectively with manter acesso durante manutenção.
-- **Example:** The architecture improved <b>availability</b> under a measured production constraint.
-- **ExampleTranslation:** A arquitetura melhorou manter acesso durante manutenção sob uma restrição de produção medida.
-- **HowToUse:** Use **availability** em discussões técnicas para falar de manter acesso durante manutenção.
+- **Definition:** The proportion of time a service is accessible and operational.
+- **Example:** Multi-zone deployment protected checkout <b>availability</b> during maintenance.
+- **ExampleTranslation:** _Exemplo técnico sobre disponibilidade._
+- **HowToUse:** Use **availability** em discussões de arquitetura e operação para falar de disponibilidade.
 
 ## Frente
 
@@ -33,35 +34,34 @@ anki: false
 
 ## Verso
 
-**manter acesso durante manutenção**
+**disponibilidade**
 
 _noun_
 
-> The ability to deal effectively with manter acesso durante manutenção.
+> The proportion of time a service is accessible and operational.
 
 ### How to use
 
-Use **availability** em discussões técnicas para falar de manter acesso durante manutenção.
+Use **availability** em discussões de arquitetura e operação para falar de disponibilidade.
 
 ### Example
 
-The architecture improved <b>availability</b> under a measured production constraint.
+Multi-zone deployment protected checkout <b>availability</b> during maintenance.
 
-_A arquitetura melhorou manter acesso durante manutenção sob uma restrição de produção medida._
+_Exemplo técnico sobre disponibilidade._
 
 ### Common expressions
 
-**improve availability** — melhorar manter acesso durante manutenção; **availability target** — meta de manter acesso durante manutenção.
+**improve availability** — melhorar disponibilidade; **availability target** — meta de disponibilidade.
 
 ### Word family
 
-**availability** — termo técnico.
+**availability** — termo técnico; **related adjective** — forma adjetiva.
 
 ### Related words and differences
 
-**availability** descreve manter acesso durante manutenção; não é sinônimo automático de conceitos próximos.
+**Availability** é acesso contínuo; um serviço disponível ainda pode retornar dados errados.
 
 ### Source
 
 Lista de estudo para entrevistas de desenvolvimento sênior.
-

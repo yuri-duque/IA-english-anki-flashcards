@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699425250'
 ---
+
 # every — Production 3
 ## Dados da nota
 - **Prompt:** Descrevendo um padrão do trânsito, como dizer “Toda vez que chove, o trânsito piora”?

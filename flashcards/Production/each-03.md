@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424883'
 ---
+
 # each — Production 3
 ## Dados da nota
 - **Prompt:** Falando de um grupo específico de crianças, como dizer “Cada uma delas ganhou um prêmio”?

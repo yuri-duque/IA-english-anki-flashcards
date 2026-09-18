@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699427582'
 ---
 
 # requirement — Production 1
@@ -54,4 +55,3 @@ _Verificamos cada requisito de segurança antes do lançamento._
 ### Common mistakes
 
 Não use <b>requirement</b> como verbo; use <b>require</b>.
-

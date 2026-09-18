@@ -1,19 +1,20 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699426784'
 ---
 
 # observability — Production 2
 
 ## Dados da nota
 
-- **Prompt:** Como dizer em inglês que você precisa encontrar a dependência causadora do erro?
+- **Prompt:** Como dizer em inglês que você precisa encontrar a dependência causadora do erro durante uma revisão de arquitetura?
 - **Context:** Entrevista técnica sênior; explique a decisão e seu impacto mensurável.
-- **Answer:** The team used <b>observability</b> to address this senior engineering situation.
+- **Answer:** We discussed <b>observability</b> during the architecture review.
 - **PossibleAnswers:** The team improved <b>observability</b> through a focused engineering change.
 - **Focus:** observability
 - **HowToUse:** Use <b>observability</b> em entrevistas para falar de encontrar a dependência causadora do erro.
-- **Example:** We improved <b>observability</b> after measuring the impact on the service.
-- **ExampleTranslation:** Melhoramos encontrar a dependência causadora do erro depois de medir o impacto no serviço.
+- **Example:** The design review connected <b>observability</b> to a concrete trade-off.
+- **ExampleTranslation:** Exemplo técnico sobre encontrar a dependência causadora do erro.
 - **CommonMistakes:** Não confunda <b>observability</b> com conceitos próximos.
 - **Source:** Entrevista técnica de engenharia de software sênior.
 
@@ -21,7 +22,7 @@ anki: false
 
 ### ENGLISH · PRODUCTION
 
-Como dizer em inglês que você precisa encontrar a dependência causadora do erro?
+Como dizer em inglês que você precisa encontrar a dependência causadora do erro durante uma revisão de arquitetura?
 
 _Contexto: Entrevista técnica sênior; explique a decisão e seu impacto mensurável._
 
@@ -31,7 +32,7 @@ _Contexto: Entrevista técnica sênior; explique a decisão e seu impacto mensur
 
 ### Answer
 
-The team used <b>observability</b> to address this senior engineering situation.
+We discussed <b>observability</b> during the architecture review.
 
 ### Other natural answers
 
@@ -47,9 +48,9 @@ Use <b>observability</b> em entrevistas para falar de encontrar a dependência c
 
 ### Example
 
-We improved <b>observability</b> after measuring the impact on the service.
+The design review connected <b>observability</b> to a concrete trade-off.
 
-_Melhoramos encontrar a dependência causadora do erro depois de medir o impacto no serviço._
+_Exemplo técnico sobre encontrar a dependência causadora do erro._
 
 ### Common mistakes
 
@@ -58,4 +59,3 @@ Não confunda <b>observability</b> com conceitos próximos.
 ### Source
 
 Entrevista técnica de engenharia de software sênior.
-

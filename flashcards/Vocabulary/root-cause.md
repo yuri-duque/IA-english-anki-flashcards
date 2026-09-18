@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422133'
 ---
 
 # root cause
@@ -56,4 +57,3 @@ _A causa raiz foi uma alteração de configuração que ignorou a validação._
 ### Related words and differences
 
 **root cause** é a origem fundamental; **symptom** é o efeito visível do problema.
-

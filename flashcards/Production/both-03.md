@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424350'
 ---
+
 # both — Production 3
 ## Dados da nota
 - **Prompt:** Numa recomendação, como dizer “O curso é tanto prático quanto acessível”?

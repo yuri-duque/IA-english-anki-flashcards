@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699425183'
 ---
 
 # even though — Production 3

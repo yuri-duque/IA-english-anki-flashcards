@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699428015'
 ---
 
 # scope — Production 3
@@ -54,4 +55,3 @@ _Critérios de aceitação claros ajudaram a evitar aumento descontrolado de esc
 ### Common mistakes
 
 Não use <b>scope creep</b> para uma mudança aprovada formalmente.
-

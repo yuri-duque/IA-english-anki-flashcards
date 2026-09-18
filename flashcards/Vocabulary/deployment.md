@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421485'
 ---
 
 # deployment
@@ -60,4 +61,3 @@ _A implantação foi concluída sem indisponibilidade._
 ### Related words and differences
 
 **deployment** é o ato de publicar uma versão; **rollout** enfatiza sua liberação gradual para usuários.
-

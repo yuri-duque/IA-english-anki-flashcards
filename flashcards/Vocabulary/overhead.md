@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421884'
 ---
 
 # overhead
@@ -56,4 +57,3 @@ _A serialização adiciona alguma sobrecarga a cada requisição._
 ### Related words and differences
 
 **overhead** é o custo adicional de uma operação; **bottleneck** é o ponto que limita o desempenho do sistema.
-

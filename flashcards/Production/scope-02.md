@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699427982'
 ---
 
 # scope — Production 2
@@ -54,4 +55,3 @@ _Documentamos quais itens estavam dentro e fora do escopo._
 ### Common mistakes
 
 Não diga “outside the scope” sem contexto; <b>out of scope</b> é a forma mais comum.
-

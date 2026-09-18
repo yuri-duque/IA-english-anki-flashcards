@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423850'
 ---
+
 # all — Production 3
 ## Dados da nota
 - **Prompt:** Falando de três colegas já mencionados, como dizer “Todos eles concordaram”?

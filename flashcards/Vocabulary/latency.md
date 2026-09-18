@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421652'
 ---
 
 # latency
@@ -60,4 +61,3 @@ _Reduzimos a latência da API armazenando em cache as requisições frequentes._
 ### Related words and differences
 
 **throughput** mede quantas operações um sistema processa; **latency** mede quanto tempo uma operação leva.
-

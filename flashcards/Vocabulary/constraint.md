@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421434'
 ---
 
 # constraint
@@ -61,4 +62,3 @@ _O time escolheu um design mais simples por causa da restrição de tempo._
 ### Related words and differences
 
 **constraint** limita as opções disponíveis; **requirement** define algo que a solução deve cumprir.
-

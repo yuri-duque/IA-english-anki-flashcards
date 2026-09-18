@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421334'
 ---
 
 # assumption
@@ -61,4 +62,3 @@ _Nossa estimativa de custo depende da suposição de que o tráfego permanecerá
 ### Related words and differences
 
 **assumption** é algo aceito como verdadeiro sem prova completa; **fact** é algo confirmado.
-

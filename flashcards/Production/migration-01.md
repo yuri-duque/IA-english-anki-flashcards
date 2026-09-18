@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699426283'
 ---
 
 # migration — Production 1

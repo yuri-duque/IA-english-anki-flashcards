@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699427615'
 ---
 
 # requirement — Production 2
@@ -54,4 +55,3 @@ _Disponibilidade é outro requisito não funcional._
 ### Common mistakes
 
 Não confunda <b>functional</b> com <b>non-functional</b>: o segundo descreve qualidades do sistema.
-

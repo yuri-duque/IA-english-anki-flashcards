@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424300'
 ---
+
 # both — Production 1
 ## Dados da nota
 - **Prompt:** Há exatamente dois caminhos e os dois estão abertos: como dizer “Ambos os caminhos estão abertos”?

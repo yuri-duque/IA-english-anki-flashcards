@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421983'
 ---
 
 # refactor
@@ -60,4 +61,3 @@ _Refatoramos o módulo de pagamento antes de adicionar novas regras._
 ### Related words and differences
 
 **refactor** preserva o comportamento externo; **rewrite** substitui uma parte ou todo o código por uma implementação nova.
-

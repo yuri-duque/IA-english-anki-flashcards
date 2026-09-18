@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699426966'
 ---
 
 # outcome — Production 3

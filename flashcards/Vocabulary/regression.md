@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422000'
 ---
 
 # regression
@@ -60,4 +61,3 @@ _A versão introduziu uma regressão no fluxo de checkout._
 ### Related words and differences
 
 **regression** é um problema novo causado por uma alteração; **incident** é um evento que afeta a operação e pode ter várias causas.
-

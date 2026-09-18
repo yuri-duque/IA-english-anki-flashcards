@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424083'
 ---
 
 # assumption — Production 1
@@ -54,4 +55,3 @@ _Nosso cronograma depende da suposição de que o fornecedor responderá esta se
 ### Common mistakes
 
 Não trate uma <b>assumption</b> como fato confirmado.
-

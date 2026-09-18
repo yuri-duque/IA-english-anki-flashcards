@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424133'
 ---
 
 # assumption — Production 3
@@ -54,4 +55,3 @@ _Premissas documentadas tornam os riscos mais fáceis de revisar._
 ### Common mistakes
 
 Não confunda <b>assumptions</b> com requisitos confirmados.
-

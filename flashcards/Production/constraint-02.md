@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424550'
 ---
 
 # constraint — Production 2
@@ -54,4 +55,3 @@ _O design funciona dentro das nossas restrições operacionais._
 ### Common mistakes
 
 Use o plural <b>constraints</b> quando houver mais de uma limitação.
-

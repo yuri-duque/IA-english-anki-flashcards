@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421751'
 ---
 
 # migration
@@ -60,4 +61,3 @@ _A migração do banco de dados exigiu um plano de reversão._
 ### Related words and differences
 
 **migration** move algo para um novo destino; **deployment** publica uma versão no ambiente-alvo.
-

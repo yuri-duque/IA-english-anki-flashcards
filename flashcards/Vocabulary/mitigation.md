@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421785'
 ---
 
 # mitigation
@@ -60,4 +61,3 @@ _A limitação de taxa foi nossa principal mitigação para o pico de tráfego._
 ### Related words and differences
 
 **mitigation** reduz o impacto ou a probabilidade de um problema; **resolution** elimina ou corrige sua causa.
-

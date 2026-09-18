@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699426615'
 ---
 
 # neither ... nor — Production 2

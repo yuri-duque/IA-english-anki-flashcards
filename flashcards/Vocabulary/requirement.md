@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699422066'
 ---
 
 # requirement
@@ -61,4 +62,3 @@ _O serviço precisa atender aos requisitos de segurança antes do lançamento._
 ### Related words and differences
 
 **requirement** é uma necessidade obrigatória; **preference** é algo desejável, mas não obrigatório.
-

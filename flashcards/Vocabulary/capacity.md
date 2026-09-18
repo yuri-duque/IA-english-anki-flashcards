@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421401'
 ---
 
 # capacity
@@ -60,4 +61,3 @@ _Adicionamos servidores antes de a aplicação atingir sua capacidade._
 ### Related words and differences
 
 **capacity** é o máximo que pode ser atendido; **throughput** é o volume que está sendo processado de fato.
-

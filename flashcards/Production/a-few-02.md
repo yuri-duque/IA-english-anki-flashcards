@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423425'
 ---
 
 # a few more chairs — Production 2

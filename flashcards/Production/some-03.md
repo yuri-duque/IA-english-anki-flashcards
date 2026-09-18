@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699428183'
 ---
 
 # some coffee — Production 3

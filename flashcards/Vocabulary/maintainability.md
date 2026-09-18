@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421702'
 ---
 
 # maintainability
@@ -9,19 +10,19 @@ anki: false
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** **maintainability** — termo técnico.
-- **CommonExpressions:** **improve maintainability** — melhorar alterar um módulo com segurança; **maintainability target** — meta de alterar um módulo com segurança.
-- **RelatedWords:** **maintainability** descreve alterar um módulo com segurança; não é sinônimo automático de conceitos próximos.
+- **WordFamily:** **maintainability** — termo técnico; **related adjective** — forma adjetiva.
+- **CommonExpressions:** **improve maintainability** — melhorar manutenibilidade; **maintainability target** — meta de manutenibilidade.
+- **RelatedWords:** **Maintainability** inclui mudança e reparo; **readability** é apenas facilidade de leitura.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 - **Word:** maintainability
-- **Meaning:** **alterar um módulo com segurança**
+- **Meaning:** **manutenibilidade**
 - **PartOfSpeech:** noun
-- **Definition:** The ability to deal effectively with alterar um módulo com segurança.
-- **Example:** The architecture improved <b>maintainability</b> under a measured production constraint.
-- **ExampleTranslation:** A arquitetura melhorou alterar um módulo com segurança sob uma restrição de produção medida.
-- **HowToUse:** Use **maintainability** em discussões técnicas para falar de alterar um módulo com segurança.
+- **Definition:** The ease of understanding, changing, and repairing a system safely.
+- **Example:** Small modules and contract tests improved code <b>maintainability</b>.
+- **ExampleTranslation:** _Exemplo técnico sobre manutenibilidade._
+- **HowToUse:** Use **maintainability** em discussões de arquitetura e operação para falar de manutenibilidade.
 
 ## Frente
 
@@ -33,35 +34,34 @@ anki: false
 
 ## Verso
 
-**alterar um módulo com segurança**
+**manutenibilidade**
 
 _noun_
 
-> The ability to deal effectively with alterar um módulo com segurança.
+> The ease of understanding, changing, and repairing a system safely.
 
 ### How to use
 
-Use **maintainability** em discussões técnicas para falar de alterar um módulo com segurança.
+Use **maintainability** em discussões de arquitetura e operação para falar de manutenibilidade.
 
 ### Example
 
-The architecture improved <b>maintainability</b> under a measured production constraint.
+Small modules and contract tests improved code <b>maintainability</b>.
 
-_A arquitetura melhorou alterar um módulo com segurança sob uma restrição de produção medida._
+_Exemplo técnico sobre manutenibilidade._
 
 ### Common expressions
 
-**improve maintainability** — melhorar alterar um módulo com segurança; **maintainability target** — meta de alterar um módulo com segurança.
+**improve maintainability** — melhorar manutenibilidade; **maintainability target** — meta de manutenibilidade.
 
 ### Word family
 
-**maintainability** — termo técnico.
+**maintainability** — termo técnico; **related adjective** — forma adjetiva.
 
 ### Related words and differences
 
-**maintainability** descreve alterar um módulo com segurança; não é sinônimo automático de conceitos próximos.
+**Maintainability** inclui mudança e reparo; **readability** é apenas facilidade de leitura.
 
 ### Source
 
 Lista de estudo para entrevistas de desenvolvimento sênior.
-

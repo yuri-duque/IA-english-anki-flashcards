@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699426832'
 ---
 
 # optimize — Production 1

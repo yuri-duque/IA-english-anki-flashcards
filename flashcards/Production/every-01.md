@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699425199'
 ---
+
 # every — Production 1
 ## Dados da nota
 - **Prompt:** Como registrar uma rotina diária: “Eu tomo este remédio todos os dias”?

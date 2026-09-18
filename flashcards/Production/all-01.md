@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423800'
 ---
+
 # all — Production 1
 ## Dados da nota
 - **Prompt:** Numa reunião, nenhum participante faltou: como dizer “Todos os participantes chegaram”?

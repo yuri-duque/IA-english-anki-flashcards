@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699427632'
 ---
 
 # requirement — Production 3
@@ -54,4 +55,3 @@ _O time documentou o requisito em um critério de aceitação._
 ### Common mistakes
 
 Evite dizer “explain the requirement” quando o problema é falta de precisão; <b>clarify</b> é melhor.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421685'
 ---
 
 # load
@@ -60,4 +61,3 @@ _Executamos um teste de carga antes de liberar a funcionalidade para todos os us
 ### Related words and differences
 
 **load** é a demanda aplicada; **stress** é uma carga deliberadamente extrema usada para testar limites.
-

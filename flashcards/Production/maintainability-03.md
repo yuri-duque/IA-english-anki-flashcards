@@ -1,19 +1,20 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699426033'
 ---
 
 # maintainability — Production 3
 
 ## Dados da nota
 
-- **Prompt:** Como dizer em inglês que você precisa alterar um módulo com segurança?
+- **Prompt:** Como dizer em inglês que você precisa alterar um módulo com segurança ao definir um objetivo mensurável para o próximo trimestre?
 - **Context:** Entrevista técnica sênior; explique a decisão e seu impacto mensurável.
-- **Answer:** The team used <b>maintainability</b> to address this senior engineering situation.
+- **Answer:** The service goal depends on measurable <b>maintainability</b>.
 - **PossibleAnswers:** The team improved <b>maintainability</b> through a focused engineering change.
 - **Focus:** maintainability
 - **HowToUse:** Use <b>maintainability</b> em entrevistas para falar de alterar um módulo com segurança.
-- **Example:** We improved <b>maintainability</b> after measuring the impact on the service.
-- **ExampleTranslation:** Melhoramos alterar um módulo com segurança depois de medir o impacto no serviço.
+- **Example:** We tracked <b>maintainability</b> with a service-level metric.
+- **ExampleTranslation:** Exemplo técnico sobre alterar um módulo com segurança.
 - **CommonMistakes:** Não confunda <b>maintainability</b> com conceitos próximos.
 - **Source:** Entrevista técnica de engenharia de software sênior.
 
@@ -21,7 +22,7 @@ anki: false
 
 ### ENGLISH · PRODUCTION
 
-Como dizer em inglês que você precisa alterar um módulo com segurança?
+Como dizer em inglês que você precisa alterar um módulo com segurança ao definir um objetivo mensurável para o próximo trimestre?
 
 _Contexto: Entrevista técnica sênior; explique a decisão e seu impacto mensurável._
 
@@ -31,7 +32,7 @@ _Contexto: Entrevista técnica sênior; explique a decisão e seu impacto mensur
 
 ### Answer
 
-The team used <b>maintainability</b> to address this senior engineering situation.
+The service goal depends on measurable <b>maintainability</b>.
 
 ### Other natural answers
 
@@ -47,9 +48,9 @@ Use <b>maintainability</b> em entrevistas para falar de alterar um módulo com s
 
 ### Example
 
-We improved <b>maintainability</b> after measuring the impact on the service.
+We tracked <b>maintainability</b> with a service-level metric.
 
-_Melhoramos alterar um módulo com segurança depois de medir o impacto no serviço._
+_Exemplo técnico sobre alterar um módulo com segurança._
 
 ### Common mistakes
 
@@ -58,4 +59,3 @@ Não confunda <b>maintainability</b> com conceitos próximos.
 ### Source
 
 Entrevista técnica de engenharia de software sênior.
-

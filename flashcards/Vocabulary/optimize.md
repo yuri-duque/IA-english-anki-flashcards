@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421834'
 ---
 
 # optimize
@@ -60,4 +61,3 @@ _Otimizamos a consulta para reduzir leituras no banco de dados._
 ### Related words and differences
 
 **optimize** melhora algo dentro de uma meta; **refactor** melhora a estrutura do código sem necessariamente visar desempenho.
-

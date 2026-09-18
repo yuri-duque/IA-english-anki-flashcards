@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423833'
 ---
+
 # all — Production 2
 ## Dados da nota
 - **Prompt:** Depois de esvaziar o tanque, como dizer “Toda a gasolina acabou”?

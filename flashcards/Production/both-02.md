@@ -1,6 +1,8 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699424333'
 ---
+
 # both — Production 2
 ## Dados da nota
 - **Prompt:** Falando dos seus dois pais, como dizer “Ambos os meus pais falam inglês”?

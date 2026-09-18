@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699425400'
 ---
 
 # very few candidates — Production 3

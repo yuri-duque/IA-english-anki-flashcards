@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699421802'
 ---
 
 # observability
@@ -9,19 +10,19 @@ anki: false
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** **observability** — termo técnico.
-- **CommonExpressions:** **improve observability** — melhorar encontrar a dependência causadora do erro; **observability target** — meta de encontrar a dependência causadora do erro.
-- **RelatedWords:** **observability** descreve encontrar a dependência causadora do erro; não é sinônimo automático de conceitos próximos.
+- **WordFamily:** **observability** — termo técnico; **related adjective** — forma adjetiva.
+- **CommonExpressions:** **improve observability** — melhorar observabilidade; **observability target** — meta de observabilidade.
+- **RelatedWords:** **Monitoring** acompanha sinais conhecidos; **observability** permite investigar perguntas novas.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 - **Word:** observability
-- **Meaning:** **encontrar a dependência causadora do erro**
+- **Meaning:** **observabilidade**
 - **PartOfSpeech:** noun
-- **Definition:** The ability to deal effectively with encontrar a dependência causadora do erro.
-- **Example:** The architecture improved <b>observability</b> under a measured production constraint.
-- **ExampleTranslation:** A arquitetura melhorou encontrar a dependência causadora do erro sob uma restrição de produção medida.
-- **HowToUse:** Use **observability** em discussões técnicas para falar de encontrar a dependência causadora do erro.
+- **Definition:** The ability to infer internal state from emitted outputs.
+- **Example:** Trace propagation improved pipeline <b>observability</b> during an incident.
+- **ExampleTranslation:** _Exemplo técnico sobre observabilidade._
+- **HowToUse:** Use **observability** em discussões de arquitetura e operação para falar de observabilidade.
 
 ## Frente
 
@@ -33,35 +34,34 @@ anki: false
 
 ## Verso
 
-**encontrar a dependência causadora do erro**
+**observabilidade**
 
 _noun_
 
-> The ability to deal effectively with encontrar a dependência causadora do erro.
+> The ability to infer internal state from emitted outputs.
 
 ### How to use
 
-Use **observability** em discussões técnicas para falar de encontrar a dependência causadora do erro.
+Use **observability** em discussões de arquitetura e operação para falar de observabilidade.
 
 ### Example
 
-The architecture improved <b>observability</b> under a measured production constraint.
+Trace propagation improved pipeline <b>observability</b> during an incident.
 
-_A arquitetura melhorou encontrar a dependência causadora do erro sob uma restrição de produção medida._
+_Exemplo técnico sobre observabilidade._
 
 ### Common expressions
 
-**improve observability** — melhorar encontrar a dependência causadora do erro; **observability target** — meta de encontrar a dependência causadora do erro.
+**improve observability** — melhorar observabilidade; **observability target** — meta de observabilidade.
 
 ### Word family
 
-**observability** — termo técnico.
+**observability** — termo técnico; **related adjective** — forma adjetiva.
 
 ### Related words and differences
 
-**observability** descreve encontrar a dependência causadora do erro; não é sinônimo automático de conceitos próximos.
+**Monitoring** acompanha sinais conhecidos; **observability** permite investigar perguntas novas.
 
 ### Source
 
 Lista de estudo para entrevistas de desenvolvimento sênior.
-

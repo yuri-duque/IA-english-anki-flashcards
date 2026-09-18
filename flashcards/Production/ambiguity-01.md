@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423950'
 ---
 
 # ambiguity — Production 1
@@ -54,4 +55,3 @@ _Encontramos ambiguidade nas regras de tratamento de erros._
 ### Common mistakes
 
 Não use <b>ambiguity</b> apenas para falta de informação; ela envolve interpretações múltiplas.
-

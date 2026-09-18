@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789699423475'
 ---
 
 # a little water — Production 1
