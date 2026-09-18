@@ -127,3 +127,44 @@ Cada card criado nesta pasta deve aparecer nesta tabela. A coluna Anki é mantid
 | worry | [worry](worry.md) | ✅ |
 | so much | [so-much](so-much.md) | ✅ |
 | hurry | [hurry](hurry.md) | ✅ |
++| scope | [scope](scope.md) | ❌ |
+| requirement | [requirement](requirement.md) | ❌ |
+| constraint | [constraint](constraint.md) | ❌ |
+| assumption | [assumption](assumption.md) | ❌ |
+| ambiguity | [ambiguity](ambiguity.md) | ❌ |
+| stakeholder | [stakeholder](stakeholder.md) | ❌ |
+| trade-off | [trade-off](trade-off.md) | ❌ |
+| rationale | [rationale](rationale.md) | ❌ |
+| impact | [impact](impact.md) | ❌ |
+| outcome | [outcome](outcome.md) | ❌ |
+| ownership | [ownership](ownership.md) | ❌ |
+| accountability | [accountability](accountability.md) | ❌ |
+| prioritize | [prioritize](prioritize.md) | ❌ |
+| mentor | [mentor](mentor.md) | ❌ |
+| unblock | [unblock](unblock.md) | ❌ |
+| influence | [influence](influence.md) | ❌ |
+| align | [align](align.md) | ❌ |
+| delegate | [delegate](delegate.md) | ❌ |
+| scalability | [scalability](scalability.md) | ❌ |
+| reliability | [reliability](reliability.md) | ❌ |
+| availability | [availability](availability.md) | ❌ |
+| resilience | [resilience](resilience.md) | ❌ |
+| maintainability | [maintainability](maintainability.md) | ❌ |
+| observability | [observability](observability.md) | ❌ |
+| fault tolerance | [fault tolerance](fault-tolerance.md) | ❌ |
+| bottleneck | [bottleneck](bottleneck.md) | ❌ |
+| latency | [latency](latency.md) | ❌ |
+| throughput | [throughput](throughput.md) | ❌ |
+| capacity | [capacity](capacity.md) | ❌ |
+| load | [load](load.md) | ❌ |
+| overhead | [overhead](overhead.md) | ❌ |
+| optimize | [optimize](optimize.md) | ❌ |
+| deployment | [deployment](deployment.md) | ❌ |
+| rollout | [rollout](rollout.md) | ❌ |
+| migration | [migration](migration.md) | ❌ |
+| refactor | [refactor](refactor.md) | ❌ |
+| technical debt | [technical debt](technical-debt.md) | ❌ |
+| regression | [regression](regression.md) | ❌ |
+| incident | [incident](incident.md) | ❌ |
+| mitigation | [mitigation](mitigation.md) | ❌ |
+| root cause | [root cause](root-cause.md) | ❌ |
