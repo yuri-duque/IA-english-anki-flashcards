@@ -1,8 +1,8 @@
 # IA English Anki Flashcards
 
-Repositório dedicado ao estudo de inglês com flashcards em Markdown e sincronização opcional com o Anki Desktop por meio do AnkiConnect.
+Repository dedicated to studying English with Markdown flashcards and optional synchronization with Anki Desktop through AnkiConnect.
 
-## Estrutura
+## Structure
 
 ```text
 flashcards/
@@ -15,71 +15,71 @@ templates/
 .codex/skills/
 ```
 
-Os cards ficam em `flashcards/`. Os modelos usados para criá-los ficam centralizados em `templates/`. As notas de `Grammar Patterns` são material didático e não são sincronizadas pelo importador atual.
+Cards are stored in `flashcards/`. The templates used to create them are centralized in `templates/`. `Grammar Patterns` notes are instructional material and are not synchronized by the current importer.
 
-## Como criar flashcards
+## Creating flashcards
 
-Use as skills em `.codex/skills/`:
+Use the skills in `.codex/skills/`:
 
-- `english-flashcard-creator`: Vocabulary, Expressions, Phrasal Verbs, Sentences e Production;
-- `english-grammar-flashcard-creator`: cards de padrões gramaticais;
-- `english-grammar-topic-creator`: notas didáticas de gramática;
-- `anki-sync`: sincronização com o Anki Desktop.
+- `english-flashcard-creator`: Vocabulary, Expressions, Phrasal Verbs, Sentences, and Production;
+- `english-grammar-flashcard-creator`: grammar-pattern cards;
+- `english-grammar-topic-creator`: instructional grammar notes;
+- `anki-sync`: synchronization with Anki Desktop.
 
-O fluxo de criação é feito em duas fases: primeiro a skill analisa o item, verifica duplicatas, escolhe o template e pede aprovação; somente depois da aprovação os arquivos são criados.
+The creation workflow has two phases: first, the skill analyzes the item, checks for duplicates, selects the template, and requests approval; the files are created only after approval.
 
-Para cada novo card de `Vocabulary`, crie também pelo menos três cards distintos em `Production`, com prompts ou situações diferentes.
+For each new `Vocabulary` card, also create at least three distinct `Production` cards with different prompts or situations.
 
-Todo card deve:
+Every card must:
 
-1. seguir o template do deck;
-2. começar com frontmatter YAML contendo `anki: false`;
-3. conter as seções `Dados da nota`, `Frente` e `Verso`;
-4. ser incluído no `index.md` do respectivo deck.
+1. follow the deck template;
+2. begin with YAML front matter containing `anki: false`;
+3. contain the `Dados da nota`, `Frente`, and `Verso` sections;
+4. be included in the `index.md` file for its respective deck.
 
-Depois que o Anki aceitar a nota, o sincronizador adiciona `anki_note_id` e muda `anki` para `true`. Não altere esses campos manualmente.
+After Anki accepts the note, the synchronizer adds `anki_note_id` and changes `anki` to `true`. Do not edit these fields manually.
 
 ## Templates
 
 | Template | Uso |
 |---|---|
-| `templates/vocabulary-template.md` | Palavras e termos lexicais |
-| `templates/sentences-template.md` | Frases completas |
-| `templates/expressions-template.md` | Expressões fixas e idiomáticas |
-| `templates/phrasal-verbs-template.md` | Verbos frasais |
-| `templates/production-template.md` | Produção ativa a partir de português, contexto ou intenção |
-| `templates/grammar-patterns-template.md` | Padrões gramaticais para completar lacunas |
-| `templates/didactic-note-template.md` | Notas didáticas de gramática |
+| `templates/vocabulary-template.md` | Words and lexical terms |
+| `templates/sentences-template.md` | Complete sentences |
+| `templates/expressions-template.md` | Fixed and idiomatic expressions |
+| `templates/phrasal-verbs-template.md` | Phrasal verbs |
+| `templates/production-template.md` | Active production from Portuguese, context, or intent |
+| `templates/grammar-patterns-template.md` | Grammar patterns for filling in the blanks |
+| `templates/didactic-note-template.md` | Instructional grammar notes |
 
-Leia o template correspondente antes de criar ou atualizar uma nota. O HTML/CSS do Anki pertence ao modelo do Anki; os arquivos Markdown devem permanecer fáceis de revisar.
+Read the corresponding template before creating or updating a note. Anki's HTML/CSS belongs to the Anki model; Markdown files should remain easy to review.
 
-## Configuração do AnkiConnect
+## AnkiConnect setup
 
-1. Instale o Anki Desktop.
-2. No Anki, abra `Tools > Add-ons > Get Add-ons...`.
-3. Instale o AnkiConnect usando o código publicado pelo projeto.
-4. Reinicie o Anki Desktop.
-5. Mantenha o Anki aberto durante a sincronização.
+1. Install Anki Desktop.
+2. In Anki, open `Tools > Add-ons > Get Add-ons...`.
+3. Install AnkiConnect using the code published by the project.
+4. Restart Anki Desktop.
+5. Keep Anki open during synchronization.
 
-O sincronizador espera o AnkiConnect em:
+The synchronizer expects AnkiConnect at:
 
 ```text
 http://localhost:8765
 ```
 
-Faça backup da coleção antes da primeira execução.
+Back up your collection before the first run.
 
-## Sincronizar os cards
+## Synchronizing cards
 
-Na raiz deste repositório, execute:
+From the root of this repository, run:
 
 ```bash
 ./.codex/skills/anki-sync/run.sh
 ```
 
-O script processa estes diretórios e decks raiz do Anki:
+The script processes the following directories and Anki root decks:
 
-| Diretório | Deck |
+| Directory | Deck |
 |---|---|
 | `flashcards/Vocabulary/` | `Vocabulary` |
 | `flashcards/Sentences/` | `Sentences` |
@@ -87,30 +87,30 @@ O script processa estes diretórios e decks raiz do Anki:
 | `flashcards/Phrasal Verbs/` | `Phrasal Verbs` |
 | `flashcards/Production/` | `Production` |
 
-Os nomes dos decks são mantidos como estão para evitar a criação de duplicatas. Após o script concluir, use o botão `Sync` do próprio Anki para enviar as alterações ao AnkiWeb.
+Deck names are kept as they are to avoid creating duplicates. After the script finishes, use Anki's `Sync` button to send the changes to AnkiWeb.
 
-O sincronizador atualiza notas existentes quando encontra `anki_note_id` ou uma única correspondência pelo campo principal. Notas órfãs no Anki são informadas e preservadas; elas não são apagadas automaticamente.
+The synchronizer updates existing notes when it finds `anki_note_id` or a single match by the primary field. Orphaned notes in Anki are reported and preserved; they are not deleted automatically.
 
-Grammar Patterns não participa desse fluxo porque suas notas ficam em subpastas e usam um formato didático diferente. Um sincronizador específico poderá ser definido futuramente.
+Grammar Patterns is not part of this workflow because its notes are stored in subfolders and use a different instructional format. A dedicated synchronizer may be defined in the future.
 
-## Áudio
+## Audio
 
-O campo `Audio` deve conter uma referência de mídia local, por exemplo `[sound:word-en-us.mp3]`, somente quando o arquivo já existir na coleção de mídia do Anki. O importador não baixa áudio remoto automaticamente.
+The `Audio` field should contain a local media reference, such as `[sound:word-en-us.mp3]`, only when the file already exists in Anki's media collection. The importer does not download remote audio automatically.
 
 ## Troubleshooting
 
-Se a conexão falhar, confirme que o Anki está aberto e verifique a porta:
+If the connection fails, make sure Anki is open and check the port:
 
 ```bash
 lsof -nP -iTCP:8765 -sTCP:LISTEN
 ```
 
-Se a porta estiver aberta, mas o script não conseguir acessá-la, execute o sincronizador em um ambiente com acesso ao host onde o Anki está rodando.
+If the port is open but the script cannot access it, run the synchronizer in an environment with access to the host where Anki is running.
 
-## Dependências
+## Dependencies
 
-O script usa Python 3, `requests` e `python-frontmatter`. O `run.sh` cria `.venv/` quando necessário e instala essas dependências. Elas também estão listadas em `requirements.txt`.
+The script uses Python 3, `requests`, and `python-frontmatter`. `run.sh` creates `.venv/` when necessary and installs these dependencies. They are also listed in `requirements.txt`.
 
-## Conteúdo legado
+## Legacy content
 
-Algumas notas migradas ainda apontam para `flashcards/words/`, mas essa pasta não existe no estado atual da origem. A recuperação desses arquivos históricos deve ser decidida antes de depender da skill `english-word`.
+Some migrated notes still point to `flashcards/words/`, but this folder does not exist in the current source state. The recovery of these historical files should be decided before relying on the `english-word` skill.
