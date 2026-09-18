@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697076453'
 ---
 
 # worry — Production 3
@@ -50,4 +51,3 @@ _Usei <b>worry</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **worry** com uma tradução fora do contexto.
-

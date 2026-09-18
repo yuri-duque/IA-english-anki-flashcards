@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072302'
 ---
 
 # I think so
@@ -41,4 +42,3 @@ Use **I think so** como uma unidade no contexto apresentado.
 I used <b>I think so</b> in a natural sentence.
 
 _Usei <b>I think so</b> em uma frase natural._
-

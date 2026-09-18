@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697075312'
 ---
 
 # so much — Production 2
@@ -50,4 +51,3 @@ _Muito obrigado pela sua ajuda._
 ### Common mistakes
 
 Não use **so much** com substantivos contáveis no plural; nesse caso, use **so many**.
-

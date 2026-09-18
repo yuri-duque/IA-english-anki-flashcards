@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697075478'
 ---
 
 # something — Production 3
@@ -50,4 +51,3 @@ _Usei <b>something</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **something** com uma tradução fora do contexto.
-

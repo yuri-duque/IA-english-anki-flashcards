@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697075034'
 ---
 
 # say — Production 3
@@ -50,4 +51,3 @@ _Usei <b>say</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **say** com uma tradução fora do contexto.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697071605'
 ---
 
 # toward
@@ -64,4 +65,3 @@ Compare **toward** com termos próximos pelo contexto.
 ### Source
 
 Lista de estudo fornecida pelo usuário.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697073182'
 ---
 
 # during — Production 1
@@ -50,4 +51,3 @@ _Usei <b>during</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **during** com uma tradução fora do contexto.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697076306'
 ---
 
 # useful — Production 1
@@ -50,4 +51,3 @@ _Usei <b>useful</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **useful** com uma tradução fora do contexto.
-

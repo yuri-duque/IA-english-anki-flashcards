@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697074527'
 ---
 
 # notice — Production 1
@@ -50,4 +51,3 @@ _Usei <b>notice</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **notice** com uma tradução fora do contexto.
-

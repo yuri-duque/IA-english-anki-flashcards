@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697074904'
 ---
 
 # ride — Production 1
@@ -50,4 +51,3 @@ _Usei <b>ride</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **ride** com uma tradução fora do contexto.
-

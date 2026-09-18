@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697073081'
 ---
 
 # anything — Production 1
@@ -50,4 +51,3 @@ _Usei <b>anything</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **anything** com uma tradução fora do contexto.
-

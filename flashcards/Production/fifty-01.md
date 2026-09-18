@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697073429'
 ---
 
 # fifty — Production 1
@@ -50,4 +51,3 @@ _Usei <b>fifty</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **fifty** com uma tradução fora do contexto.
-

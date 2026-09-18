@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697071114'
 ---
 
 # side
@@ -64,4 +65,3 @@ Compare **side** com termos próximos pelo contexto.
 ### Source
 
 Lista de estudo fornecida pelo usuário.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697076078'
 ---
 
 # toward — Production 1
@@ -50,4 +51,3 @@ _Usei <b>toward</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **toward** com uma tradução fora do contexto.
-

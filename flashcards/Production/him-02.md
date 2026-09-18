@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697255876'
 ---
 
 # him — Production 2
@@ -50,4 +51,3 @@ _Usei <b>him</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **him** com uma tradução fora do contexto.
-

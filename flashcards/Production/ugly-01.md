@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697076232'
 ---
 
 # ugly — Production 1
@@ -50,4 +51,3 @@ _Usei <b>ugly</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **ugly** com uma tradução fora do contexto.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697074754'
 ---
 
 # perform — Production 1
@@ -50,4 +51,3 @@ _Usei <b>perform</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **perform** com uma tradução fora do contexto.
-

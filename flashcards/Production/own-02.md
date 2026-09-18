@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697256050'
 ---
 
 # own — Production 2
@@ -50,4 +51,3 @@ _Usei <b>own</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **own** com uma tradução fora do contexto.
-

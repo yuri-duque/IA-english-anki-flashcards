@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072352'
 ---
 
 # late for
@@ -41,4 +42,3 @@ Use **late for** como uma unidade no contexto apresentado.
 I used <b>late for</b> in a natural sentence.
 
 _Usei <b>late for</b> em uma frase natural._
-

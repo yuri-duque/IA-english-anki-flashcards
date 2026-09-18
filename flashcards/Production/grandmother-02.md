@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697255776'
 ---
 
 # grandmother — Production 2
@@ -50,4 +51,3 @@ _Usei <b>grandmother</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **grandmother** com uma tradução fora do contexto.
-

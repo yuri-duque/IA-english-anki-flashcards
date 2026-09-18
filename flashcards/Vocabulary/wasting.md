@@ -1,5 +1,6 @@
 ---
 anki: true
+anki_note_id: '1788434383177'
 ---
 
 # wasting

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697075718'
 ---
 
 # ten — Production 3
@@ -50,4 +51,3 @@ _Usei <b>ten</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **ten** com uma tradução fora do contexto.
-

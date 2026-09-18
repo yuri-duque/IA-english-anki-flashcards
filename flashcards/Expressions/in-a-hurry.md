@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072336'
 ---
 
 # in a hurry
@@ -41,4 +42,3 @@ Use **in a hurry** como uma unidade no contexto apresentado.
 I used <b>in a hurry</b> in a natural sentence.
 
 _Usei <b>in a hurry</b> em uma frase natural._
-

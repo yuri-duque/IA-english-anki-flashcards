@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072388'
 ---
 
 # see you soon
@@ -41,4 +42,3 @@ Use **see you soon** como uma unidade no contexto apresentado.
 I used <b>see you soon</b> in a natural sentence.
 
 _Usei <b>see you soon</b> em uma frase natural._
-

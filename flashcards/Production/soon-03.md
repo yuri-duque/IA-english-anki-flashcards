@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697075565'
 ---
 
 # soon — Production 3
@@ -50,4 +51,3 @@ _Usei <b>soon</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **soon** com uma tradução fora do contexto.
-

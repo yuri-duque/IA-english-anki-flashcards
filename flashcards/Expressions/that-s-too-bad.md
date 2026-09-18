@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072438'
 ---
 
 # that’s too bad
@@ -41,4 +42,3 @@ Use **that’s too bad** como uma unidade no contexto apresentado.
 I used <b>that’s too bad</b> in a natural sentence.
 
 _Usei <b>that’s too bad</b> em uma frase natural._
-

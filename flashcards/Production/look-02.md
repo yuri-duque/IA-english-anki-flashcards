@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697255900'
 ---
 
 # look — Production 2
@@ -50,4 +51,3 @@ _Usei <b>look</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **look** com uma tradução fora do contexto.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697076533'
 ---
 
 # young — Production 3
@@ -50,4 +51,3 @@ _Usei <b>young</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **young** com uma tradução fora do contexto.
-

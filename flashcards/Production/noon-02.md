@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697255975'
 ---
 
 # noon — Production 2
@@ -50,4 +51,3 @@ _Usei <b>noon</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **noon** com uma tradução fora do contexto.
-

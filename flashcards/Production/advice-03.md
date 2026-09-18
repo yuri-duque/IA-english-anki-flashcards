@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697073029'
 ---
 
 # advice — Production 3
@@ -50,4 +51,3 @@ _Usei <b>advice</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **advice** com uma tradução fora do contexto.
-

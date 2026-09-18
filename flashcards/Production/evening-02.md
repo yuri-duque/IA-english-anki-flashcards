@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697255650'
 ---
 
 # evening — Production 2
@@ -50,4 +51,3 @@ _Usei <b>evening</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **evening** com uma tradução fora do contexto.
-

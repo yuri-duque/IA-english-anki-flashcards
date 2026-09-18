@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697255834'
 ---
 
 # had — Production 2
@@ -50,4 +51,3 @@ _Usei <b>had</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **had** com uma tradução fora do contexto.
-

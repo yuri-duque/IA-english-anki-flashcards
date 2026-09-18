@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072404'
 ---
 
 # see you tomorrow
@@ -41,4 +42,3 @@ Use **see you tomorrow** como uma unidade no contexto apresentado.
 I used <b>see you tomorrow</b> in a natural sentence.
 
 _Usei <b>see you tomorrow</b> em uma frase natural._
-

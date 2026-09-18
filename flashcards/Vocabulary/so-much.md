@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697071164'
 ---
 
 # so much
@@ -66,4 +67,3 @@ _Muito obrigado pela sua ajuda._
 ### Source
 
 Lista de estudo fornecida pelo usuário.
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697069876'
 ---
 
 # forty
@@ -64,4 +65,3 @@ Compare **forty** com termos próximos pelo contexto.
 ### Source
 
 Lista de estudo fornecida pelo usuário.
-

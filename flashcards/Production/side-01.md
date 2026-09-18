@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697075130'
 ---
 
 # side — Production 1
@@ -50,4 +51,3 @@ _Usei <b>side</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **side** com uma tradução fora do contexto.
-

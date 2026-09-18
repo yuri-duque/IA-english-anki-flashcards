@@ -188,6 +188,15 @@ hr#answer { border: 0; border-top: 1px solid #d8dee8; margin: 28px 0; }
 def ensure_model(model_name: str, fields: list[str]) -> None:
     template, css = model_layout(model_name, fields)
     if model_name in (invoke("modelNames") or []):
+        existing_fields = invoke("modelFieldNames", {"modelName": model_name}) or []
+        for field in fields:
+            if field not in existing_fields:
+                invoke("modelFieldAdd", {
+                    "modelName": model_name,
+                    "fieldName": field,
+                    "index": len(existing_fields),
+                })
+                existing_fields.append(field)
         invoke("updateModelTemplates", {"model": {"name": model_name, "templates": {template["Name"]: {
             "Front": template["Front"], "Back": template["Back"],
         }}}})
@@ -270,7 +279,7 @@ def update_existing_note(note: dict[str, Any], desired_fields: dict[str, str]) -
 
 
 def sync_folder(folder_name: str, config: tuple[str, str, list[str]]) -> tuple[int, int, int]:
-    folder = PROJECT_ROOT / "English" / folder_name
+    folder = PROJECT_ROOT / "flashcards" / folder_name
     if not folder.is_dir():
         return 0, 0, 0
     index = folder / "index.md"
@@ -284,31 +293,43 @@ def sync_folder(folder_name: str, config: tuple[str, str, list[str]]) -> tuple[i
     # Fase 1: traz todas as notas do deck e reconcilia suas identidades com o
     # vault. O ID é mais confiável que o campo principal quando este foi editado.
     notes_by_id, notes_by_primary = existing_notes(deck, model, fields[0])
-    pending: list[tuple[Path, frontmatter.Post, dict[str, str], dict[str, Any] | None]] = []
+    parsed: list[tuple[Path, frontmatter.Post, dict[str, str]]] = []
+    primary_counts: dict[str, int] = {}
     for path in sorted(folder.glob("*.md")):
         if path.name == "index.md":
             continue
         try:
             post, values = note_data(path)
-            note: dict[str, Any] | None = None
-            stored_id = frontmatter_note_id(post)
-            if stored_id is not None:
-                note = notes_by_id.get(stored_id)
-
-            # Compatibilidade com notas já criadas antes da introdução de
-            # anki_note_id. Só usamos o campo principal se houver uma única
-            # correspondência; duplicidade não deve ser resolvida no escuro.
-            if note is None:
-                primary_value = values.get(fields[0], "").strip()
-                candidates = notes_by_primary.get(primary_value, []) if primary_value else []
-                if len(candidates) == 1:
-                    note = candidates[0]
-                elif len(candidates) > 1:
-                    print(f"  ⚠️ {folder_name}/{path.stem}: múltiplas notas no Anki para {fields[0]}={primary_value!r}; ignorada")
-
-            pending.append((path, post, values, note))
+            parsed.append((path, post, values))
+            primary_value = values.get(fields[0], "").strip()
+            if primary_value:
+                primary_counts[primary_value] = primary_counts.get(primary_value, 0) + 1
         except Exception as exc:
             print(f"⚠️ Erro ao ler {path.name}: {exc}")
+
+    pending: list[tuple[Path, frontmatter.Post, dict[str, str], dict[str, Any] | None]] = []
+    for path, post, values in parsed:
+        note: dict[str, Any] | None = None
+        stored_id = frontmatter_note_id(post)
+        if stored_id is not None:
+            note = notes_by_id.get(stored_id)
+
+        # Compatibilidade com notas já criadas antes da introdução de
+        # anki_note_id. O campo principal só é seguro quando é único no
+        # Markdown e no Anki; duplicidade deve resultar em uma nota nova.
+        if note is None:
+            primary_value = values.get(fields[0], "").strip()
+            candidates = (
+                notes_by_primary.get(primary_value, [])
+                if primary_value and primary_counts.get(primary_value) == 1
+                else []
+            )
+            if len(candidates) == 1:
+                note = candidates[0]
+            elif len(candidates) > 1:
+                print(f"  ⚠️ {folder_name}/{path.stem}: múltiplas notas no Anki para {fields[0]}={primary_value!r}; será criada uma nota nova")
+
+        pending.append((path, post, values, note))
 
     # Fase 2: Markdown é a fonte dos campos gerenciados. updateNoteFields
     # preserva a nota e o histórico; addNote só é usado para notas novas.
@@ -329,7 +350,10 @@ def sync_folder(folder_name: str, config: tuple[str, str, list[str]]) -> tuple[i
 
             note_id = invoke("addNote", {"note": {
                 "deckName": deck, "modelName": model, "fields": desired_fields,
-                "options": {"allowDuplicate": False, "duplicateScope": "deck"},
+                "options": {
+                    "allowDuplicate": folder_name == "Production",
+                    "duplicateScope": "deck",
+                },
                 "tags": ["english", folder_name.lower().replace(" ", "-")],
             }})
             if note_id is None:

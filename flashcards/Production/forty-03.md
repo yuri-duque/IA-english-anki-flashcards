@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697073584'
 ---
 
 # forty — Production 3
@@ -50,4 +51,3 @@ _Usei <b>forty</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **forty** com uma tradução fora do contexto.
-

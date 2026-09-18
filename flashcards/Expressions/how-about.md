@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072275'
 ---
 
 # how about
@@ -41,4 +42,3 @@ Use **how about** como uma unidade no contexto apresentado.
 I used <b>how about</b> in a natural sentence.
 
 _Usei <b>how about</b> em uma frase natural._
-

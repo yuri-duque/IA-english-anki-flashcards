@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697074624'
 ---
 
 # one hundred — Production 1
@@ -50,4 +51,3 @@ _Usei <b>one hundred</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **one hundred** com uma tradução fora do contexto.
-

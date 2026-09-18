@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697076058'
 ---
 
 # throw — Production 3
@@ -50,4 +51,3 @@ _Usei <b>throw</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **throw** com uma tradução fora do contexto.
-

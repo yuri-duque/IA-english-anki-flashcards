@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072201'
 ---
 
 # as well
@@ -41,4 +42,3 @@ Use **as well** como uma unidade no contexto apresentado.
 I used <b>as well</b> in a natural sentence.
 
 _Usei <b>as well</b> em uma frase natural._
-

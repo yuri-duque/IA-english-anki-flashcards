@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697075060'
 ---
 
 # seventy — Production 1
@@ -50,4 +51,3 @@ _Usei <b>seventy</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **seventy** com uma tradução fora do contexto.
-

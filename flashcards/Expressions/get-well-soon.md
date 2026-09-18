@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072251'
 ---
 
 # get well soon
@@ -41,4 +42,3 @@ Use **get well soon** como uma unidade no contexto apresentado.
 I used <b>get well soon</b> in a natural sentence.
 
 _Usei <b>get well soon</b> em uma frase natural._
-

@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697072656'
 ---
 
 # look at
@@ -38,4 +39,3 @@ Use **look at** para direcionar os olhos ou a atenção a algo.
 Please <b>look at</b> the screen.
 
 _Por favor, olhe para a tela._
-

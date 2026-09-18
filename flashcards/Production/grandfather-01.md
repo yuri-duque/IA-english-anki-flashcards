@@ -1,5 +1,6 @@
 ---
-anki: false
+anki: true
+anki_note_id: '1789697073679'
 ---
 
 # grandfather — Production 1
@@ -50,4 +51,3 @@ _Usei <b>grandfather</b> em uma frase natural._
 ### Common mistakes
 
 Não confunda **grandfather** com uma tradução fora do contexto.
-
