@@ -1,6 +1,19 @@
 # IA English Anki Flashcards
 
-Repository dedicated to studying English with Markdown flashcards and optional synchronization with Anki Desktop through AnkiConnect.
+Repository dedicated to studying English with Markdown flashcards and optional synchronization with Anki Desktop through AnkiConnect, that we can create flashcards to **Vocabulary**, **Expressions**, **Phrasal Verbs** and **Production**.
+
+#### Exemples of flashcards on anki:
+
+Vocabulary
+<img width="773" height="1600" alt="vocabulary-frente" src="https://github.com/user-attachments/assets/5e7de0ef-be9b-4ea1-97bc-4a8261cf8a1c" />
+<img width="771" height="1600" alt="vocabulary-verso" src="https://github.com/user-attachments/assets/1e8c53f9-2bc8-4e95-9d13-ded8506e404c" />
+
+
+Production
+<img width="775" height="1600" alt="production-frente" src="https://github.com/user-attachments/assets/e4be8fba-029b-45c7-b3d2-c7629cde0c96" />
+<img width="769" height="1600" alt="production-verso" src="https://github.com/user-attachments/assets/f0aa90c6-7827-42d1-91d0-cdf8980142d1" />
+
+
 
 ## Structure
 
