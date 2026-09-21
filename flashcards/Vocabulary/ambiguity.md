@@ -7,23 +7,16 @@ anki_note_id: '1789699421301'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** <b>ambiguous</b> (adjective) — ambíguo; <b>unambiguous</b> (adjective) — inequívoco
-- **CommonExpressions:** <b>remove ambiguity</b> — eliminar ambiguidade; <b>ambiguity in the requirements</b> — ambiguidade nos requisitos; <b>avoid ambiguity</b> — evitar ambiguidade
-- **RelatedWords:** <b>ambiguity</b> envolve mais de uma interpretação possível; <b>uncertainty</b> envolve falta de conhecimento sobre o resultado.
-- **Etymology:**
-- **Image:**
-- **Source:**
-
 - **Word:** ambiguity
 - **Meaning:** **ambiguidade**; falta de clareza; possibilidade de mais de uma interpretação
 - **PartOfSpeech:** noun
 - **Definition:** The quality of having more than one possible meaning or interpretation.
 - **Example:** We rewrote the API contract to remove <b>ambiguity</b> from the requirements.
 - **ExampleTranslation:** Reescrevemos o contrato da API para eliminar a ambiguidade dos requisitos.
-- **HowToUse:** Use <b>ambiguity</b> quando uma frase, requisito ou comportamento pode ser entendido de maneiras diferentes. É comum falar em remover ou evitar <b>ambiguity</b>.
+- **HowToUse:** Use <b>ambiguity</b> para falar de uma frase, instrução, requisito ou comportamento que pode ser interpretado de mais de uma maneira. É comum usar <b>ambiguity</b> com <b>in</b> (como em <b>ambiguity in the requirements</b>) e com os verbos <b>remove</b> e <b>avoid</b>.
+- **WordFamily:** <b>ambiguous</b> (adjective) — ambíguo; <b>unambiguous</b> (adjective) — inequívoco
+- **CommonExpressions:** <b>remove ambiguity</b> — eliminar a ambiguidade; <b>ambiguity in the requirements</b> — ambiguidade nos requisitos; <b>avoid ambiguity</b> — evitar a ambiguidade
+- **RelatedWords:** <b>ambiguity</b> significa que há mais de uma interpretação possível; <b>uncertainty</b> significa que não se sabe com certeza qual é a situação, o resultado ou o significado correto.
 
 ## Frente
 
@@ -43,7 +36,7 @@ _noun_
 
 ### How to use
 
-Use **ambiguity** quando uma frase, requisito ou comportamento pode ser entendido de maneiras diferentes. É comum falar em remover ou evitar **ambiguity**.
+Use **ambiguity** para falar de uma frase, instrução, requisito ou comportamento que pode ser interpretado de mais de uma maneira. É comum usar **ambiguity** com **in** (como em **ambiguity in the requirements**) e com os verbos **remove** e **avoid**.
 
 ### Example
 
@@ -53,7 +46,9 @@ _Reescrevemos o contrato da API para eliminar a ambiguidade dos requisitos._
 
 ### Common expressions
 
-**remove ambiguity** — eliminar ambiguidade  \n**ambiguity in the requirements** — ambiguidade nos requisitos  \n**avoid ambiguity** — evitar ambiguidade
+**remove ambiguity** — eliminar a ambiguidade<br>
+**ambiguity in the requirements** — ambiguidade nos requisitos<br>
+**avoid ambiguity** — evitar a ambiguidade
 
 ### Word family
 
@@ -61,4 +56,4 @@ _Reescrevemos o contrato da API para eliminar a ambiguidade dos requisitos._
 
 ### Related words and differences
 
-**ambiguity** envolve mais de uma interpretação possível; **uncertainty** envolve falta de conhecimento sobre o resultado.
+**ambiguity** significa que há mais de uma interpretação possível; **uncertainty** significa que não se sabe com certeza qual é a situação, o resultado ou o significado correto.

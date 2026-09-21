@@ -7,23 +7,17 @@ anki_note_id: '1789697068989'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **advice** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
-
 - **Word:** advice
-- **Meaning:** **conselho**; orientação
+- **Meaning:** **conselho**; orientação; recomendação
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of conselho.
-- **Example:** I used <b>advice</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>advice</b> em uma frase natural._
-- **HowToUse:** Use **advice** conforme seu significado e sua classe gramatical.
+- **Definition:** An opinion or suggestion about what someone should do.
+- **Example:** My manager gave me some useful <b>advice</b> before the interview.
+- **ExampleTranslation:** Meu gerente me deu alguns conselhos úteis antes da entrevista.
+- **HowToUse:** Use <b>advice</b> para falar de uma opinião ou recomendação sobre o que alguém deve fazer. É um substantivo incontável: diga “some advice” ou “a piece of advice”, não “an advice”.
+- **CommonExpressions:** <b>give advice</b> — dar conselhos; <b>ask for advice</b> — pedir conselho; <b>take someone's advice</b> — seguir o conselho de alguém; <b>a piece of advice</b> — um conselho (uma unidade de conselho)
+- **WordFamily:** <b>advise</b> (verb) — aconselhar; <b>adviser</b>/<b>advisor</b> (noun) — conselheiro(a); <b>advisable</b> (adjective) — aconselhável
+- **RelatedWords:** <b>advice</b> é o substantivo incontável para uma recomendação; <b>advise</b> é o verbo correspondente (“aconselhar”); <b>suggestion</b> é uma ideia ou proposta, geralmente mais específica e menos ligada à autoridade de quem fala.
+- **Source:** Lista de estudo fornecida pelo usuário.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,33 @@ anki_note_id: '1789697068989'
 
 ## Verso
 
-**conselho**; orientação
+**conselho**; orientação; recomendação
 
 _noun_
 
-> A word used to express the idea of conselho.
+> An opinion or suggestion about what someone should do.
 
 ### How to use
 
-Use **advice** conforme seu significado e sua classe gramatical.
+Use **advice** para falar de uma opinião ou recomendação sobre o que alguém deve fazer. É um substantivo incontável: diga “some advice” ou “a piece of advice”, não “an advice”.
 
 ### Example
 
-I used <b>advice</b> in a natural sentence.
+My manager gave me some useful **advice** before the interview.
 
-_Usei <b>advice</b> em uma frase natural._
+_Meu gerente me deu alguns conselhos úteis antes da entrevista._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+**give advice** — dar conselhos; **ask for advice** — pedir conselho; **take someone's advice** — seguir o conselho de alguém; **a piece of advice** — um conselho (uma unidade de conselho)
 
 ### Word family
 
-Não há derivados essenciais.
+**advise** (verb) — aconselhar; **adviser**/**advisor** (noun) — conselheiro(a); **advisable** (adjective) — aconselhável
 
 ### Related words and differences
 
-Compare **advice** com termos próximos pelo contexto.
+**advice** é o substantivo incontável para uma recomendação; **advise** é o verbo correspondente (“aconselhar”); **suggestion** é uma ideia ou proposta, geralmente mais específica e menos ligada à autoridade de quem fala.
 
 ### Source
 

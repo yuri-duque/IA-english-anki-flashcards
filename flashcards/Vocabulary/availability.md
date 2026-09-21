@@ -7,22 +7,17 @@ anki_note_id: '1789699421352'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** **availability** — termo técnico; **related adjective** — forma adjetiva.
-- **CommonExpressions:** **improve availability** — melhorar disponibilidade; **availability target** — meta de disponibilidade.
-- **RelatedWords:** **Availability** é acesso contínuo; um serviço disponível ainda pode retornar dados errados.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 - **Word:** availability
-- **Meaning:** **disponibilidade**
-- **PartOfSpeech:** noun
-- **Definition:** The proportion of time a service is accessible and operational.
-- **Example:** Multi-zone deployment protected checkout <b>availability</b> during maintenance.
-- **ExampleTranslation:** _Exemplo técnico sobre disponibilidade._
-- **HowToUse:** Use **availability** em discussões de arquitetura e operação para falar de disponibilidade.
+- **Meaning:** **disponibilidade**; tempo em que um serviço permanece acessível e operacional
+- **PartOfSpeech:** noun (uncountable)
+- **Definition:** The proportion of time that a service is accessible and operational.
+- **HowToUse:** Use <b>availability</b> para falar de quanto tempo um serviço ou sistema permanece acessível e operacional; em tecnologia, esse valor costuma ser expresso como uma porcentagem.
+- **Example:** The team improved service <b>availability</b> by deploying the API across two regions.
+- **ExampleTranslation:** A equipe melhorou a disponibilidade do serviço ao implantar a API em duas regiões.
+- **CommonExpressions:** <b>high availability</b> — alta disponibilidade; <b>availability target</b> — meta de disponibilidade; <b>improve availability</b> — melhorar a disponibilidade
+- **WordFamily:** <b>available</b> (adjective) — disponível; <b>unavailable</b> (adjective) — indisponível; <b>availability</b> (noun) — disponibilidade
+- **RelatedWords:** <b>availability</b> mede se o serviço está acessível; <b>reliability</b> mede se ele funciona corretamente e de modo consistente; <b>uptime</b> é o tempo em que permanece em funcionamento.
+- **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 
 ## Frente
 
@@ -34,33 +29,33 @@ anki_note_id: '1789699421352'
 
 ## Verso
 
-**disponibilidade**
+**disponibilidade**; tempo em que um serviço permanece acessível e operacional
 
-_noun_
+_noun (uncountable)_
 
-> The proportion of time a service is accessible and operational.
+> The proportion of time that a service is accessible and operational.
 
 ### How to use
 
-Use **availability** em discussões de arquitetura e operação para falar de disponibilidade.
+Use **availability** para falar de quanto tempo um serviço ou sistema permanece acessível e operacional; em tecnologia, esse valor costuma ser expresso como uma porcentagem.
 
 ### Example
 
-Multi-zone deployment protected checkout <b>availability</b> during maintenance.
+The team improved service <b>availability</b> by deploying the API across two regions.
 
-_Exemplo técnico sobre disponibilidade._
+A equipe melhorou a disponibilidade do serviço ao implantar a API em duas regiões.
 
 ### Common expressions
 
-**improve availability** — melhorar disponibilidade; **availability target** — meta de disponibilidade.
+**high availability** — alta disponibilidade; **availability target** — meta de disponibilidade; **improve availability** — melhorar a disponibilidade
 
 ### Word family
 
-**availability** — termo técnico; **related adjective** — forma adjetiva.
+**available** (adjective) — disponível; **unavailable** (adjective) — indisponível; **availability** (noun) — disponibilidade
 
 ### Related words and differences
 
-**Availability** é acesso contínuo; um serviço disponível ainda pode retornar dados errados.
+**availability** mede se o serviço está acessível; **reliability** mede se ele funciona corretamente e de modo consistente; **uptime** é o tempo em que permanece em funcionamento.
 
 ### Source
 

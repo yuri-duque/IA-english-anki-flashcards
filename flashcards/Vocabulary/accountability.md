@@ -7,23 +7,17 @@ anki_note_id: '1789699421261'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** <b>accountable</b> (adjective) — responsável por prestar contas; <b>accountability</b> (noun) — responsabilização.
-- **CommonExpressions:** <b>be accountable for</b> — ser responsável por; <b>hold someone accountable</b> — responsabilizar alguém.
-- **RelatedWords:** <b>responsibility</b> é o dever de fazer algo; <b>accountability</b> é responder pelo resultado desse dever.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
-
 - **Word:** accountability
 - **Meaning:** **responsabilização**; obrigação de prestar contas
 - **PartOfSpeech:** noun
-- **Definition:** The obligation to accept responsibility for actions and results.
-- **Example:** The team established clear <b>accountability</b> for each production service.
-- **ExampleTranslation:** _O time estabeleceu responsabilização clara para cada serviço de produção._
-- **HowToUse:** Use <b>accountability</b> ao falar sobre quem responde por decisões, entregas ou resultados; é frequente em liderança e gestão.
+- **Definition:** The obligation to accept responsibility for decisions, actions, and results.
+- **Example:** The team defined clear <b>accountability</b> for each production service.
+- **ExampleTranslation:** _A equipe definiu claramente quem responderia por cada serviço em produção._
+- **HowToUse:** Use <b>accountability</b> para falar sobre a obrigação de explicar decisões, ações ou resultados e de responder por eles. É comum em contextos de liderança e gestão, geralmente com <b>for</b> (<b>accountability for results</b>). Diferentemente de <b>responsibility</b>, que enfatiza o dever de realizar uma tarefa, <b>accountability</b> enfatiza responder pelo resultado.
+- **WordFamily:** <b>accountable</b> (adjective) — responsável por prestar contas.
+- **CommonExpressions:** <b>accountability for results</b> — responsabilização pelos resultados; <b>a culture of accountability</b> — uma cultura de responsabilização; <b>hold someone accountable</b> — responsabilizar alguém.
+- **RelatedWords:** Diferentemente de <b>responsibility</b>, que é o dever de realizar algo, <b>accountability</b> é a obrigação de explicar decisões e responder pelos resultados.
+- **Source:** Lista de estudo para entrevistas de desenvolvimento sênior.
 
 ## Frente
 
@@ -39,29 +33,29 @@ anki_note_id: '1789699421261'
 
 _noun_
 
-> The obligation to accept responsibility for actions and results.
+> The obligation to accept responsibility for decisions, actions, and results.
 
 ### How to use
 
-Use **accountability** ao falar sobre quem responde por decisões, entregas ou resultados; é frequente em liderança e gestão.
+Use <b>accountability</b> para falar sobre a obrigação de explicar decisões, ações ou resultados e de responder por eles. É comum em contextos de liderança e gestão, geralmente com <b>for</b> (<b>accountability for results</b>). Diferentemente de <b>responsibility</b>, que enfatiza o dever de realizar uma tarefa, <b>accountability</b> enfatiza responder pelo resultado.
 
 ### Example
 
-The team established clear **accountability** for each production service.
+The team defined clear <b>accountability</b> for each production service.
 
-_O time estabeleceu responsabilização clara para cada serviço de produção._
+_A equipe definiu claramente quem responderia por cada serviço em produção._
 
 ### Common expressions
 
-**be accountable for** — ser responsável por; **hold someone accountable** — responsabilizar alguém
+<b>accountability for results</b> — responsabilização pelos resultados; <b>a culture of accountability</b> — uma cultura de responsabilização; <b>hold someone accountable</b> — responsabilizar alguém
 
 ### Word family
 
-**accountable** (adjective) — responsável por prestar contas; **accountability** (noun) — responsabilização
+<b>accountable</b> (adjective) — responsável por prestar contas
 
 ### Related words and differences
 
-**responsibility** é o dever de fazer algo; **accountability** é responder pelo resultado desse dever.
+Diferentemente de <b>responsibility</b>, que é o dever de realizar algo, <b>accountability</b> é a obrigação de explicar decisões e responder pelos resultados.
 
 ### Source
 

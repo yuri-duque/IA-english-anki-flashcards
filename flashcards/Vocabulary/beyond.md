@@ -7,19 +7,16 @@ anki_note_id: '1788434382904'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **CommonExpressions:** <b>beyond doubt</b> — sem dúvida; <b>beyond repair</b> — sem conserto; <b>beyond belief</b> — inacreditável; <b>beyond my control</b> — fora do meu controle
-- **Source:** Entrada fornecida pelo usuário.
-
 - **Word:** beyond
-- **Meaning:** **além de**; para além de; mais do que
+- **Meaning:** **além de**; depois de; fora dos limites de; mais do que
 - **PartOfSpeech:** preposition; adverb
-- **Definition:** On or to the farther side of something; outside the limits or range of something.
-- **Example:** The hotel is just **beyond** the bridge.
-- **ExampleTranslation:** _*O hotel fica logo depois da ponte.*_
-- **HowToUse:** Use **beyond** para indicar uma posição mais distante que um ponto de referência, como em **beyond the bridge**. Também expressa que algo ultrapassa um limite, como em **beyond repair** ou **beyond my control**.
+- **Definition:** At or to the far side of something; outside or past a limit.
+- **Example:** The hotel is just <b>beyond</b> the bridge.
+- **ExampleTranslation:** O hotel fica logo depois da ponte.
+- **HowToUse:** Use <b>beyond</b> antes de um lugar ou ponto de referência para dizer “além de” ou “depois de” esse ponto, como em <b>beyond the bridge</b>. A palavra também indica que algo ultrapassa um limite, uma capacidade ou uma expectativa, como em <b>beyond repair</b>, <b>beyond my control</b> e <b>beyond expectations</b>.
+- **CommonExpressions:** <b>beyond doubt</b> — sem dúvida; <b>beyond repair</b> — sem conserto; <b>beyond belief</b> — inacreditável; <b>beyond my control</b> — fora do meu controle
+- **RelatedWords:** <b>past</b> pode significar “depois de” um ponto ou horário, geralmente com foco em passagem ou localização; <b>beyond</b> enfatiza estar do outro lado ou ultrapassar um limite. <b>Besides</b> significa “além de” no sentido de “além disso” ou “além de outra coisa”, não de distância ou limite.
+
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -30,29 +27,26 @@ anki_note_id: '1788434382904'
 
 ## Verso
 
-**além de**; para além de; mais do que
+**além de**; depois de; fora dos limites de; mais do que
 
 _preposition; adverb_
 
-> On or to the farther side of something; outside the limits or range of something.
+> At or to the far side of something; outside or past a limit.
 
 ### How to use
 
-Use **beyond** para indicar uma posição mais distante que um ponto de referência, como em **beyond the bridge**. Também expressa que algo ultrapassa um limite, como em **beyond repair** ou **beyond my control**.
+Use <b>beyond</b> antes de um lugar ou ponto de referência para dizer “além de” ou “depois de” esse ponto, como em <b>beyond the bridge</b>. A palavra também indica que algo ultrapassa um limite, uma capacidade ou uma expectativa, como em <b>beyond repair</b>, <b>beyond my control</b> e <b>beyond expectations</b>.
 
 ### Example
 
-The hotel is just **beyond** the bridge.
+The hotel is just <b>beyond</b> the bridge.
 
-_*O hotel fica logo depois da ponte.*_
+O hotel fica logo depois da ponte.
 
 ### Common expressions
 
-- **beyond doubt** — sem dúvida
-- **beyond repair** — sem conserto
-- **beyond belief** — inacreditável
-- **beyond my control** — fora do meu controle
+<b>beyond doubt</b> — sem dúvida; <b>beyond repair</b> — sem conserto; <b>beyond belief</b> — inacreditável; <b>beyond my control</b> — fora do meu controle
 
-### Source
+### Related words and differences
 
-Entrada fornecida pelo usuário.
+<b>past</b> pode significar “depois de” um ponto ou horário, geralmente com foco em passagem ou localização; <b>beyond</b> enfatiza estar do outro lado ou ultrapassar um limite. <b>Besides</b> significa “além de” no sentido de “além disso” ou “além de outra coisa”, não de distância ou limite.

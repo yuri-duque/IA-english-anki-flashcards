@@ -7,23 +7,18 @@ anki_note_id: '1789697068942'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **actually** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **Word:** actually
+- **Meaning:** **na verdade**; realmente; de fato
+- **PartOfSpeech:** adverb
+- **Definition:** In fact; used to correct, clarify, or contrast with what was expected or previously said.
+- **Example:** I thought the meeting was tomorrow, but it's <b>actually</b> today.
+- **ExampleTranslation:** Eu achava que a reunião era amanhã, mas na verdade é hoje.
+- **HowToUse:** Use <b>actually</b> como advérbio para dizer que algo é verdadeiro, especialmente ao corrigir uma ideia, esclarecer uma informação ou contrastar uma expectativa. Em português, geralmente equivale a “na verdade”, “realmente” ou “de fato”. Não use <b>actually</b> com o sentido de “atualmente”; para isso, use <b>currently</b> ou <b>nowadays</b>.
+- **CommonExpressions:** <b>Actually</b>, ... — na verdade...; not <b>actually</b> — não exatamente / na verdade, não; it <b>actually</b> turns out that ... — acontece que, na verdade, ...
+- **WordFamily:** <b>actual</b> (adjective: real, verdadeiro); <b>actuality</b> (noun: realidade). Atenção: <b>actual</b> não significa “atual”; “atual” costuma ser <b>current</b>.
+- **RelatedWords:** <b>in fact</b> é uma alternativa próxima e um pouco mais enfática ou formal; <b>really</b> pode significar “realmente” e também intensificar um adjetivo; <b>currently</b> significa “atualmente”, isto é, neste momento, e não “na verdade”.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
-- **Word:** actually
-- **Meaning:** **na verdade**; realmente
-- **PartOfSpeech:** adverb
-- **Definition:** A word used to express the idea of na verdade.
-- **Example:** I used <b>actually</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>actually</b> em uma frase natural._
-- **HowToUse:** Use **actually** conforme seu significado e sua classe gramatical.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,29 +33,29 @@ anki_note_id: '1789697068942'
 
 _adverb_
 
-> A word used to express the idea of na verdade.
+> In fact; used to correct, clarify, or contrast with what was expected or previously said.
 
 ### How to use
 
-Use **actually** conforme seu significado e sua classe gramatical.
+Use <b>actually</b> como advérbio para dizer que algo é verdadeiro, especialmente ao corrigir uma ideia, esclarecer uma informação ou contrastar uma expectativa. Em português, geralmente equivale a “na verdade”, “realmente” ou “de fato”. Não use <b>actually</b> com o sentido de “atualmente”; para isso, use <b>currently</b> ou <b>nowadays</b>.
 
 ### Example
 
-I used <b>actually</b> in a natural sentence.
+I thought the meeting was tomorrow, but it's <b>actually</b> today.
 
-_Usei <b>actually</b> em uma frase natural._
+Eu achava que a reunião era amanhã, mas na verdade é hoje.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>Actually</b>, ... — na verdade...; not <b>actually</b> — não exatamente / na verdade, não; it <b>actually</b> turns out that ... — acontece que, na verdade, ...
 
 ### Word family
 
-Não há derivados essenciais.
+<b>actual</b> (adjective: real, verdadeiro); <b>actuality</b> (noun: realidade). Atenção: <b>actual</b> não significa “atual”; “atual” costuma ser <b>current</b>.
 
 ### Related words and differences
 
-Compare **actually** com termos próximos pelo contexto.
+<b>in fact</b> é uma alternativa próxima e um pouco mais enfática ou formal; <b>really</b> pode significar “realmente” e também intensificar um adjetivo; <b>currently</b> significa “atualmente”, isto é, neste momento, e não “na verdade”.
 
 ### Source
 
