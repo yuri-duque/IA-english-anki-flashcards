@@ -2,6 +2,8 @@
 
 Repository dedicated to studying English with Markdown flashcards and optional synchronization with Anki Desktop through AnkiConnect, that we can create flashcards to **Vocabulary**, **Expressions**, **Phrasal Verbs** and **Production**.
 
+<img width="1672" height="941" alt="post-flashcards" src="https://github.com/user-attachments/assets/361fe7be-d2b6-4ac9-a3bc-67dc49a0a8b3" />
+
 #### Exemples of flashcards on anki:
 
 Vocabulary
