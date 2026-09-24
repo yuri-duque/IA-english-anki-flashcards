@@ -7,23 +7,18 @@ anki_note_id: '1789697069977'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **grandmother** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
-
 - **Word:** grandmother
 - **Meaning:** **avó**
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of avó.
-- **Example:** I used <b>grandmother</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>grandmother</b> em uma frase natural._
-- **HowToUse:** Use **grandmother** conforme seu significado e sua classe gramatical.
+- **Definition:** The mother of someone's father or mother.
+- **Example:** My <b>grandmother</b> taught me how to bake bread.
+- **ExampleTranslation:** Minha avó me ensinou a fazer pão.
+- **HowToUse:** <b>Grandmother</b> é o termo neutro e um pouco mais formal para “avó”. Use-o para falar da mãe de um dos pais; para especificar o lado da família, diga <b>maternal grandmother</b> (avó materna) ou <b>paternal grandmother</b> (avó paterna). Em conversas informais, <b>grandma</b> é mais comum.
+- **WordFamily:** <b>grandmotherly</b> (adjective) — que lembra uma avó, especialmente por ser carinhosa ou cuidadosa.
+- **CommonExpressions:** <b>maternal grandmother</b> — avó materna; <b>paternal grandmother</b> — avó paterna; <b>grandmother-to-be</b> — futura avó.
+- **RelatedWords:** <b>grandma</b> é a forma informal e afetuosa mais comum; <b>granny</b> também é informal e carinhosa, mas pode soar regional ou antiquada. <b>Grandmother</b> é a opção neutra, adequada tanto à fala quanto à escrita.
+- **Source:** Lista de estudo fornecida pelo usuário.
+
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,29 +33,29 @@ anki_note_id: '1789697069977'
 
 _noun_
 
-> A word used to express the idea of avó.
+> The mother of someone's father or mother.
 
 ### How to use
 
-Use **grandmother** conforme seu significado e sua classe gramatical.
+**Grandmother** é o termo neutro e um pouco mais formal para “avó”. Use-o para falar da mãe de um dos pais; para especificar o lado da família, diga **maternal grandmother** (avó materna) ou **paternal grandmother** (avó paterna). Em conversas informais, **grandma** é mais comum.
 
 ### Example
 
-I used <b>grandmother</b> in a natural sentence.
+My <b>grandmother</b> taught me how to bake bread.
 
-_Usei <b>grandmother</b> em uma frase natural._
+_Minha avó me ensinou a fazer pão._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+**maternal grandmother** — avó materna; **paternal grandmother** — avó paterna; **grandmother-to-be** — futura avó.
 
 ### Word family
 
-Não há derivados essenciais.
+**grandmotherly** (adjective) — que lembra uma avó, especialmente por ser carinhosa ou cuidadosa.
 
 ### Related words and differences
 
-Compare **grandmother** com termos próximos pelo contexto.
+**grandma** é a forma informal e afetuosa mais comum; **granny** também é informal e carinhosa, mas pode soar regional ou antiquada. **Grandmother** é a opção neutra, adequada tanto à fala quanto à escrita.
 
 ### Source
 

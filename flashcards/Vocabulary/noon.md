@@ -7,23 +7,15 @@ anki_note_id: '1789697070565'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **noon** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
-
 - **Word:** noon
 - **Meaning:** **meio-dia**
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of meio-dia.
-- **Example:** I used <b>noon</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>noon</b> em uma frase natural._
-- **HowToUse:** Use **noon** conforme seu significado e sua classe gramatical.
+- **Definition:** Twelve o'clock in the daytime; the middle of the day.
+- **Example:** The meeting starts at <b>noon</b>.
+- **ExampleTranslation:** A reunião começa ao <b>meio-dia</b>.
+- **HowToUse:** Use <b>noon</b> for 12:00 p.m., not 12:00 a.m. For an event that happens at this time, say <b>at noon</b>.
+- **CommonExpressions:** <b>at noon</b> = ao meio-dia; <b>by noon</b> = até o meio-dia; <b>around noon</b> = por volta do meio-dia.
+- **RelatedWords:** <b>midday</b> refers to the middle part of the day and is often interchangeable with <b>noon</b>, though it can be less exact.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,30 +30,22 @@ anki_note_id: '1789697070565'
 
 _noun_
 
-> A word used to express the idea of meio-dia.
+Twelve o'clock in the daytime; the middle of the day.
 
 ### How to use
 
-Use **noon** conforme seu significado e sua classe gramatical.
+Use <b>noon</b> for 12:00 p.m., not 12:00 a.m. For an event that happens at this time, say <b>at noon</b>.
 
 ### Example
 
-I used <b>noon</b> in a natural sentence.
+The meeting starts at <b>noon</b>.
 
-_Usei <b>noon</b> em uma frase natural._
+A reunião começa ao <b>meio-dia</b>.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>at noon</b> = ao meio-dia; <b>by noon</b> = até o meio-dia; <b>around noon</b> = por volta do meio-dia.
 
 ### Related words and differences
 
-Compare **noon** com termos próximos pelo contexto.
-
-### Source
-
-Lista de estudo fornecida pelo usuário.
+<b>midday</b> refers to the middle part of the day and is often interchangeable with <b>noon</b>, though it can be less exact.

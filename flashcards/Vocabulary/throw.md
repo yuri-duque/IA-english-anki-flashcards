@@ -7,23 +7,18 @@ anki_note_id: '1789697071535'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **throw** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **WordFamily:** <b>thrower</b> — pessoa que arremessa; <b>throwing</b> — ato de arremessar ou forma em <i>-ing</i> do verbo.
+- **CommonExpressions:** <b>throw away</b> — jogar fora; <b>throw a party</b> — dar uma festa.
+- **RelatedWords:** <b>toss</b> costuma sugerir um lançamento leve ou casual; <b>hurl</b> enfatiza força. <b>Throw</b> é o verbo geral para lançar algo.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** throw
-- **Meaning:** **jogar**; arremessar
+- **Meaning:** **jogar**; lançar, arremessar
 - **PartOfSpeech:** verb
-- **Definition:** A word used to express the idea of jogar.
-- **Example:** I used <b>throw</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>throw</b> em uma frase natural._
-- **HowToUse:** Use **throw** conforme seu significado e sua classe gramatical.
+- **Definition:** To make something move through the air by using your arm.
+- **Example:** Maya <b>threw</b> the keys onto the table.
+- **ExampleTranslation:** Maya jogou as chaves sobre a mesa.
+- **HowToUse:** Use <b>throw</b> para lançar algo com a mão; o objeto lançado costuma vir logo depois do verbo. Também aparece em combinações com sentidos próprios, como <b>throw away</b> (“jogar fora”).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +29,33 @@ anki_note_id: '1789697071535'
 
 ## Verso
 
-**jogar**; arremessar
+**jogar**; lançar, arremessar
 
 _verb_
 
-> A word used to express the idea of jogar.
+> To make something move through the air by using your arm.
 
 ### How to use
 
-Use **throw** conforme seu significado e sua classe gramatical.
+Use <b>throw</b> para lançar algo com a mão; o objeto lançado costuma vir logo depois do verbo. Também aparece em combinações com sentidos próprios, como <b>throw away</b> (“jogar fora”).
 
 ### Example
 
-I used <b>throw</b> in a natural sentence.
+Maya <b>threw</b> the keys onto the table.
 
-_Usei <b>throw</b> em uma frase natural._
+Maya jogou as chaves sobre a mesa.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>throw away</b> — jogar fora; <b>throw a party</b> — dar uma festa.
 
 ### Word family
 
-Não há derivados essenciais.
+<b>thrower</b> — pessoa que arremessa; <b>throwing</b> — ato de arremessar ou forma em <i>-ing</i> do verbo.
 
 ### Related words and differences
 
-Compare **throw** com termos próximos pelo contexto.
+<b>toss</b> costuma sugerir um lançamento leve ou casual; <b>hurl</b> enfatiza força. <b>Throw</b> é o verbo geral para lançar algo.
 
 ### Source
 

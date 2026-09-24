@@ -7,23 +7,17 @@ anki_note_id: '1789697071605'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **toward** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** **toward the end of** (perto do fim de); **contribute toward** (contribuir para); an attitude **toward** something (uma atitude em relação a algo).
+- **RelatedWords:** **toward** indica direção ou relação: *She walked toward the station* (ela caminhou em direção à estação). **To** costuma indicar destino ou ponto de chegada: *She went to the station* (ela foi à estação). No inglês britânico, também é comum a variante **towards**; **toward** é mais comum no inglês americano.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** toward
-- **Meaning:** **em direção a**; para
+- **Meaning:** **em direção a**; para; em relação a; para (contribuição ou finalidade)
 - **PartOfSpeech:** preposition
-- **Definition:** A word used to express the idea of em direção a.
-- **Example:** I used <b>toward</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>toward</b> em uma frase natural._
-- **HowToUse:** Use **toward** conforme seu significado e sua classe gramatical.
+- **Definition:** In the direction of someone or something; also used to describe a relationship, attitude, contribution, or approximate time.
+- **Example:** Maya walked <b>toward</b> the station, carrying money she had saved <b>toward</b> her train fare.
+- **ExampleTranslation:** Maya caminhou em direção à estação, levando o dinheiro que tinha guardado para a passagem de trem.
+- **HowToUse:** Use **toward** para indicar movimento em direção a um lugar ou pessoa, uma atitude ou relação em relação a algo, ou uma contribuição destinada a um objetivo. Também pode indicar um momento aproximado, como em **toward the end of the day** (“perto do fim do dia”).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697071605'
 
 ## Verso
 
-**em direção a**; para
+**em direção a**; para; em relação a; para (contribuição ou finalidade)
 
 _preposition_
 
-> A word used to express the idea of em direção a.
+> In the direction of someone or something; also used to describe a relationship, attitude, contribution, or approximate time.
 
 ### How to use
 
-Use **toward** conforme seu significado e sua classe gramatical.
+Use **toward** para indicar movimento em direção a um lugar ou pessoa, uma atitude ou relação em relação a algo, ou uma contribuição destinada a um objetivo. Também pode indicar um momento aproximado, como em **toward the end of the day** (“perto do fim do dia”).
 
 ### Example
 
-I used <b>toward</b> in a natural sentence.
+Maya walked <b>toward</b> the station, carrying money she had saved <b>toward</b> her train fare.
 
-_Usei <b>toward</b> em uma frase natural._
+_Maya caminhou em direção à estação, levando o dinheiro que tinha guardado para a passagem de trem._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+**toward the end of** (perto do fim de); **contribute toward** (contribuir para); an attitude **toward** something (uma atitude em relação a algo).
 
 ### Related words and differences
 
-Compare **toward** com termos próximos pelo contexto.
+**toward** indica direção ou relação: *She walked toward the station* (ela caminhou em direção à estação). **To** costuma indicar destino ou ponto de chegada: *She went to the station* (ela foi à estação). No inglês britânico, também é comum a variante **towards**; **toward** é mais comum no inglês americano.
 
 ### Source
 

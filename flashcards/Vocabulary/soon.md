@@ -7,23 +7,17 @@ anki_note_id: '1789697071264'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **soon** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** **See you soon** = até breve; **as soon as possible** = assim que possível.
+- **RelatedWords:** **Soon** indica que algo acontecerá em pouco tempo; **early** significa antes do horário esperado ou habitual (*We arrived early*); **shortly** também significa em breve e costuma soar um pouco mais formal (*The meeting will begin shortly*).
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** soon
-- **Meaning:** **em breve**; logo
+- **Meaning:** **em breve**; logo; daqui a pouco
 - **PartOfSpeech:** adverb
-- **Definition:** A word used to express the idea of em breve.
-- **Example:** I used <b>soon</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>soon</b> em uma frase natural._
-- **HowToUse:** Use **soon** conforme seu significado e sua classe gramatical.
+- **Definition:** In a short time from now or after a particular time.
+- **Example:** The results should be available <b>soon</b>.
+- **ExampleTranslation:** Os resultados devem estar disponíveis em breve.
+- **HowToUse:** Use **soon** para dizer que algo acontecerá em pouco tempo, sem especificar exatamente quando. Pode se referir ao futuro próximo (*I’ll call you <b>soon</b>*) ou a pouco tempo depois de outro evento (*She <b>soon</b> realized her mistake*).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697071264'
 
 ## Verso
 
-**em breve**; logo
+**em breve**; logo; daqui a pouco
 
 _adverb_
 
-> A word used to express the idea of em breve.
+> In a short time from now or after a particular time.
 
 ### How to use
 
-Use **soon** conforme seu significado e sua classe gramatical.
+Use **soon** para dizer que algo acontecerá em pouco tempo, sem especificar exatamente quando. Pode se referir ao futuro próximo (*I’ll call you <b>soon</b>*) ou a pouco tempo depois de outro evento (*She <b>soon</b> realized her mistake*).
 
 ### Example
 
-I used <b>soon</b> in a natural sentence.
+The results should be available <b>soon</b>.
 
-_Usei <b>soon</b> em uma frase natural._
+_Os resultados devem estar disponíveis em breve._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+**See you soon** = até breve; **as soon as possible** = assim que possível.
 
 ### Related words and differences
 
-Compare **soon** com termos próximos pelo contexto.
+**Soon** indica que algo acontecerá em pouco tempo; **early** significa antes do horário esperado ou habitual (*We arrived early*); **shortly** também significa em breve e costuma soar um pouco mais formal (*The meeting will begin shortly*).
 
 ### Source
 

@@ -6,34 +6,35 @@ anki_note_id: '1788434383103'
 # straightforward
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
-- **Source:**
 
 - **Word:** straightforward
-- **Meaning:** **simples**; direto; claro; fácil de entender ou fazer
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of straightforward.
-- **Example:** The instructions were clear and **straightforward**.
-- **ExampleTranslation:** _As instruções eram claras e simples._
-- **HowToUse:** Use **straightforward** para descrever algo que não é complicado e pode ser entendido ou realizado facilmente. Também pode descrever uma pessoa direta e honesta, que fala o que pensa sem rodeios.
+- **Meaning:** <b>simples e direto</b>; claro; franco (sobre uma pessoa)
+- **PartOfSpeech:** adjective
+- **Definition:** Easy to understand, do, or deal with; direct and honest.
+- **Example:** The instructions were clear and <b>straightforward</b>.
+- **ExampleTranslation:** As instruções eram claras e fáceis de seguir.
+- **HowToUse:** Use <b>straightforward</b> para descrever algo simples, claro e sem complicações. Para uma pessoa, pode significar que ela é direta e honesta, sem rodeios.
+- **CommonExpressions:** <b>a straightforward process</b> — um processo simples; <b>a straightforward answer</b> — uma resposta direta; <b>be straightforward with someone</b> — ser direto e honesto com alguém
 ## Frente
 ### ENGLISH · VOCABULARY
 # straightforward
 *What does this word mean and how is it used?*
 
 ## Verso
-**simples**; direto; claro; fácil de entender ou fazer
+<b>simples e direto</b>; claro; franco (sobre uma pessoa)
+
+_adjective_
+
+### Definition
+Easy to understand, do, or deal with; direct and honest.
 
 ### How to use
-Use **straightforward** para descrever algo que não é complicado e pode ser entendido ou realizado facilmente. Também pode descrever uma pessoa direta e honesta, que fala o que pensa sem rodeios.
+Use <b>straightforward</b> para descrever algo simples, claro e sem complicações. Para uma pessoa, pode significar que ela é direta e honesta, sem rodeios.
 
 ### Example
-The instructions were clear and **straightforward**.
+The instructions were clear and <b>straightforward</b>.
 
-_As instruções eram claras e simples._
+_As instruções eram claras e fáceis de seguir._
 
 ### Common expressions
-**straightforward process** — processo simples  
-**straightforward answer** — resposta direta  
-**be straightforward with someone** — ser direto e honesto com alguém
+<b>a straightforward process</b> — um processo simples; <b>a straightforward answer</b> — uma resposta direta; <b>be straightforward with someone</b> — ser direto e honesto com alguém

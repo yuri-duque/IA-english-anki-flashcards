@@ -6,36 +6,34 @@ anki_note_id: '1788198807801'
 # cow
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
 - **Source:** [flashcards/words/cow.md](../words/cow.md)
 
 - **Word:** cow
-- **Meaning:** **vaca**; gado; bovino; intimidar
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of cow.
-- **Example:** The farmer keeps several **cows** in the field.
+- **Meaning:** **vaca**; fêmea adulta do gado bovino
+- **PartOfSpeech:** noun; (rare) verb
+- **Definition:** An adult female of cattle, especially a domestic bovine kept for milk or meat.
+- **Example:** The farmer keeps several <b>cows</b> in the field.
 - **ExampleTranslation:** _O fazendeiro mantém várias vacas no campo._
-- **HowToUse:** É principalmente o substantivo para a fêmea adulta do gado bovino. Como verbo, raro, significa intimidar ou amedrontar.
+- **HowToUse:** É o substantivo para a fêmea adulta do gado bovino, especialmente a criada para produzir leite ou carne. Como verbo, é raro e significa intimidar ou amedrontar alguém.
 ## Frente
 ### ENGLISH · VOCABULARY
 # cow
 *What does this word mean and how is it used?*
 
 ## Verso
-**vaca**; gado; bovino; intimidar
+**vaca**; fêmea adulta do gado bovino
 
 ### How to use
-É principalmente o substantivo para a fêmea adulta do gado bovino. Como verbo, raro, significa intimidar ou amedrontar.
+<b>cow</b> é o substantivo para a fêmea adulta do gado bovino, especialmente a criada para produzir leite ou carne. Como verbo, é raro e significa intimidar ou amedrontar alguém.
 
 ### Example
-The farmer keeps several **cows** in the field.
+The farmer keeps several <b>cows</b> in the field.
 
 _O fazendeiro mantém várias vacas no campo._
 
 ### Common expressions
-**holy cow** — nossa!; caramba!  
-**cash cow** — fonte garantida de dinheiro
+holy <b>cow</b> — nossa!; caramba!  
+cash <b>cow</b> — fonte garantida de dinheiro
 ---
 anki: false
 ---

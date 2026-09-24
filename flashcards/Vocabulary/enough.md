@@ -7,17 +7,13 @@ anki_note_id: '1789411018040'
 
 ## Dados da nota
 - **NounType:** countable and uncountable
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
 - **QuantityOrder:** não é uma posição fixa: indica a quantidade necessária; compare com too many / too much, que indicam excesso
 - **CommonExpressions:** <span style="color:#2563eb"><b>enough time</b></span> — tempo suficiente; <span style="color:#2563eb"><b>good enough</b></span> — bom o suficiente
-- **Source:**
 
 - **Word:** enough
 - **Meaning:** <span style="color:#2563eb"><b>suficiente</b></span>; o bastante; suficientes
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of enough.
+- **Definition:** As much or as many as needed or wanted.
 - **Example:** Do we have <span style="color:#2563eb"><b>enough</b></span> chairs for everyone?
 - **ExampleTranslation:** _Temos cadeiras suficientes para todos?_
 - **HowToUse:** Use <span style="color:#2563eb"><b>enough</b></span> para dizer que há a quantidade necessária. Ele vem antes do substantivo: `enough money`; depois de adjetivos: `old enough`.

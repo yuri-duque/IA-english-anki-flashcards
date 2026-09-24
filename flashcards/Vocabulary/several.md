@@ -7,24 +7,26 @@ anki_note_id: '1788198449434'
 
 ## Dados da nota
 - **NounType:** plural countable
-- **Audio:**
-- **AudioSource:**
-- **Source:** [flashcards/words/several.md](../words/several.md)
+- **QuantityOrder:** all → most → a lot of / lots of → many → <b>several</b> → some → a few → few → no
+- **CommonExpressions:** <b>several of them</b> — vários deles; <b>several times</b> — várias vezes.
+- **RelatedWords:** <b>some</b> é mais vago e pode indicar qualquer quantidade; <b>many</b> sugere uma quantidade maior; <b>a few</b> enfatiza que há alguns, geralmente o suficiente.
 
 - **Word:** several
-- **Meaning:** <span style="color:#2563eb"><b>vários</b></span>; alguns; diversos
+- **Meaning:** <b>vários</b>; alguns; diversos
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of several.
-- **Example:** I’ve visited <span style="color:#2563eb"><b>several</b></span> countries.
+- **Definition:** More than two but not many; an unspecified, moderately small number of people or things.
+- **Example:** I’ve visited <b>several</b> countries.
 - **ExampleTranslation:** _Visitei vários países._
-- **HowToUse:** Indica uma quantidade maior que dois, mas não muito grande nem exata. Vem antes de substantivos contáveis no plural ou aparece em **several of them**.
+- **HowToUse:** <b>Several</b> indica uma quantidade não especificada, geralmente maior que dois, mas não muito grande. Como determinante, vem antes de um substantivo contável no plural (<b>several countries</b>); como pronome, pode aparecer em <b>several of them</b>.
 ## Frente
 ### ENGLISH · VOCABULARY
 # several
 *What does this word mean and how is it used?*
 
 ## Verso
-<span style="color:#2563eb"><b>vários</b></span>; alguns; diversos
+<b>vários</b>; alguns; diversos
+
+> More than two but not many; an unspecified, moderately small number of people or things.
 
 ### Noun type
 Usado somente com substantivos **contáveis no plural**:
@@ -33,19 +35,22 @@ Usado somente com substantivos **contáveis no plural**:
 - several questions
 
 ### How to use
-Indica uma quantidade maior que dois, mas não muito grande nem exata. Vem antes de substantivos contáveis no plural ou aparece em **several of them**.
+<b>Several</b> indica uma quantidade não especificada, geralmente maior que dois, mas não muito grande. Como determinante, vem antes de um substantivo contável no plural (<b>several countries</b>); como pronome, pode aparecer em <b>several of them</b>.
 
 ### Quantity order
-all → most → a lot of / lots of → many → <span style="color:#2563eb"><b>several</b></span> → some → a few → few → no
+all → most → a lot of / lots of → many → <b>several</b> → some → a few → few → no
 
 ### Example
-I’ve visited <span style="color:#2563eb"><b>several</b></span> countries.
+I’ve visited <b>several</b> countries.
 
 _Visitei vários países._
 
 ### Common expressions
-**several of them** — vários deles  
-**several times** — várias vezes
+<b>several of them</b> — vários deles; <b>several times</b> — várias vezes.
+
+### Related words and differences
+
+<b>Some</b> é mais vago e pode indicar qualquer quantidade; <b>many</b> sugere uma quantidade maior; <b>a few</b> enfatiza que há alguns, geralmente o suficiente.
 ---
 anki: false
 ---

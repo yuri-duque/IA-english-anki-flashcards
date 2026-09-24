@@ -7,27 +7,46 @@ anki_note_id: '1789411017991'
 
 ## Dados da nota
 - **NounType:** plural countable; two items
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **QuantityOrder:** não é uma posição fixa: refere-se exatamente aos dois itens
-- **CommonExpressions:** <span style="color:#2563eb"><b>both of</b></span> — ambos de; <span style="color:#2563eb"><b>both...and</b></span> — tanto... quanto
-- **Source:**
+- **QuantityOrder:** não indica uma posição fixa: refere-se exatamente aos dois itens
+- **CommonExpressions:** <b>both of</b> — ambos de; <b>both...and</b> — tanto... quanto
 
 - **Word:** both
-- **Meaning:** <span style="color:#2563eb"><b>ambos</b></span>; os dois
-- **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of both.
-- **Example:** <span style="color:#2563eb"><b>Both</b></span> answers are correct.
+- **Meaning:** <b>ambos</b>; os dois
+- **PartOfSpeech:** determiner, pronoun, conjunction
+- **Definition:** Refers to two people or things together, including each one.
+- **Example:** <b>Both</b> answers are correct.
 - **ExampleTranslation:** _As duas respostas estão corretas._
-- **HowToUse:** Use <span style="color:#2563eb"><b>both</b></span> para incluir os dois itens de um par. Não use com substantivos incontáveis.
+- **HowToUse:** Use <b>both</b> antes de um substantivo plural contável para incluir os dois itens de um par (<b>both</b> answers). Use <b>both of</b> antes de um pronome ou de um grupo com determinante (<b>both of</b> them; <b>both of</b> the answers). Use <b>both...and</b> para ligar dois elementos.
+- **RelatedWords:** <b>either</b> refere-se a uma opção de duas; <b>neither</b> exclui as duas; <b>all</b> normalmente se refere a três ou mais.
+
 ## Frente
 ### ENGLISH · VOCABULARY
 # both
 *What does this word mean and how is it used?*
 
 ## Verso
-<span style="color:#2563eb"><b>ambos</b></span>; os dois
+<b>ambos</b>; os dois
+
+### Part of speech
+determiner, pronoun, conjunction
+
+### Definition
+Refers to two people or things together, including each one.
+
+### How to use
+Use <b>both</b> antes de um substantivo plural contável para incluir os dois itens de um par (<b>both</b> answers). Use <b>both of</b> antes de um pronome ou de um grupo com determinante (<b>both of</b> them; <b>both of</b> the answers). Use <b>both...and</b> para ligar dois elementos.
+
+### Example
+<b>Both</b> answers are correct.
+
+_As duas respostas estão corretas._
+
+### Common expressions
+<b>both of</b> — ambos de
+<b>both...and</b> — tanto... quanto
+
+### Related words
+<b>either</b> refere-se a uma opção de duas; <b>neither</b> exclui as duas; <b>all</b> normalmente se refere a três ou mais.
 
 ### Noun type
 Usado com exatamente dois itens **contáveis**:
@@ -35,17 +54,5 @@ Usado com exatamente dois itens **contáveis**:
 - both answers
 - both students
 
-### How to use
-Use <span style="color:#2563eb"><b>both</b></span> para incluir os dois itens de um par. Não use com substantivos incontáveis.
-
 ### Quantity order
-Não é uma posição fixa na escala: <span style="color:#2563eb"><b>both</b></span> significa exatamente os dois.
-
-### Examples
-<span style="color:#2563eb"><b>Both</b></span> answers are correct.
-
-_As duas respostas estão corretas._
-
-<span style="color:#2563eb"><b>Both</b></span> of my parents speak English.
-
-_Ambos os meus pais falam inglês._
+Não é uma posição fixa na escala: <b>both</b> significa exatamente os dois.

@@ -7,23 +7,13 @@ anki_note_id: '1789697069826'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **fifty** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
-
 - **Word:** fifty
 - **Meaning:** **cinquenta**
-- **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of cinquenta.
-- **Example:** I used <b>fifty</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>fifty</b> em uma frase natural._
-- **HowToUse:** Use **fifty** conforme seu significado e sua classe gramatical.
+- **PartOfSpeech:** cardinal number
+- **Definition:** The number equal to five times ten.
+- **Example:** The museum has <b>fifty</b> paintings in its permanent collection.
+- **ExampleTranslation:** O museu tem cinquenta pinturas em seu acervo permanente.
+- **HowToUse:** Use **fifty** para indicar a quantidade 50. Como número cardinal, aparece antes de um substantivo contável no plural (*fifty paintings*) ou sozinho quando a quantidade já está clara (*I counted fifty*). Na escrita, números redondos como **fifty** costumam ser escritos por extenso em textos corridos; em contextos técnicos, tabelas e medidas, também se usa o algarismo 50.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -42,26 +32,10 @@ _number_
 
 ### How to use
 
-Use **fifty** conforme seu significado e sua classe gramatical.
+Use **fifty** para indicar a quantidade 50. Como número cardinal, aparece antes de um substantivo contável no plural (*fifty paintings*) ou sozinho quando a quantidade já está clara (*I counted fifty*). Na escrita, números redondos como **fifty** costumam ser escritos por extenso em textos corridos; em contextos técnicos, tabelas e medidas, também se usa o algarismo 50.
 
 ### Example
 
-I used <b>fifty</b> in a natural sentence.
+The museum has <b>fifty</b> paintings in its permanent collection.
 
-_Usei <b>fifty</b> em uma frase natural._
-
-### Common expressions
-
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
-
-### Related words and differences
-
-Compare **fifty** com termos próximos pelo contexto.
-
-### Source
-
-Lista de estudo fornecida pelo usuário.
+O museu tem cinquenta pinturas em seu acervo permanente.

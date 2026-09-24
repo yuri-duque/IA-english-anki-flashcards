@@ -6,36 +6,40 @@ anki_note_id: '1788198449537'
 # weird
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
-- **Source:** [flashcards/words/weird.md](../words/weird.md)
+- **CommonExpressions:** <b>a weird feeling</b> — uma sensação estranha; <b>weird someone out</b> — deixar alguém desconfortável ou inquieto.
+- **RelatedWords:** <b>strange</b> é uma alternativa mais neutra; <b>unusual</b> significa incomum, mas não necessariamente esquisito ou desconcertante.
 
 - **Word:** weird
-- **Meaning:** **estranho**; esquisito; incomum; bizarro
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of weird.
-- **Example:** That’s a **weird** question.
+- **Meaning:** <b>estranho</b>; esquisito; incomum; bizarro
+- **PartOfSpeech:** adjective
+- **Definition:** Unusual or unexpected in a way that seems strange or makes people feel uncomfortable.
+- **Example:** That’s a <b>weird</b> question.
 - **ExampleTranslation:** _Essa é uma pergunta estranha._
-- **HowToUse:** Descreve algo fora do normal ou inesperado. Pode expressar surpresa, curiosidade ou desaprovação.
+- **HowToUse:** Use <b>weird</b> para descrever algo incomum ou inesperado que pareça esquisito ou cause desconforto. É informal e pode expressar surpresa, curiosidade ou desaprovação.
 ## Frente
 ### ENGLISH · VOCABULARY
 # weird
 *What does this word mean and how is it used?*
 
 ## Verso
-**estranho**; esquisito; incomum; bizarro
+<b>estranho</b>; esquisito; incomum; bizarro
+
+> Unusual or unexpected in a way that seems strange or makes people feel uncomfortable.
 
 ### How to use
-Descreve algo fora do normal ou inesperado. Pode expressar surpresa, curiosidade ou desaprovação.
+Use <b>weird</b> para descrever algo incomum ou inesperado que pareça esquisito ou cause desconforto. É informal e pode expressar surpresa, curiosidade ou desaprovação.
 
 ### Example
-That’s a **weird** question.
+That’s a <b>weird</b> question.
 
 _Essa é uma pergunta estranha._
 
 ### Common expressions
-**weird out** — deixar desconfortável; ficar assustado  
-**weird feeling** — sensação estranha
+<b>a weird feeling</b> — uma sensação estranha; <b>weird someone out</b> — deixar alguém desconfortável ou inquieto.
+
+### Related words and differences
+
+<b>Strange</b> é uma alternativa mais neutra; <b>unusual</b> significa incomum, mas não necessariamente esquisito ou desconcertante.
 ---
 anki: false
 ---

@@ -6,14 +6,10 @@ anki_note_id: '1788198449103'
 # fancy
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
-- **Source:** [flashcards/words/fancy.md](../words/fancy.md)
-
 - **Word:** fancy
 - **Meaning:** **elegante**; sofisticado; gostar de; querer; fantasia
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of fancy.
+- **PartOfSpeech:** adjective; verb; noun
+- **Definition:** A liking or desire; also used as a verb meaning to want or find attractive, and as an adjective meaning elaborate or stylish.
 - **Example:** Do you **fancy** a cup of tea?
 - **ExampleTranslation:** _Você quer uma xícara de chá?_
 - **HowToUse:** Como adjetivo, descreve algo sofisticado. No inglês britânico informal, **fancy** pode significar querer ou estar a fim de algo.
@@ -24,6 +20,9 @@ anki_note_id: '1788198449103'
 
 ## Verso
 **elegante**; sofisticado; gostar de; querer; fantasia
+
+### Definition
+A liking or desire; also used as a verb meaning to want or find attractive, and as an adjective meaning elaborate or stylish.
 
 ### How to use
 Como adjetivo, descreve algo sofisticado. No inglês britânico informal, **fancy** pode significar querer ou estar a fim de algo.

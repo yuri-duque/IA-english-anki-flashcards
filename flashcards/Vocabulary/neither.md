@@ -7,27 +7,24 @@ anki_note_id: '1789411018240'
 
 ## Dados da nota
 - **NounType:** singular countable; two options
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
 - **QuantityOrder:** não é uma posição fixa: indica zero de exatamente duas opções
-- **CommonExpressions:** <span style="color:#2563eb"><b>neither...nor</b></span> — nem... nem; <span style="color:#2563eb"><b>neither of</b></span> — nenhum dos dois
-- **Source:**
+- **CommonExpressions:** <b>neither...nor</b> — nem... nem; <b>neither of</b> — nenhum/nenhuma dos dois/duas
+- **RelatedWords:** <b>either</b> refers to one of two options (qualquer um dos dois); <b>none</b> means not any of three or more options, or none of a group.
 
 - **Word:** neither
-- **Meaning:** <span style="color:#2563eb"><b>nenhum dos dois</b></span>; nem um nem outro
+- **Meaning:** <b>nenhum dos dois</b>; nem um nem outro
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of neither.
-- **Example:** <span style="color:#2563eb"><b>Neither</b></span> answer is correct.
+- **Definition:** Used to say that not one and not the other of two people or things is true or applies.
+- **Example:** <b>Neither</b> answer is correct.
 - **ExampleTranslation:** _Nenhuma das duas respostas está correta._
-- **HowToUse:** Use <span style="color:#2563eb"><b>neither</b></span> para rejeitar as duas opções. Compare com `either`, que escolhe uma das duas.
+- **HowToUse:** Use <b>neither</b> to say that both of two options are excluded. As a determiner, it comes before a singular noun (<b>neither answer</b>); as a pronoun, it can stand alone (<b>Neither is correct</b>). In <b>neither...nor</b>, it links two excluded alternatives. Compare <b>either</b>, which refers to one of the two options.
 ## Frente
 ### ENGLISH · VOCABULARY
 # neither
 *What does this word mean and how is it used?*
 
 ## Verso
-<span style="color:#2563eb"><b>nenhum dos dois</b></span>; nem um nem outro
+<b>nenhum dos dois</b>; nem um nem outro
 
 ### Noun type
 Usado com opções **contáveis no singular**, quando há exatamente duas:
@@ -36,16 +33,24 @@ Usado com opções **contáveis no singular**, quando há exatamente duas:
 - neither option
 
 ### How to use
-Use <span style="color:#2563eb"><b>neither</b></span> para rejeitar as duas opções. Compare com `either`, que escolhe uma das duas.
+Use <b>neither</b> to say that both of two options are excluded. As a determiner, it comes before a singular noun (<b>neither answer</b>); as a pronoun, it can stand alone (<b>Neither is correct</b>). In <b>neither...nor</b>, it links two excluded alternatives. Compare <b>either</b>, which refers to one of the two options.
 
 ### Quantity order
-Não é uma posição fixa na escala: <span style="color:#2563eb"><b>neither</b></span> significa zero de exatamente duas opções.
+Não indica uma posição fixa: <b>neither</b> significa que nenhuma das duas opções se aplica.
 
 ### Examples
-<span style="color:#2563eb"><b>Neither</b></span> answer is correct.
+<b>Neither</b> answer is correct.
 
 _Nenhuma das duas respostas está correta._
 
-<span style="color:#2563eb"><b>Neither</b></span> of them wanted to leave.
+<b>Neither</b> of them wanted to leave.
 
 _Nenhum dos dois queria ir embora._
+
+### Common expressions
+
+<b>neither...nor</b> — nem... nem; <b>neither of</b> — nenhum/nenhuma dos dois/duas
+
+### Related words and differences
+
+<b>either</b> refers to one of two options (qualquer um dos dois); <b>none</b> means not any of three or more options, or none of a group.

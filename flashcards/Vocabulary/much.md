@@ -7,27 +7,26 @@ anki_note_id: '1789411018215'
 
 ## Dados da nota
 - **NounType:** uncountable
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **QuantityOrder:** all → most → a lot of / lots of → <span style="color:#2563eb"><b>much</b></span> → some → a little → little → no
-- **CommonExpressions:** <span style="color:#2563eb"><b>how much</b></span> — quanto; <span style="color:#2563eb"><b>not much</b></span> — não muito
-- **Source:**
+- **RelatedWords:** <b>many</b> também expressa quantidade, mas é usado com substantivos contáveis no plural: <b>many books</b>; <b>much time</b> usa um substantivo incontável.
+- **QuantityOrder:** all → most → a lot of / lots of → <b>much</b> → some → a little → little → no
+- **CommonExpressions:** <b>how much</b> — quanto; <b>not much</b> — não muito
 
 - **Word:** much
-- **Meaning:** <span style="color:#2563eb"><b>muito</b></span>; muita; grande quantidade de
+- **Meaning:** <b>muito</b>; muita; grande quantidade de
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of much.
-- **Example:** How <span style="color:#2563eb"><b>much</b></span> time do you need?
+- **Definition:** A large amount or degree of something; used especially with uncountable nouns.
+- **Example:** How <b>much</b> time do you need?
 - **ExampleTranslation:** _Quanto tempo você precisa?_
-- **HowToUse:** Use <span style="color:#2563eb"><b>much</b></span> principalmente em perguntas e frases negativas. Para contáveis no plural, use `many`.
+- **HowToUse:** <b>Much</b> acompanha substantivos incontáveis e aparece com frequência em perguntas e frases negativas. Em frases afirmativas, <b>a lot of</b> costuma soar mais natural. Para substantivos contáveis no plural, use <b>many</b>.
 ## Frente
 ### ENGLISH · VOCABULARY
 # much
 *What does this word mean and how is it used?*
 
 ## Verso
-<span style="color:#2563eb"><b>muito</b></span>; muita; grande quantidade de
+<b>muito</b>; muita; grande quantidade de
+
+> A large amount or degree of something; used especially with uncountable nouns.
 
 ### Noun type
 Usado somente com substantivos **incontáveis**:
@@ -37,20 +36,24 @@ Usado somente com substantivos **incontáveis**:
 - much information
 
 ### How to use
-Use <span style="color:#2563eb"><b>much</b></span> principalmente em perguntas e frases negativas. Para contáveis no plural, use `many`.
+<b>Much</b> acompanha substantivos incontáveis e aparece com frequência em perguntas e frases negativas. Em frases afirmativas, <b>a lot of</b> costuma soar mais natural. Para substantivos contáveis no plural, use <b>many</b>.
 
 ### Quantity order
-all → most → a lot of / lots of → <span style="color:#2563eb"><b>much</b></span> → some → a little → little → no
+all → most → a lot of / lots of → <b>much</b> → some → a little → little → no
 
 ### Examples
-How <span style="color:#2563eb"><b>much</b></span> time do you need?
+How <b>much</b> time do you need?
 
 _Quanto tempo você precisa?_
 
-I don’t have <span style="color:#2563eb"><b>much</b></span> money.
+I don’t have <b>much</b> money.
 
 _Eu não tenho muito dinheiro._
 
 ### Common expressions
-<span style="color:#2563eb"><b>how much</b></span> — quanto/ quanta  
-<span style="color:#2563eb"><b>not much</b></span> — não muito
+<b>how much</b> — quanto / quanta  
+<b>not much</b> — não muito
+
+### Related words and differences
+
+<b>Many</b> também expressa quantidade, mas é usado com substantivos contáveis no plural: <b>many books</b>; <b>much time</b> usa um substantivo incontável.

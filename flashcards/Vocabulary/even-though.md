@@ -6,19 +6,12 @@ anki_note_id: '1789094547295'
 # even though
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:**
 - **CommonExpressions:** **even though + clause** — embora + oração
-- **Etymology:**
-- **Image:**
-- **Source:**
 
 - **Word:** even though
 - **Meaning:** **embora**; apesar de; mesmo que
 - **PartOfSpeech:** subordinating conjunction
-- **Definition:** A word or phrase used to express the idea of even though.
+- **Definition:** Used to introduce a subordinate clause that presents a fact that contrasts with the main clause.
 - **Example:** **Even though** it was raining, we went for a walk.
 - **ExampleTranslation:** _Embora estivesse chovendo, fomos caminhar._
 - **HowToUse:** Use **even though** para introduzir uma oração que apresenta um contraste ou uma concessão. Pode aparecer no início ou no meio da frase. Quando vem no início, normalmente é seguida por vírgula. Não use **even though** e **but** juntos na mesma construção.
@@ -36,7 +29,7 @@ anki_note_id: '1789094547295'
 _subordinating conjunction_
 
 ### Definition
-Despite the fact that.
+Used to introduce a subordinate clause that presents a fact that contrasts with the main clause.
 
 ### How to use
 Use **even though** para introduzir uma oração que apresenta um contraste ou uma concessão. Pode aparecer no início ou no meio da frase. Quando vem no início, normalmente é seguida por vírgula. Não use **even though** e **but** juntos na mesma construção.

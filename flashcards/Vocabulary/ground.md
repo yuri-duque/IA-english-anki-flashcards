@@ -6,17 +6,15 @@ anki_note_id: '1788198449175'
 # ground
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
 - **Source:** [flashcards/words/ground.md](../words/ground.md)
 
 - **Word:** ground
 - **Meaning:** **chão**; solo; terra; terreno; fundamento
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of ground.
-- **Example:** The children were playing on the **ground**.
+- **PartOfSpeech:** noun
+- **Definition:** The solid surface of the earth.
+- **Example:** The children were playing on the <b>ground</b>.
 - **ExampleTranslation:** _As crianças estavam brincando no chão._
-- **HowToUse:** Como substantivo, indica o chão, o solo ou uma base abstrata. Em compostos, **ground coffee** significa café moído; como verbo, pode ser o passado de *grind*.
+- **HowToUse:** Como substantivo, <b>ground</b> indica o chão ou o solo. Também pode significar uma área de terreno ou, em sentido figurado, uma base ou razão para algo. Em compostos, <b>ground coffee</b> significa café moído; como verbo, <b>ground</b> também é o passado de <b>grind</b>.
 ## Frente
 ### ENGLISH · VOCABULARY
 # ground
@@ -25,17 +23,21 @@ anki_note_id: '1788198449175'
 ## Verso
 **chão**; solo; terra; terreno; fundamento
 
+_noun_
+
+> The solid surface of the earth.
+
 ### How to use
-Como substantivo, indica o chão, o solo ou uma base abstrata. Em compostos, **ground coffee** significa café moído; como verbo, pode ser o passado de *grind*.
+Como substantivo, <b>ground</b> indica o chão ou o solo. Também pode significar uma área de terreno ou, em sentido figurado, uma base ou razão para algo. Em compostos, <b>ground coffee</b> significa café moído; como verbo, <b>ground</b> também é o passado de <b>grind</b>.
 
 ### Example
-The children were playing on the **ground**.
+The children were playing on the <b>ground</b>.
 
 _As crianças estavam brincando no chão._
 
 ### Common expressions
-**common ground** — ponto em comum  
-**on the ground** — no local; no chão
+<b>common ground</b> — ponto em comum<br>
+<b>on the ground</b> — no local; no chão
 ---
 anki: false
 ---

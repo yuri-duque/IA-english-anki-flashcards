@@ -7,23 +7,18 @@ anki_note_id: '1789697071215'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
 - **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **someone** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** **someone else** = outra pessoa; **someone who...** = alguém que...
+- **RelatedWords:** **somebody** tem praticamente o mesmo sentido e é intercambiável na maioria dos contextos. **Anyone** costuma significar “qualquer pessoa” em frases afirmativas e aparece com frequência em perguntas e negativas; **someone** é mais comum em afirmações para indicar uma pessoa não especificada.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** someone
-- **Meaning:** **alguém**
+- **Meaning:** <b>alguém</b>; alguma pessoa
 - **PartOfSpeech:** pronoun
-- **Definition:** A word used to express the idea of alguém.
-- **Example:** I used <b>someone</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>someone</b> em uma frase natural._
-- **HowToUse:** Use **someone** conforme seu significado e sua classe gramatical.
+- **Definition:** An unspecified person; one person whose identity is not known or not stated.
+- **Example:** <b>Someone</b> left their umbrella by the door.
+- **ExampleTranslation:** Alguém deixou o guarda-chuva perto da porta.
+- **HowToUse:** Use <b>someone</b> para falar de uma pessoa não identificada, geralmente em frases afirmativas. Embora se refira a uma pessoa, concorda com verbo no singular; pronomes como “they” podem retomar essa pessoa quando o gênero é desconhecido ou irrelevante. Em perguntas, <b>someone</b> também é comum quando se espera ou se oferece algo, como em “Would <b>someone</b> like some tea?”
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,25 +29,25 @@ anki_note_id: '1789697071215'
 
 ## Verso
 
-**alguém**
+<b>alguém</b>; alguma pessoa
 
 _pronoun_
 
-> A word used to express the idea of alguém.
+> An unspecified person; one person whose identity is not known or not stated.
 
 ### How to use
 
-Use **someone** conforme seu significado e sua classe gramatical.
+Use <b>someone</b> para falar de uma pessoa não identificada, geralmente em frases afirmativas. Embora se refira a uma pessoa, concorda com verbo no singular; pronomes como “they” podem retomar essa pessoa quando o gênero é desconhecido ou irrelevante. Em perguntas, <b>someone</b> também é comum quando se espera ou se oferece algo, como em “Would <b>someone</b> like some tea?”
 
 ### Example
 
-I used <b>someone</b> in a natural sentence.
+<b>Someone</b> left their umbrella by the door.
 
-_Usei <b>someone</b> em uma frase natural._
+Alguém deixou o guarda-chuva perto da porta.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>someone else</b> = outra pessoa; <b>someone who...</b> = alguém que...
 
 ### Word family
 
@@ -60,7 +55,7 @@ Não há derivados essenciais.
 
 ### Related words and differences
 
-Compare **someone** com termos próximos pelo contexto.
+<b>somebody</b> tem praticamente o mesmo sentido e é intercambiável na maioria dos contextos. <b>Anyone</b> costuma significar “qualquer pessoa” em frases afirmativas e aparece com frequência em perguntas e negativas; <b>someone</b> é mais comum em afirmações para indicar uma pessoa não especificada.
 
 ### Source
 

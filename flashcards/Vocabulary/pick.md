@@ -6,36 +6,47 @@ anki_note_id: '1788198449277'
 # pick
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
-- **Source:** [flashcards/words/pick.md](../words/pick.md)
+- **WordFamily:** <b>picked</b> (past tense and past participle); <b>picking</b> (-ing form); <b>picker</b> (a person or tool that picks).
+- **CommonExpressions:** <b>pick a name</b> — escolher um nome; <b>pick a date</b> — escolher uma data; <b>pick a team</b> — escolher um time.
+- **RelatedWords:** <b>choose</b> tem sentido semelhante e é neutro; <b>select</b> costuma soar mais formal ou indicar uma escolha cuidadosa.
 
 - **Word:** pick
-- **Meaning:** **escolher**; pegar; apanhar; colher; tocar
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of pick.
-- **Example:** You can **pick** any seat you like.
+- **Meaning:** **escolher**; selecionar
+- **PartOfSpeech:** verb
+- **Definition:** To choose someone or something from a group of options.
+- **Example:** You can <b>pick</b> any seat you like.
 - **ExampleTranslation:** _Você pode escolher qualquer lugar que quiser._
-- **HowToUse:** Como verbo, pode indicar escolher, pegar algo ou colher. Em combinações como **pick up**, o significado muda e deve ser estudado como phrasal verb.
+- **HowToUse:** Use <b>pick</b> quando escolher uma pessoa ou coisa entre várias opções. É comum em conversas e pode ser seguido diretamente pelo objeto: <b>pick a seat</b>, <b>pick a name</b>. <b>Choose</b> tem sentido semelhante; <b>select</b> costuma soar mais formal.
 ## Frente
 ### ENGLISH · VOCABULARY
 # pick
 *What does this word mean and how is it used?*
 
 ## Verso
-**escolher**; pegar; apanhar; colher; tocar
+**escolher**; selecionar
+
+> To choose someone or something from a group of options.
 
 ### How to use
-Como verbo, pode indicar escolher, pegar algo ou colher. Em combinações como **pick up**, o significado muda e deve ser estudado como phrasal verb.
+Use <b>pick</b> quando escolher uma pessoa ou coisa entre várias opções. É comum em conversas e pode ser seguido diretamente pelo objeto: <b>pick a seat</b>, <b>pick a name</b>. <b>Choose</b> tem sentido semelhante; <b>select</b> costuma soar mais formal.
 
 ### Example
-You can **pick** any seat you like.
+You can <b>pick</b> any seat you like.
 
 _Você pode escolher qualquer lugar que quiser._
 
 ### Common expressions
-**pick up** — pegar; buscar; aprender  
-**pick out** — escolher; distinguir
+
+<b>pick a name</b> — escolher um nome; <b>pick a date</b> — escolher uma data; <b>pick a team</b> — escolher um time.
+
+### Word family
+
+<b>picked</b> (past tense and past participle); <b>picking</b> (-ing form); <b>picker</b> (a person or tool that picks).
+
+### Related words and differences
+
+<b>Choose</b> tem sentido semelhante e é neutro; <b>select</b> costuma soar mais formal ou indicar uma escolha cuidadosa.
+
 ---
 anki: false
 ---

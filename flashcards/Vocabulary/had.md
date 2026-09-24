@@ -7,23 +7,17 @@ anki_note_id: '1789697070060'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **had** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** had
-- **Meaning:** **teve**; tinha
-- **PartOfSpeech:** verb
-- **Definition:** A word used to express the idea of teve.
-- **Example:** I used <b>had</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>had</b> em uma frase natural._
-- **HowToUse:** Use **had** conforme seu significado e sua classe gramatical.
+- **Meaning:** <b>tinha</b>; teve
+- **PartOfSpeech:** verb — simple past and past participle of have
+- **Definition:** The past form of have, used to talk about possession, experiences, or other situations in the past.
+- **Example:** She <b>had</b> a small garden behind her house.
+- **ExampleTranslation:** Ela tinha um pequeno jardim atrás da casa.
+- **HowToUse:** Use <b>had</b> as the past form of <b>have</b> for every subject. It can describe possession, experiences, meals, illnesses, and other past situations.
+- **CommonExpressions:** <b>had a good time</b> — divertiu-se; <b>had breakfast</b> — tomou café da manhã; <b>had a chance</b> — teve uma oportunidade
+- **RelatedWords:** <b>have</b> é a forma básica e o presente com <i>I/you/we/they</i>; <b>has</b> é o presente com <i>he/she/it</i>. <b>Had</b> é a forma passada usada com todos os sujeitos.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697070060'
 
 ## Verso
 
-**teve**; tinha
+<b>tinha</b>; teve
 
-_verb_
+_verb — simple past and past participle of have_
 
-> A word used to express the idea of teve.
+> The past form of have, used to talk about possession, experiences, or other situations in the past.
 
 ### How to use
 
-Use **had** conforme seu significado e sua classe gramatical.
+Use <b>had</b> as the past form of <b>have</b> for every subject. It can describe possession, experiences, meals, illnesses, and other past situations.
 
 ### Example
 
-I used <b>had</b> in a natural sentence.
+She <b>had</b> a small garden behind her house.
 
-_Usei <b>had</b> em uma frase natural._
+_Ela tinha um pequeno jardim atrás da casa._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>had a good time</b> — divertiu-se; <b>had breakfast</b> — tomou café da manhã; <b>had a chance</b> — teve uma oportunidade
 
 ### Related words and differences
 
-Compare **had** com termos próximos pelo contexto.
+<b>have</b> é a forma básica e o presente com <i>I/you/we/they</i>; <b>has</b> é o presente com <i>he/she/it</i>. <b>Had</b> é a forma passada usada com todos os sujeitos.
 
 ### Source
 

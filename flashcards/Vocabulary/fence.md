@@ -6,14 +6,12 @@ anki_note_id: '1788198449125'
 # fence
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
 - **Source:** [flashcards/words/fence.md](../words/fence.md)
 
 - **Word:** fence
 - **Meaning:** **cerca**; vedação; cercar
 - **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of fence.
+- **Definition:** A barrier made of wood, metal, or wire that surrounds or divides an area.
 - **Example:** They built a wooden **fence** around the garden.
 - **ExampleTranslation:** _Eles construíram uma cerca de madeira ao redor do jardim._
 - **HowToUse:** Refere-se a uma barreira que delimita ou protege uma área. Como verbo, significa colocar uma cerca. Em sentido figurado, indica indecisão.

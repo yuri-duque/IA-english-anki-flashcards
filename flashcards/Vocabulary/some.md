@@ -6,46 +6,60 @@ anki_note_id: '1789411018315'
 # some
 
 ## Dados da nota
-- **NounType:** countable and uncountable
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **QuantityOrder:** all → most → a lot of / lots of → many / much → several / <span style="color:#2563eb"><b>some</b></span> → a few / a little → few / little → no
-- **CommonExpressions:** <span style="color:#2563eb"><b>some of</b></span> — alguns de; parte de; <span style="color:#2563eb"><b>some time</b></span> — algum tempo
-- **Source:**
 
+- **NounType:** used with plural count nouns and uncountable nouns
+- **QuantityOrder:** all → most → a lot of / lots of → many / much → several → <b>some</b> → a few / a little → few / little → no
+- **CommonExpressions:** <b>some of</b> — alguns/algumas de; parte de; <b>some time</b> — algum tempo
 - **Word:** some
-- **Meaning:** <span style="color:#2563eb"><b>algum</b></span>; alguma; alguns; algumas; um pouco de
+- **Meaning:** **algum**; alguma; alguns; algumas; um pouco de
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of some.
-- **Example:** I bought <span style="color:#2563eb"><b>some</b></span> apples.
-- **ExampleTranslation:** _Comprei algumas maçãs._
-- **HowToUse:** Use <span style="color:#2563eb"><b>some</b></span> quando a quantidade não for especificada, principalmente em frases afirmativas.
+- **Definition:** Used before plural count nouns or uncountable nouns to refer to an unspecified number or amount; it can also be used without a noun as a pronoun.
+- **Example:** I bought <b>some</b> apples, and there is <b>some</b> water in the bottle.
+- **ExampleTranslation:** Comprei algumas maçãs e há um pouco de água na garrafa.
+- **HowToUse:** Use <b>some</b> antes de substantivos contáveis no plural ou incontáveis quando a quantidade não é especificada, geralmente em frases afirmativas. Também é comum em ofertas e pedidos, como <b>Would you like some tea?</b>. Pode aparecer sem substantivo quando o referente já está claro: <b>I have some</b> (Tenho alguns/algumas).
+- **RelatedWords:** <b>any</b> é comum em perguntas neutras e frases negativas (<b>Do you have any questions?</b>; <b>I don't have any</b>). Use <b>some</b> em perguntas para oferecer ou pedir algo, ou quando se espera uma resposta positiva.
+
 ## Frente
+
 ### ENGLISH · VOCABULARY
+
 # some
+
 *What does this word mean and how is it used?*
 
 ## Verso
-<span style="color:#2563eb"><b>algum</b></span>; alguma; alguns; algumas; um pouco de
+
+**algum**; alguma; alguns; algumas; um pouco de
+
+_determiner, pronoun_
+
+> Used before plural count nouns or uncountable nouns to refer to an unspecified number or amount; it can also be used without a noun as a pronoun.
 
 ### Noun type
-Usado com contáveis no plural e incontáveis:
 
-- some apples — algumas maçãs
-- some water — um pouco de água
+Usado com substantivos contáveis no plural e incontáveis:
+
+- <b>some apples</b> — algumas maçãs
+- <b>some water</b> — um pouco de água
 
 ### How to use
-Use <span style="color:#2563eb"><b>some</b></span> quando a quantidade não for especificada, principalmente em frases afirmativas.
+
+Use **some** antes de substantivos contáveis no plural ou incontáveis quando a quantidade não é especificada, geralmente em frases afirmativas. Também é comum em ofertas e pedidos, como **Would you like some tea?**. Pode aparecer sem substantivo quando o referente já está claro: **I have some** (Tenho alguns/algumas).
 
 ### Quantity order
-all → most → a lot of / lots of → many / much → several / <span style="color:#2563eb"><b>some</b></span> → a few / a little → few / little → no
 
-### Examples
-I bought <span style="color:#2563eb"><b>some</b></span> apples.
+all → most → a lot of / lots of → many / much → several → **some** → a few / a little → few / little → no
 
-_Comprei algumas maçãs._
+### Example
 
-There is <span style="color:#2563eb"><b>some</b></span> water in the bottle.
+I bought <b>some</b> apples, and there is <b>some</b> water in the bottle.
 
-_Há um pouco de água na garrafa._
+_Comprei algumas maçãs e há um pouco de água na garrafa._
+
+### Common expressions
+
+<b>some of</b> — alguns/algumas de; parte de; <b>some time</b> — algum tempo
+
+### Related words and differences
+
+**any** é comum em perguntas neutras e frases negativas (**Do you have any questions?**; **I don't have any**). Use **some** em perguntas para oferecer ou pedir algo, ou quando se espera uma resposta positiva.

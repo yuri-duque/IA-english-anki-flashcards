@@ -7,23 +7,18 @@ anki_note_id: '1789697071738'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **ugly** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **WordFamily:** <b>ugly</b> → <b>ugliness</b> (substantivo: feiura)
+- **CommonExpressions:** <b>ugly</b> truth — uma verdade desagradável ou difícil de aceitar; <b>ugly</b> duckling — alguém ou algo que parece pouco atraente no início, mas depois se destaca
+- **RelatedWords:** <b>unattractive</b> também significa “pouco atraente”, mas costuma soar mais brando e se refere à aparência. <b>Disgusting</b> expressa forte repulsa. <b>Unpleasant</b> é mais amplo e pode descrever uma experiência, situação ou comportamento desagradável.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** ugly
-- **Meaning:** **feio**; desagradável
+- **Meaning:** <b>feio</b>; desagradável; repulsivo (conforme o contexto)
 - **PartOfSpeech:** adjective
-- **Definition:** A word used to express the idea of feio.
-- **Example:** I used <b>ugly</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>ugly</b> em uma frase natural._
-- **HowToUse:** Use **ugly** conforme seu significado e sua classe gramatical.
+- **Definition:** Unpleasant to look at; morally unpleasant or offensive.
+- **Example:** The old building was <b>ugly</b>, but the people who lived there were kind.
+- **ExampleTranslation:** O prédio antigo era feio, mas as pessoas que moravam lá eram gentis.
+- **HowToUse:** Use <b>ugly</b> principalmente para dizer que algo não é agradável de ver. Também pode descrever comportamento, palavras ou situações moralmente desagradáveis. Ao falar da aparência de uma pessoa, pode soar ofensivo.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +29,33 @@ anki_note_id: '1789697071738'
 
 ## Verso
 
-**feio**; desagradável
+<b>feio</b>; desagradável; repulsivo (conforme o contexto)
 
 _adjective_
 
-> A word used to express the idea of feio.
+Unpleasant to look at; morally unpleasant or offensive.
 
 ### How to use
 
-Use **ugly** conforme seu significado e sua classe gramatical.
+Use <b>ugly</b> principalmente para dizer que algo não é agradável de ver. Também pode descrever comportamento, palavras ou situações moralmente desagradáveis. Ao falar da aparência de uma pessoa, pode soar ofensivo.
 
 ### Example
 
-I used <b>ugly</b> in a natural sentence.
+The old building was <b>ugly</b>, but the people who lived there were kind.
 
-_Usei <b>ugly</b> em uma frase natural._
+_O prédio antigo era feio, mas as pessoas que moravam lá eram gentis._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>ugly</b> truth — uma verdade desagradável ou difícil de aceitar; <b>ugly</b> duckling — alguém ou algo que parece pouco atraente no início, mas depois se destaca
 
 ### Word family
 
-Não há derivados essenciais.
+<b>ugly</b> → <b>ugliness</b> (substantivo: feiura)
 
 ### Related words and differences
 
-Compare **ugly** com termos próximos pelo contexto.
+<b>unattractive</b> também significa “pouco atraente”, mas costuma soar mais brando e se refere à aparência. <b>Disgusting</b> expressa forte repulsa. <b>Unpleasant</b> é mais amplo e pode descrever uma experiência, situação ou comportamento desagradável.
 
 ### Source
 

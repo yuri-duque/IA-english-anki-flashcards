@@ -7,23 +7,15 @@ anki_note_id: '1789697070614'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **one hundred** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
-
 - **Word:** one hundred
 - **Meaning:** **cem**
-- **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of cem.
-- **Example:** I used <b>one hundred</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>one hundred</b> em uma frase natural._
-- **HowToUse:** Use **one hundred** conforme seu significado e sua classe gramatical.
+- **PartOfSpeech:** cardinal number
+- **Definition:** The number 100; one more than ninety-nine.
+- **Example:** The repair cost <b>one hundred</b> dollars.
+- **ExampleTranslation:** O conserto custou cem dólares.
+- **HowToUse:** Use <b>one hundred</b> to name the number 100 or an amount of one hundred items or units. In everyday speech, <b>a hundred</b> is also common and means the same thing.
+- **CommonExpressions:** <b>one hundred percent</b> — completely or entirely; <b>one hundred dollars</b> — an amount of $100.
+- **RelatedWords:** <b>a hundred</b> means the same number as <b>one hundred</b> and is common in conversation. <b>Hundreds</b> means an unspecified large number, not exactly 100.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -36,32 +28,24 @@ anki_note_id: '1789697070614'
 
 **cem**
 
-_number_
+_cardinal number_
 
-> A word used to express the idea of cem.
+> The number 100; one more than ninety-nine.
 
 ### How to use
 
-Use **one hundred** conforme seu significado e sua classe gramatical.
+Use <b>one hundred</b> to name the number 100 or an amount of one hundred items or units. In everyday speech, <b>a hundred</b> is also common and means the same thing.
 
 ### Example
 
-I used <b>one hundred</b> in a natural sentence.
+The repair cost <b>one hundred</b> dollars.
 
-_Usei <b>one hundred</b> em uma frase natural._
+_O conserto custou cem dólares._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>one hundred percent</b> — completely or entirely; <b>one hundred dollars</b> — an amount of $100.
 
 ### Related words and differences
 
-Compare **one hundred** com termos próximos pelo contexto.
-
-### Source
-
-Lista de estudo fornecida pelo usuário.
+<b>a hundred</b> means the same number as <b>one hundred</b> and is common in conversation. <b>Hundreds</b> means an unspecified large number, not exactly 100.

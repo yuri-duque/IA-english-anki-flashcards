@@ -7,23 +7,17 @@ anki_note_id: '1789697071230'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **something** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** **something else** = outra coisa; **something to eat** = algo para comer.
+- **RelatedWords:** **anything** costuma aparecer em perguntas e frases negativas: _Do you need anything?_ / _I don't need anything._ **Nothing** significa “nada”: _There is nothing in the box._
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** something
 - **Meaning:** **algo**; alguma coisa
 - **PartOfSpeech:** pronoun
-- **Definition:** A word used to express the idea of algo.
-- **Example:** I used <b>something</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>something</b> em uma frase natural._
-- **HowToUse:** Use **something** conforme seu significado e sua classe gramatical.
+- **Definition:** An unspecified thing; used when the speaker does not say exactly what the thing is.
+- **Example:** There’s <b>something</b> in my bag that I need to show you.
+- **ExampleTranslation:** Há <b>algo</b> na minha bolsa que preciso mostrar a você.
+- **HowToUse:** Use **something** para mencionar uma coisa não especificada, geralmente em frases afirmativas. Também aparece em ofertas e pedidos quando se espera ou se incentiva uma resposta positiva. Como pronome, normalmente leva verbo no singular. Um adjetivo costuma vir depois: **something** interesting.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,29 +32,25 @@ anki_note_id: '1789697071230'
 
 _pronoun_
 
-> A word used to express the idea of algo.
+> An unspecified thing; used when the speaker does not say exactly what the thing is.
 
 ### How to use
 
-Use **something** conforme seu significado e sua classe gramatical.
+Use **something** para mencionar uma coisa não especificada, geralmente em frases afirmativas. Também aparece em ofertas e pedidos quando se espera ou se incentiva uma resposta positiva. Como pronome, normalmente leva verbo no singular. Um adjetivo costuma vir depois: **something** interesting.
 
 ### Example
 
-I used <b>something</b> in a natural sentence.
+There’s <b>something</b> in my bag that I need to show you.
 
-_Usei <b>something</b> em uma frase natural._
+_Há algo na minha bolsa que preciso mostrar a você._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+**something else** = outra coisa; **something to eat** = algo para comer.
 
 ### Related words and differences
 
-Compare **something** com termos próximos pelo contexto.
+**anything** costuma aparecer em perguntas e frases negativas: _Do you need anything?_ / _I don't need anything._ **Nothing** significa “nada”: _There is nothing in the box._
 
 ### Source
 

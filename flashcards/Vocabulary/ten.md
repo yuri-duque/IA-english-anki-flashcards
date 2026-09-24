@@ -7,23 +7,18 @@ anki_note_id: '1789697071365'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **ten** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **WordFamily:** **tenth** (ordinal: décimo); **tens** (dezenas ou números na casa das dezenas).
+- **CommonExpressions:** **ten out of ten** (nota máxima; dez em dez); **ten years old** (com dez anos).
+- **RelatedWords:** **nine** é o número imediatamente anterior a **ten**; **eleven** é o seguinte. **Tenth** indica posição (décimo), enquanto **ten** indica quantidade (dez).
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** ten
 - **Meaning:** **dez**
-- **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of dez.
-- **Example:** I used <b>ten</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>ten</b> em uma frase natural._
-- **HowToUse:** Use **ten** conforme seu significado e sua classe gramatical.
+- **PartOfSpeech:** cardinal number
+- **Definition:** The cardinal number equivalent to the sum of nine and one.
+- **Example:** We need <b>ten</b> chairs for the meeting.
+- **ExampleTranslation:** Precisamos de dez cadeiras para a reunião.
+- **HowToUse:** Use **ten** para indicar uma quantidade exata de dez unidades. Antes de um substantivo contável no plural, funciona como numeral: **ten** chairs (dez cadeiras). Para indicar posição, use **tenth**: the **tenth** chair (a décima cadeira).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -42,25 +37,25 @@ _number_
 
 ### How to use
 
-Use **ten** conforme seu significado e sua classe gramatical.
+Use **ten** para indicar uma quantidade exata de dez unidades. Antes de um substantivo contável no plural, funciona como numeral: **ten** chairs (dez cadeiras). Para indicar posição, use **tenth**: the **tenth** chair (a décima cadeira).
 
 ### Example
 
-I used <b>ten</b> in a natural sentence.
+We need <b>ten</b> chairs for the meeting.
 
-_Usei <b>ten</b> em uma frase natural._
+Precisamos de dez cadeiras para a reunião.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+**ten out of ten** (nota máxima; dez em dez); **ten years old** (com dez anos).
 
 ### Word family
 
-Não há derivados essenciais.
+**tenth** (ordinal: décimo); **tens** (dezenas ou números na casa das dezenas).
 
 ### Related words and differences
 
-Compare **ten** com termos próximos pelo contexto.
+**nine** é o número imediatamente anterior a **ten**; **eleven** é o seguinte. **Tenth** indica posição (décimo), enquanto **ten** indica quantidade (dez).
 
 ### Source
 

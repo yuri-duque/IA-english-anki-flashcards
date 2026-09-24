@@ -7,23 +7,18 @@ anki_note_id: '1789697071703'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **twenty** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **WordFamily:** <b>twentieth</b> (ordinal) — vigésimo; indica a posição 20 em uma sequência.
+- **CommonExpressions:** <b>twenty years old</b> — vinte anos; <b>twenty dollars</b> — vinte dólares; <b>twenty percent</b> — vinte por cento.
+- **RelatedWords:** <b>twelve</b> significa doze; <b>twenty</b> significa vinte. <b>Twentieth</b> indica a posição 20, enquanto <b>twenty</b> indica a quantidade 20.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** twenty
-- **Meaning:** **vinte**
-- **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of vinte.
-- **Example:** I used <b>twenty</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>twenty</b> em uma frase natural._
-- **HowToUse:** Use **twenty** conforme seu significado e sua classe gramatical.
+- **Meaning:** <b>vinte</b>
+- **PartOfSpeech:** cardinal number
+- **Definition:** The cardinal number equal to two times ten; 20.
+- **Example:** The meeting starts in <b>twenty</b> minutes.
+- **ExampleTranslation:** A reunião começa em vinte minutos.
+- **HowToUse:** <b>twenty</b> é um numeral cardinal usado para indicar a quantidade 20. Geralmente vem antes de um substantivo plural, como em <b>twenty minutes</b>; com unidades de medida, dinheiro e porcentagens, o substantivo pode ficar no singular, como em <b>twenty dollars</b> e <b>twenty percent</b>.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +29,33 @@ anki_note_id: '1789697071703'
 
 ## Verso
 
-**vinte**
+<b>vinte</b>
 
-_number_
+_cardinal number_
 
-> A word used to express the idea of vinte.
+> The cardinal number equal to two times ten; 20.
 
 ### How to use
 
-Use **twenty** conforme seu significado e sua classe gramatical.
+<b>twenty</b> é um numeral cardinal usado para indicar a quantidade 20. Geralmente vem antes de um substantivo plural, como em <b>twenty minutes</b>; com unidades de medida, dinheiro e porcentagens, o substantivo pode ficar no singular, como em <b>twenty dollars</b> e <b>twenty percent</b>.
 
 ### Example
 
-I used <b>twenty</b> in a natural sentence.
+The meeting starts in <b>twenty</b> minutes.
 
-_Usei <b>twenty</b> em uma frase natural._
+_A reunião começa em vinte minutos._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>twenty years old</b> — vinte anos; <b>twenty dollars</b> — vinte dólares; <b>twenty percent</b> — vinte por cento.
 
 ### Word family
 
-Não há derivados essenciais.
+<b>twentieth</b> (ordinal) — vigésimo; indica a posição 20 em uma sequência.
 
 ### Related words and differences
 
-Compare **twenty** com termos próximos pelo contexto.
+<b>twelve</b> significa doze; <b>twenty</b> significa vinte. <b>Twentieth</b> indica a posição 20, enquanto <b>twenty</b> indica a quantidade 20.
 
 ### Source
 

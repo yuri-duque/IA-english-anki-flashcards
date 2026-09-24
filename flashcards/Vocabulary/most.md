@@ -7,27 +7,22 @@ anki_note_id: '1789411018190'
 
 ## Dados da nota
 - **NounType:** countable and uncountable
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **QuantityOrder:** all → <span style="color:#2563eb"><b>most</b></span> → a lot of / lots of → many / much → several / some → a few / a little → few / little → no
-- **CommonExpressions:** <span style="color:#2563eb"><b>most of</b></span> — a maior parte de; <span style="color:#2563eb"><b>most people</b></span> — a maioria das pessoas
-- **Source:**
+- **CommonExpressions:** <b>most of</b> — a maior parte de; <b>most people</b> — a maioria das pessoas.
 
 - **Word:** most
-- **Meaning:** <span style="color:#2563eb"><b>a maioria</b></span>; a maior parte
+- **Meaning:** <b>a maioria</b>; a maior parte
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of most.
-- **Example:** <span style="color:#2563eb"><b>Most</b></span> people agree with the decision.
+- **Definition:** The majority of a group or the greater part of something.
+- **Example:** <b>Most</b> people agree with the decision.
 - **ExampleTranslation:** _A maioria das pessoas concorda com a decisão._
-- **HowToUse:** Use <span style="color:#2563eb"><b>most</b></span> quando a quantidade for maior que a metade, mas não incluir tudo.
+- **HowToUse:** Use <b>most</b> antes de um substantivo para falar da maioria de um grupo ou da maior parte de algo, tanto com substantivos contáveis quanto incontáveis: <b>most people</b>, <b>most information</b>. Use <b>most of</b> antes de um determinante ou pronome, como em <b>most of the people</b> e <b>most of them</b>.
 ## Frente
 ### ENGLISH · VOCABULARY
 # most
 *What does this word mean and how is it used?*
 
 ## Verso
-<span style="color:#2563eb"><b>a maioria</b></span>; a maior parte
+<b>a maioria</b>; a maior parte
 
 ### Noun type
 Usado com substantivos contáveis e incontáveis:
@@ -36,20 +31,17 @@ Usado com substantivos contáveis e incontáveis:
 - most information — a maior parte das informações
 
 ### How to use
-Use <span style="color:#2563eb"><b>most</b></span> quando a quantidade for maior que a metade, mas não incluir tudo.
-
-### Quantity order
-all → <span style="color:#2563eb"><b>most</b></span> → a lot of / lots of → many / much → several / some → a few / a little → few / little → no
+Use <b>most</b> antes de um substantivo para falar da maioria de um grupo ou da maior parte de algo, tanto com substantivos contáveis quanto incontáveis: <b>most people</b>, <b>most information</b>. Use <b>most of</b> antes de um determinante ou pronome, como em <b>most of the people</b> e <b>most of them</b>.
 
 ### Examples
-<span style="color:#2563eb"><b>Most</b></span> people agree with the decision.
+<b>Most</b> people agree with the decision.
 
 _A maioria das pessoas concorda com a decisão._
 
-<span style="color:#2563eb"><b>Most</b></span> of the information was useful.
+<b>Most</b> of the information was useful.
 
 _A maior parte das informações foi útil._
 
 ### Common expressions
-<span style="color:#2563eb"><b>most of</b></span> — a maior parte de  
-<span style="color:#2563eb"><b>most people</b></span> — a maioria das pessoas
+<b>most of</b> — a maior parte de  
+<b>most people</b> — a maioria das pessoas

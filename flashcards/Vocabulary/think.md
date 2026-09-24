@@ -10,20 +10,20 @@ anki_note_id: '1789697071403'
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **think** com termos próximos pelo contexto.
+- **WordFamily:** **thinker** — pensador(a); **thinking** — pensamento, raciocínio; **thought** — pensamento; ideia (também é o passado e o particípio de **think**)
+- **CommonExpressions:** **think about** — pensar em/sobre; **think of** — pensar em; ter uma opinião sobre; **think over** — ponderar; **think twice** — pensar duas vezes; reconsiderar
+- **RelatedWords:** **think** — formar uma ideia ou opinião; **believe** — acreditar ou considerar algo verdadeiro; **consider** — ponderar algo com atenção antes de decidir.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** think
-- **Meaning:** **pensar**; achar
+- **Meaning:** **pensar**; achar; acreditar; ter a opinião de
 - **PartOfSpeech:** verb
-- **Definition:** A word used to express the idea of pensar.
-- **Example:** I used <b>think</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>think</b> em uma frase natural._
-- **HowToUse:** Use **think** conforme seu significado e sua classe gramatical.
+- **Definition:** To use your mind to consider ideas, form opinions, or remember something.
+- **Example:** I <b>think</b> we should leave before it gets dark.
+- **ExampleTranslation:** _Acho que deveríamos sair antes de escurecer._
+- **HowToUse:** **Think** é um verbo irregular (*think–thought–thought*). Use **think about/of** para falar de algo que ocupa seus pensamentos; use **think (that)** para apresentar uma opinião ou crença, muitas vezes com *that* omitido. Em inglês, normalmente não se usa o progressivo para uma opinião (*I think it’s a good idea*), mas ele é comum para um processo mental em andamento (*I’m thinking about the offer*).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +34,43 @@ anki_note_id: '1789697071403'
 
 ## Verso
 
-**pensar**; achar
+**pensar**; achar; acreditar; ter a opinião de
 
 _verb_
 
-> A word used to express the idea of pensar.
+> To use your mind to consider ideas, form opinions, or remember something.
 
 ### How to use
 
-Use **think** conforme seu significado e sua classe gramatical.
+**Think** é um verbo irregular (*think–thought–thought*). Use **think about/of** para falar de algo que ocupa seus pensamentos; use **think (that)** para apresentar uma opinião ou crença, muitas vezes com *that* omitido. Em inglês, normalmente não se usa o progressivo para uma opinião (*I think it’s a good idea*), mas ele é comum para um processo mental em andamento (*I’m thinking about the offer*).
 
 ### Example
 
-I used <b>think</b> in a natural sentence.
+I <b>think</b> we should leave before it gets dark.
 
-_Usei <b>think</b> em uma frase natural._
+_Acho que deveríamos sair antes de escurecer._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+**think about** — pensar em/sobre
+
+**think of** — pensar em; ter uma opinião sobre
+
+**think over** — ponderar
+
+**think twice** — pensar duas vezes; reconsiderar
 
 ### Word family
 
-Não há derivados essenciais.
+**thinker** — pensador(a)
+
+**thinking** — pensamento, raciocínio
+
+**thought** — pensamento; ideia (também é o passado e o particípio de **think**)
 
 ### Related words and differences
 
-Compare **think** com termos próximos pelo contexto.
+**Think** é formar uma ideia ou opinião; **believe** é acreditar ou considerar algo verdadeiro; **consider** é ponderar algo com atenção antes de decidir.
 
 ### Source
 

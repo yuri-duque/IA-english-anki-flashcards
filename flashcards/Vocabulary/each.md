@@ -7,19 +7,15 @@ anki_note_id: '1789411018015'
 
 ## Dados da nota
 - **NounType:** singular countable
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
 - **QuantityOrder:** não é uma posição fixa: distribui a atenção individualmente entre os membros de um grupo
 - **CommonExpressions:** <span style="color:#2563eb"><b>each of</b></span> — cada um de; <span style="color:#2563eb"><b>each other</b></span> — um ao outro
-- **Source:**
 
 - **Word:** each
 - **Meaning:** <span style="color:#2563eb"><b>cada</b></span>; cada um(a)
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of each.
-- **Example:** <span style="color:#2563eb"><b>Each</b></span> student received a book.
-- **ExampleTranslation:** _Cada aluno recebeu um livro._
+- **Definition:** Used before a singular noun, or alone, to refer to every member of a group individually; used after a plural noun to show an amount per person or thing.
+- **Example:** <span style="color:#2563eb"><b>Each</b></span> student received a book.<br><br>They received two tickets <span style="color:#2563eb"><b>each</b></span>.
+- **ExampleTranslation:** _Cada aluno recebeu um livro._<br><br>_Eles receberam dois ingressos cada um._
 - **HowToUse:** Use <span style="color:#2563eb"><b>each</b></span> para considerar os membros individualmente. Compare com `every`, que enfatiza o grupo ou a repetição.
 ## Frente
 ### ENGLISH · VOCABULARY
@@ -29,11 +25,17 @@ anki_note_id: '1789411018015'
 ## Verso
 <span style="color:#2563eb"><b>cada</b></span>; cada um(a)
 
+### Part of speech
+Determiner, pronoun
+
 ### Noun type
 Usado com substantivo **contável no singular**:
 
 - each student
 - each book
+
+### Definition
+Used before a singular noun, or alone, to refer to every member of a group individually; used after a plural noun to show an amount per person or thing.
 
 ### How to use
 Use <span style="color:#2563eb"><b>each</b></span> para considerar os membros individualmente. Compare com `every`, que enfatiza o grupo ou a repetição.

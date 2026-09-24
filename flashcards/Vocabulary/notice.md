@@ -7,23 +7,18 @@ anki_note_id: '1789697070581'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
 - **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **notice** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** <b>notice that</b> (perceber que); <b>notice something about</b> (notar algo em); <b>take notice of</b> (dar atenção a).
+- **RelatedWords:** <b>notice</b> é perceber algo, muitas vezes sem esforço ou depois de uma mudança; <b>spot</b> é localizar ou identificar algo, especialmente algo difícil de ver; <b>observe</b> sugere olhar com atenção; <b>realize</b> é compreender ou se dar conta de um fato.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** notice
-- **Meaning:** **notar**; perceber
+- **Meaning:** **notar**; perceber; reparar em
 - **PartOfSpeech:** verb
-- **Definition:** A word used to express the idea of notar.
-- **Example:** I used <b>notice</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>notice</b> em uma frase natural._
-- **HowToUse:** Use **notice** conforme seu significado e sua classe gramatical.
+- **Definition:** To become aware of something by seeing, hearing, or paying attention to it.
+- **Example:** I <b>noticed</b> a small crack in the window.
+- **ExampleTranslation:** _Notei uma pequena rachadura na janela._
+- **HowToUse:** Use <b>notice</b> quando você percebe algo pelos sentidos ou presta atenção a um detalhe. Pode ser seguido diretamente por um substantivo (<b>notice</b> a change) ou por uma oração com <b>that</b> (<b>notice</b> that something has changed).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,25 +29,25 @@ anki_note_id: '1789697070581'
 
 ## Verso
 
-**notar**; perceber
+**notar**; perceber; reparar em
 
 _verb_
 
-> A word used to express the idea of notar.
+> To become aware of something by seeing, hearing, or paying attention to it.
 
 ### How to use
 
-Use **notice** conforme seu significado e sua classe gramatical.
+Use <b>notice</b> quando você percebe algo pelos sentidos ou presta atenção a um detalhe. Pode ser seguido diretamente por um substantivo (<b>notice</b> a change) ou por uma oração com <b>that</b> (<b>notice</b> that something has changed).
 
 ### Example
 
-I used <b>notice</b> in a natural sentence.
+I <b>noticed</b> a small crack in the window.
 
-_Usei <b>notice</b> em uma frase natural._
+_Notei uma pequena rachadura na janela._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>notice that</b> (perceber que); <b>notice something about</b> (notar algo em); <b>take notice of</b> (dar atenção a).
 
 ### Word family
 
@@ -60,7 +55,7 @@ Não há derivados essenciais.
 
 ### Related words and differences
 
-Compare **notice** com termos próximos pelo contexto.
+<b>notice</b> é perceber algo, muitas vezes sem esforço ou depois de uma mudança; <b>spot</b> é localizar ou identificar algo, especialmente algo difícil de ver; <b>observe</b> sugere olhar com atenção; <b>realize</b> é compreender ou se dar conta de um fato.
 
 ### Source
 

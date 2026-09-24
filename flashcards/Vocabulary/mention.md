@@ -7,23 +7,17 @@ anki_note_id: '1789697070381'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **mention** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** mention
-- **Meaning:** **mencionar**; citar
+- **Meaning:** **mencionar**; citar; fazer referência a
 - **PartOfSpeech:** verb
-- **Definition:** A word used to express the idea of mencionar.
-- **Example:** I used <b>mention</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>mention</b> em uma frase natural._
-- **HowToUse:** Use **mention** conforme seu significado e sua classe gramatical.
+- **Definition:** To refer to someone or something briefly, without discussing it in detail.
+- **Example:** She <b>mentioned</b> that she might be late.
+- **ExampleTranslation:** Ela mencionou que talvez se atrasasse.
+- **HowToUse:** Use <b>mention</b> para citar brevemente uma pessoa, um assunto ou um fato, sem necessariamente explicá-lo em detalhes. Pode ser seguido de um substantivo, de verbo com <i>-ing</i> ou de uma oração com <i>that</i>.
+- **CommonExpressions:** <b>mention something to someone</b> (mencionar algo a alguém); <b>not to mention</b> (sem falar em; além de).
+- **RelatedWords:** <b>refer to</b> significa fazer referência a algo, muitas vezes de modo mais explícito; <b>bring up</b> enfatiza introduzir um assunto na conversa. <b>Mention</b> apenas indica que o assunto foi citado.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697070381'
 
 ## Verso
 
-**mencionar**; citar
+**mencionar**; citar; fazer referência a
 
 _verb_
 
-> A word used to express the idea of mencionar.
+> To refer to someone or something briefly, without discussing it in detail.
 
 ### How to use
 
-Use **mention** conforme seu significado e sua classe gramatical.
+Use <b>mention</b> para citar brevemente uma pessoa, um assunto ou um fato, sem necessariamente explicá-lo em detalhes. Pode ser seguido de um substantivo, de verbo com <i>-ing</i> ou de uma oração com <i>that</i>.
 
 ### Example
 
-I used <b>mention</b> in a natural sentence.
+She <b>mentioned</b> that she might be late.
 
-_Usei <b>mention</b> em uma frase natural._
+Ela mencionou que talvez se atrasasse.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>mention something to someone</b> (mencionar algo a alguém); <b>not to mention</b> (sem falar em; além de).
 
 ### Related words and differences
 
-Compare **mention** com termos próximos pelo contexto.
+<b>refer to</b> significa fazer referência a algo, muitas vezes de modo mais explícito; <b>bring up</b> enfatiza introduzir um assunto na conversa. <b>Mention</b> apenas indica que o assunto foi citado.
 
 ### Source
 

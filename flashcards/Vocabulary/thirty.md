@@ -7,23 +7,18 @@ anki_note_id: '1789697071435'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **thirty** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **WordFamily:** <b>thirtieth</b> (ordinal) — trigésimo; <b>thirties</b> (plural) — os trinta (anos), ou a faixa dos 30 aos 39.
+- **CommonExpressions:** <b>thirty minutes</b> — trinta minutos; <b>thirty years old</b> — trinta anos de idade.
+- **RelatedWords:** <b>thirteen</b> — treze; não confunda com <b>thirty</b> (trinta), especialmente ao ouvir números. <b>Thirtieth</b> — trigésimo, a forma ordinal de <b>thirty</b>.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** thirty
 - **Meaning:** **trinta**
-- **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of trinta.
-- **Example:** I used <b>thirty</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>thirty</b> em uma frase natural._
-- **HowToUse:** Use **thirty** conforme seu significado e sua classe gramatical.
+- **PartOfSpeech:** cardinal number
+- **Definition:** The cardinal number equal to three tens.
+- **Example:** The train ride takes <b>thirty</b> minutes.
+- **ExampleTranslation:** A viagem de trem leva trinta minutos.
+- **HowToUse:** Use <b>thirty</b> para indicar a quantidade 30, antes de um substantivo ou em expressões de idade, tempo e preço. Ex.: <b>thirty books</b> (trinta livros), <b>thirty years old</b> (com trinta anos).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -42,25 +37,25 @@ _number_
 
 ### How to use
 
-Use **thirty** conforme seu significado e sua classe gramatical.
+Use <b>thirty</b> para indicar a quantidade 30, antes de um substantivo ou em expressões de idade, tempo e preço. Ex.: <b>thirty books</b> (trinta livros), <b>thirty years old</b> (com trinta anos).
 
 ### Example
 
-I used <b>thirty</b> in a natural sentence.
+The train ride takes <b>thirty</b> minutes.
 
-_Usei <b>thirty</b> em uma frase natural._
+_A viagem de trem leva trinta minutos._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>thirty minutes</b> — trinta minutos; <b>thirty years old</b> — trinta anos de idade.
 
 ### Word family
 
-Não há derivados essenciais.
+<b>thirtieth</b> (ordinal) — trigésimo; <b>thirties</b> (plural) — os trinta (anos), ou a faixa dos 30 aos 39.
 
 ### Related words and differences
 
-Compare **thirty** com termos próximos pelo contexto.
+<b>thirteen</b> — treze; não confunda com <b>thirty</b> (trinta), especialmente ao ouvir números. <b>Thirtieth</b> — trigésimo, a forma ordinal de <b>thirty</b>.
 
 ### Source
 

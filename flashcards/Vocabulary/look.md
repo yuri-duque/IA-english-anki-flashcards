@@ -7,23 +7,17 @@ anki_note_id: '1789697070259'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **look** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** <b>look at</b> something = olhar para algo; <b>look for</b> something = procurar algo; <b>look like</b> someone/something = parecer-se com alguém/algo.
+- **RelatedWords:** <b>see</b> = perceber algo com os olhos; <b>look</b> = dirigir os olhos intencionalmente ou parecer de certa forma; <b>watch</b> = observar algo por algum tempo, geralmente enquanto acontece; <b>stare</b> = olhar fixamente, muitas vezes por tempo demais.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** look
-- **Meaning:** **olhar**; parecer
+- **Meaning:** **olhar**; parecer, ter determinada aparência
 - **PartOfSpeech:** verb
-- **Definition:** A word used to express the idea of olhar.
-- **Example:** I used <b>look</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>look</b> em uma frase natural._
-- **HowToUse:** Use **look** conforme seu significado e sua classe gramatical.
+- **Definition:** To direct your eyes toward something, or to seem to have a particular appearance.
+- **Example:** You <b>look</b> tired, but you sound cheerful.
+- **ExampleTranslation:** Você <b>parece</b> cansado, mas soa animado.
+- **HowToUse:** Use <b>look</b> para falar de direcionar os olhos a algo, normalmente com <b>look at</b>: _Look at this photo._ Também use <b>look + adjective</b> para dizer que alguém ou algo parece de determinada forma: _You look tired._
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697070259'
 
 ## Verso
 
-**olhar**; parecer
+**olhar**; parecer, ter determinada aparência
 
 _verb_
 
-> A word used to express the idea of olhar.
+> To direct your eyes toward something, or to seem to have a particular appearance.
 
 ### How to use
 
-Use **look** conforme seu significado e sua classe gramatical.
+Use <b>look</b> para falar de direcionar os olhos a algo, normalmente com <b>look at</b>: _Look at this photo._ Também use <b>look + adjective</b> para dizer que alguém ou algo parece de determinada forma: _You look tired._
 
 ### Example
 
-I used <b>look</b> in a natural sentence.
+You <b>look</b> tired, but you sound cheerful.
 
-_Usei <b>look</b> em uma frase natural._
+Você <b>parece</b> cansado, mas soa animado.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>look at</b> something = olhar para algo; <b>look for</b> something = procurar algo; <b>look like</b> someone/something = parecer-se com alguém/algo.
 
 ### Related words and differences
 
-Compare **look** com termos próximos pelo contexto.
+<b>see</b> = perceber algo com os olhos; <b>look</b> = dirigir os olhos intencionalmente ou parecer de certa forma; <b>watch</b> = observar algo por algum tempo, geralmente enquanto acontece; <b>stare</b> = olhar fixamente, muitas vezes por tempo demais.
 
 ### Source
 

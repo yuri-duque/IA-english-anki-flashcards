@@ -6,36 +6,52 @@ anki_note_id: '1788198449251'
 # patio
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
-- **Source:** [flashcards/words/patio.md](../words/patio.md)
 
 - **Word:** patio
-- **Meaning:** **pátio**; terraço; área externa
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of patio.
-- **Example:** We had dinner on the **patio**.
-- **ExampleTranslation:** _Jantamos no pátio._
-- **HowToUse:** Indica uma área externa pavimentada, geralmente junto a uma casa ou edifício, usada para refeições, descanso ou convivência.
+- **Meaning:** **pátio**; área externa pavimentada; terraço
+- **PartOfSpeech:** noun
+- **Definition:** An outdoor area next to a house or building, usually paved and used for sitting, eating, or relaxing.
+- **Example:** We had dinner on the <b>patio</b>.
+- **ExampleTranslation:** Jantamos no pátio.
+- **HowToUse:** <b>Patio</b> é um substantivo para uma área externa pavimentada, geralmente junto a uma casa ou edifício. Em inglês americano, costuma ser uma área no nível do chão; em português, “pátio” ou “área externa” costuma ser mais preciso que “terraço”.
+- **CommonExpressions:** <b>patio furniture</b> (móveis para área externa); <b>patio door</b> (porta que dá para o pátio ou jardim).
+- **RelatedWords:** <b>patio</b> costuma ser uma área pavimentada no nível do chão; <b>terrace</b> pode ser uma área externa elevada ou no topo de um edifício; <b>porch</b> é uma varanda coberta junto à entrada de uma casa.
+- **Source:** [flashcards/words/patio.md](../words/patio.md)
+
 ## Frente
+
 ### ENGLISH · VOCABULARY
+
 # patio
+
 *What does this word mean and how is it used?*
 
 ## Verso
-**pátio**; terraço; área externa
+
+**pátio**; área externa pavimentada; terraço
+
+_noun_
+
+> An outdoor area next to a house or building, usually paved and used for sitting, eating, or relaxing.
 
 ### How to use
-Indica uma área externa pavimentada, geralmente junto a uma casa ou edifício, usada para refeições, descanso ou convivência.
+
+<b>Patio</b> é um substantivo para uma área externa pavimentada, geralmente junto a uma casa ou edifício. Em inglês americano, costuma ser uma área no nível do chão; em português, “pátio” ou “área externa” costuma ser mais preciso que “terraço”.
 
 ### Example
-We had dinner on the **patio**.
+
+We had dinner on the <b>patio</b>.
 
 _Jantamos no pátio._
 
 ### Common expressions
-**patio furniture** — móveis para área externa  
-**patio door** — porta que dá para o pátio
----
-anki: false
----
+
+<b>patio furniture</b> (móveis para área externa); <b>patio door</b> (porta que dá para o pátio ou jardim).
+
+### Related words and differences
+
+<b>patio</b> costuma ser uma área pavimentada no nível do chão; <b>terrace</b> pode ser uma área externa elevada ou no topo de um edifício; <b>porch</b> é uma varanda coberta junto à entrada de uma casa.
+
+### Source
+
+[flashcards/words/patio.md](../words/patio.md)

@@ -7,23 +7,16 @@ anki_note_id: '1789697069676'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **evening** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
+- **CommonExpressions:** <b>in the evening</b> — à noite, no período do começo da noite; <b>this evening</b> — hoje à noite
+- **RelatedWords:** <b>night</b> costuma se referir ao período mais tarde, especialmente quando as pessoas dormem; <b>evening</b> é o começo da noite, após o fim da tarde.
 
 - **Word:** evening
-- **Meaning:** **noite**
+- **Meaning:** **começo da noite**; período do fim da tarde e início da noite
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of noite.
-- **Example:** I used <b>evening</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>evening</b> em uma frase natural._
-- **HowToUse:** Use **evening** conforme seu significado e sua classe gramatical.
+- **Definition:** The later part of the day, between the afternoon and the time people usually go to bed.
+- **Example:** We usually eat dinner in the <b>evening</b>.
+- **ExampleTranslation:** Geralmente jantamos no começo da noite.
+- **HowToUse:** Use <b>evening</b> para falar do período entre o fim da tarde e a hora de dormir, especialmente em atividades ou planos. Em português, muitas vezes corresponde a “à noite”; para o período mais tarde ou a noite como um todo, <b>night</b> costuma ser mais adequado.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,34 +27,26 @@ anki_note_id: '1789697069676'
 
 ## Verso
 
-**noite**
+**começo da noite**; período do fim da tarde e início da noite
 
 _noun_
 
-> A word used to express the idea of noite.
+> The later part of the day, between the afternoon and the time people usually go to bed.
 
 ### How to use
 
-Use **evening** conforme seu significado e sua classe gramatical.
+Use <b>evening</b> para falar do período entre o fim da tarde e a hora de dormir, especialmente em atividades ou planos. Em português, muitas vezes corresponde a “à noite”; para o período mais tarde ou a noite como um todo, <b>night</b> costuma ser mais adequado.
 
 ### Example
 
-I used <b>evening</b> in a natural sentence.
+We usually eat dinner in the <b>evening</b>.
 
-_Usei <b>evening</b> em uma frase natural._
+_Geralmente jantamos no começo da noite._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>in the evening</b> — à noite, no período do começo da noite; <b>this evening</b> — hoje à noite
 
 ### Related words and differences
 
-Compare **evening** com termos próximos pelo contexto.
-
-### Source
-
-Lista de estudo fornecida pelo usuário.
+<b>night</b> costuma se referir ao período mais tarde, especialmente quando as pessoas dormem; <b>evening</b> é o começo da noite, após o fim da tarde.

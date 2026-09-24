@@ -7,23 +7,17 @@ anki_note_id: '1789697071955'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **worry** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
-
 - **Word:** worry
 - **Meaning:** **preocupar-se**; preocupação
-- **PartOfSpeech:** verb/noun
-- **Definition:** A word used to express the idea of preocupar-se.
-- **Example:** I used <b>worry</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>worry</b> em uma frase natural._
-- **HowToUse:** Use **worry** conforme seu significado e sua classe gramatical.
+- **PartOfSpeech:** verb; noun
+- **Definition:** To feel anxious about something, or a problem that causes anxiety.
+- **Example:** I <b>worry</b> about my sister when she drives home late.
+- **ExampleTranslation:** Eu me preocupo com minha irmã quando ela dirige para casa tarde.
+- **HowToUse:** Como verbo, <b>worry</b> geralmente aparece com <b>about</b> para indicar o motivo da preocupação: <i>worry about something</i>. Como substantivo, significa uma preocupação ou um problema que causa ansiedade.
+- **CommonExpressions:** <b>worry about</b> something (preocupar-se com algo); <b>Don't worry.</b> (Não se preocupe.); a cause for <b>concern</b> (motivo de preocupação).
+- **WordFamily:** <b>worried</b> (preocupado); <b>worrying</b> (preocupante); <b>worries</b> (preocupações; forma verbal).
+- **RelatedWords:** <b>concern</b> pode indicar preocupação de modo mais neutro ou formal; <b>anxiety</b> costuma sugerir uma preocupação mais intensa ou persistente.
+- **Source:** Lista de estudo fornecida pelo usuário.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -36,31 +30,31 @@ anki_note_id: '1789697071955'
 
 **preocupar-se**; preocupação
 
-_verb/noun_
+_verb; noun_
 
-> A word used to express the idea of preocupar-se.
+> To feel anxious about something, or a problem that causes anxiety.
 
 ### How to use
 
-Use **worry** conforme seu significado e sua classe gramatical.
+Como verbo, <b>worry</b> geralmente aparece com <b>about</b> para indicar o motivo da preocupação: <i>worry about something</i>. Como substantivo, significa uma preocupação ou um problema que causa ansiedade.
 
 ### Example
 
-I used <b>worry</b> in a natural sentence.
+I <b>worry</b> about my sister when she drives home late.
 
-_Usei <b>worry</b> em uma frase natural._
+Eu me preocupo com minha irmã quando ela dirige para casa tarde.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>worry about</b> something (preocupar-se com algo); <b>Don't worry.</b> (Não se preocupe.); a cause for <b>concern</b> (motivo de preocupação).
 
 ### Word family
 
-Não há derivados essenciais.
+<b>worried</b> (preocupado); <b>worrying</b> (preocupante); <b>worries</b> (preocupações; forma verbal).
 
 ### Related words and differences
 
-Compare **worry** com termos próximos pelo contexto.
+<b>concern</b> pode indicar preocupação de modo mais neutro ou formal; <b>anxiety</b> costuma sugerir uma preocupação mais intensa ou persistente.
 
 ### Source
 

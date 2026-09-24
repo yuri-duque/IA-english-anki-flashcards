@@ -7,23 +7,16 @@ anki_note_id: '1789697069476'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **during** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
+- **CommonExpressions:** **during the day** = durante o dia; **during the meeting** = durante a reunião; **during the summer** = durante o verão.
+- **RelatedWords:** **during** + substantivo: *during the meeting*; **while** + oração com verbo: *while we were meeting*. **For** indica duração: *for two hours* (por duas horas), não o período em que algo acontece.
 
 - **Word:** during
 - **Meaning:** **durante**
 - **PartOfSpeech:** preposition
-- **Definition:** A word used to express the idea of durante.
-- **Example:** I used <b>during</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>during</b> em uma frase natural._
-- **HowToUse:** Use **during** conforme seu significado e sua classe gramatical.
+- **Definition:** At some point or throughout a period of time or an event.
+- **Example:** Please keep your phones silent <b>during</b> the presentation.
+- **ExampleTranslation:** Por favor, mantenham os celulares no silencioso durante a apresentação.
+- **HowToUse:** Use **during** antes de um substantivo ou sintagma nominal para dizer que algo acontece em algum momento ou ao longo de um período ou evento. Ex.: **during** the lesson. Para introduzir uma oração com sujeito e verbo, use **while**: *while the lesson was happening*. Não use **during** diretamente com uma oração.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,30 +31,26 @@ anki_note_id: '1789697069476'
 
 _preposition_
 
-> A word used to express the idea of durante.
+> At some point or throughout a period of time or an event.
 
 ### How to use
 
-Use **during** conforme seu significado e sua classe gramatical.
+Use **during** antes de um substantivo ou sintagma nominal para dizer que algo acontece em algum momento ou ao longo de um período ou evento. Ex.: **during** the lesson. Para introduzir uma oração com sujeito e verbo, use **while**: *while the lesson was happening*. Não use **during** diretamente com uma oração.
 
 ### Example
 
-I used <b>during</b> in a natural sentence.
+Please keep your phones silent <b>during</b> the presentation.
 
-_Usei <b>during</b> em uma frase natural._
+Por favor, mantenham os celulares no silencioso durante a apresentação.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+**during the day** = durante o dia; **during the meeting** = durante a reunião; **during the summer** = durante o verão.
 
 ### Word family
 
-Não há derivados essenciais.
+
 
 ### Related words and differences
 
-Compare **during** com termos próximos pelo contexto.
-
-### Source
-
-Lista de estudo fornecida pelo usuário.
+**during** + substantivo: *during the meeting*; **while** + oração com verbo: *while we were meeting*. **For** indica duração: *for two hours* (por duas horas), não o período em que algo acontece.

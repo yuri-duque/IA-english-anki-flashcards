@@ -7,23 +7,17 @@ anki_note_id: '1789697071131'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **sixty** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** <b>sixty years old</b> — sessenta anos; <b>sixty dollars</b> — sessenta dólares.
+- **RelatedWords:** <b>six</b> = seis; <b>sixteen</b> = dezesseis; <b>sixty</b> = sessenta. A posição do acento em <b>sixteen</b> (na última sílaba) e <b>sixty</b> (na primeira) também ajuda a distingui-las na fala.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** sixty
 - **Meaning:** **sessenta**
 - **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of sessenta.
-- **Example:** I used <b>sixty</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>sixty</b> em uma frase natural._
-- **HowToUse:** Use **sixty** conforme seu significado e sua classe gramatical.
+- **Definition:** The cardinal number equal to six times ten, between fifty-nine and sixty-one.
+- **Example:** The town has a population of just over <b>sixty</b> thousand.
+- **ExampleTranslation:** A cidade tem uma população de pouco mais de sessenta mil habitantes.
+- **HowToUse:** Use <b>sixty</b> para indicar a quantidade 60. Ele vem antes de um substantivo, como em <i>sixty people</i>, ou pode indicar idade e preço, como em <i>sixty years old</i> e <i>sixty dollars</i>.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,29 +32,25 @@ anki_note_id: '1789697071131'
 
 _number_
 
-> A word used to express the idea of sessenta.
+> The cardinal number equal to six times ten, between fifty-nine and sixty-one.
 
 ### How to use
 
-Use **sixty** conforme seu significado e sua classe gramatical.
+Use <b>sixty</b> para indicar a quantidade 60. Ele vem antes de um substantivo, como em <i>sixty people</i>, ou pode indicar idade e preço, como em <i>sixty years old</i> e <i>sixty dollars</i>.
 
 ### Example
 
-I used <b>sixty</b> in a natural sentence.
+The town has a population of just over <b>sixty</b> thousand.
 
-_Usei <b>sixty</b> em uma frase natural._
+_A cidade tem uma população de pouco mais de sessenta mil habitantes._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>sixty years old</b> — sessenta anos; <b>sixty dollars</b> — sessenta dólares.
 
 ### Related words and differences
 
-Compare **sixty** com termos próximos pelo contexto.
+<b>six</b> = seis; <b>sixteen</b> = dezesseis; <b>sixty</b> = sessenta. A posição do acento em <b>sixteen</b> (na última sílaba) e <b>sixty</b> (na primeira) também ajuda a distingui-las na fala.
 
 ### Source
 

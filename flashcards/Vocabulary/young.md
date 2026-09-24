@@ -7,23 +7,17 @@ anki_note_id: '1789697071979'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **young** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **Word:** young
+- **Meaning:** <b>jovem</b>; novo (em idade)
+- **PartOfSpeech:** adjective
+- **Definition:** Having lived or existed for only a short time; not old.
+- **HowToUse:** Use <b>young</b> para descrever uma pessoa, animal ou coisa que existe ou vive há pouco tempo. Para pessoas, normalmente se refere à idade.
+- **Example:** My sister was very <b>young</b> when she learned to swim.
+- **ExampleTranslation:** Minha irmã era muito <b>jovem</b> quando aprendeu a nadar.
+- **CommonExpressions:** a <b>young</b> child (uma criança pequena); a <b>young</b> adult (um adulto jovem); <b>young</b> at heart (jovem de espírito).
+- **RelatedWords:** <b>Young</b> describes age or little time in existence. <b>New</b> means recently made, bought, or introduced, regardless of age: a <b>young</b> person, but a <b>new</b> phone.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
-- **Word:** young
-- **Meaning:** **jovem**; novo
-- **PartOfSpeech:** adjective
-- **Definition:** A word used to express the idea of jovem.
-- **Example:** I used <b>young</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>young</b> em uma frase natural._
-- **HowToUse:** Use **young** conforme seu significado e sua classe gramatical.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697071979'
 
 ## Verso
 
-**jovem**; novo
+<b>jovem</b>; novo (em idade)
 
 _adjective_
 
-> A word used to express the idea of jovem.
+> Having lived or existed for only a short time; not old.
 
 ### How to use
 
-Use **young** conforme seu significado e sua classe gramatical.
+Use <b>young</b> para descrever uma pessoa, animal ou coisa que existe ou vive há pouco tempo. Para pessoas, normalmente se refere à idade.
 
 ### Example
 
-I used <b>young</b> in a natural sentence.
+My sister was very <b>young</b> when she learned to swim.
 
-_Usei <b>young</b> em uma frase natural._
+_Minha irmã era muito <b>jovem</b> quando aprendeu a nadar._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+a <b>young</b> child (uma criança pequena); a <b>young</b> adult (um adulto jovem); <b>young</b> at heart (jovem de espírito).
 
 ### Related words and differences
 
-Compare **young** com termos próximos pelo contexto.
+<b>Young</b> describes age or little time in existence. <b>New</b> means recently made, bought, or introduced, regardless of age: a <b>young</b> person, but a <b>new</b> phone.
 
 ### Source
 

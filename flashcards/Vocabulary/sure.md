@@ -7,23 +7,17 @@ anki_note_id: '1789697071331'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **sure** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** **be sure (of/about something)** = ter certeza de algo; **make sure (that...)** = certificar-se de que...; **Sure.** = Claro./Com certeza. (resposta informal afirmativa)
+- **RelatedWords:** **certain** é muito próximo de **sure** e costuma enfatizar certeza; **confident** destaca confiança em si mesmo ou em um resultado.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** sure
-- **Meaning:** **certo**; seguro; claro
+- **Meaning:** **ter certeza; estar certo**; seguro; claro (em respostas afirmativas)
 - **PartOfSpeech:** adjective
-- **Definition:** A word used to express the idea of certo.
-- **Example:** I used <b>sure</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>sure</b> em uma frase natural._
-- **HowToUse:** Use **sure** conforme seu significado e sua classe gramatical.
+- **Definition:** Confident that something is true or that something will happen.
+- **Example:** Are you <b>sure</b> you locked the front door?
+- **ExampleTranslation:** Você tem certeza de que trancou a porta da frente?
+- **HowToUse:** Use **sure** como adjetivo para dizer que alguém tem certeza ou confiança em algo. É comum em perguntas como “Are you sure?” e na construção “be sure of/about something”. Como resposta curta, “Sure.” também significa “Claro” ou “Com certeza” em contextos informais.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,25 +28,25 @@ anki_note_id: '1789697071331'
 
 ## Verso
 
-**certo**; seguro; claro
+**ter certeza; estar certo**; seguro; claro (em respostas afirmativas)
 
 _adjective_
 
-> A word used to express the idea of certo.
+_Confident that something is true or that something will happen._
 
 ### How to use
 
-Use **sure** conforme seu significado e sua classe gramatical.
+Use **sure** como adjetivo para dizer que alguém tem certeza ou confiança em algo. É comum em perguntas como “Are you sure?” e na construção “be sure of/about something”. Como resposta curta, “Sure.” também significa “Claro” ou “Com certeza” em contextos informais.
 
 ### Example
 
-I used <b>sure</b> in a natural sentence.
+Are you <b>sure</b> you locked the front door?
 
-_Usei <b>sure</b> em uma frase natural._
+Você tem certeza de que trancou a porta da frente?
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+**be sure (of/about something)** = ter certeza de algo; **make sure (that...)** = certificar-se de que...; **Sure.** = Claro./Com certeza. (resposta informal afirmativa)
 
 ### Word family
 
@@ -60,7 +54,7 @@ Não há derivados essenciais.
 
 ### Related words and differences
 
-Compare **sure** com termos próximos pelo contexto.
+**certain** é muito próximo de **sure** e costuma enfatizar certeza; **confident** destaca confiança em si mesmo ou em um resultado.
 
 ### Source
 

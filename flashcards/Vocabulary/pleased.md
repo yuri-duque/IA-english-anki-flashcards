@@ -7,23 +7,18 @@ anki_note_id: '1789697070765'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **pleased** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **WordFamily:** <b>please</b> (agradar); <b>pleasure</b> (prazer); <b>pleasing</b> (agradável; que agrada).
+- **CommonExpressions:** <b>pleased with</b> something (satisfeito com algo); <b>pleased to</b> do something (contente por fazer algo); <b>pleased that</b> something happened (contente que algo aconteceu).
+- **RelatedWords:** <b>happy</b> costuma expressar felicidade ou contentamento de modo geral; <b>satisfied</b> enfatiza que algo atendeu às expectativas ou necessidades. <b>Pleased</b> pode transmitir contentamento ou satisfação, muitas vezes em resposta a algo específico.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** pleased
-- **Meaning:** **satisfeito**; contente
+- **Meaning:** **contente**; satisfeito; agradado
 - **PartOfSpeech:** adjective
-- **Definition:** A word used to express the idea of satisfeito.
-- **Example:** I used <b>pleased</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>pleased</b> em uma frase natural._
-- **HowToUse:** Use **pleased** conforme seu significado e sua classe gramatical.
+- **Definition:** Feeling happy or satisfied about something that has happened or been done.
+- **Example:** We were <b>pleased</b> with the results of the project.
+- **ExampleTranslation:** Ficamos satisfeitos com os resultados do projeto.
+- **HowToUse:** Use <b>pleased</b> como adjetivo para dizer que alguém está contente ou satisfeito com algo. É comum usar <b>pleased with</b> + substantivo, <b>pleased to</b> + verbo, ou <b>pleased that</b> + oração.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +29,33 @@ anki_note_id: '1789697070765'
 
 ## Verso
 
-**satisfeito**; contente
+**contente**; satisfeito; agradado
 
 _adjective_
 
-> A word used to express the idea of satisfeito.
+Feeling happy or satisfied about something that has happened or been done.
 
 ### How to use
 
-Use **pleased** conforme seu significado e sua classe gramatical.
+Use <b>pleased</b> como adjetivo para dizer que alguém está contente ou satisfeito com algo. É comum usar <b>pleased with</b> + substantivo, <b>pleased to</b> + verbo, ou <b>pleased that</b> + oração.
 
 ### Example
 
-I used <b>pleased</b> in a natural sentence.
+We were <b>pleased</b> with the results of the project.
 
-_Usei <b>pleased</b> em uma frase natural._
+Ficamos satisfeitos com os resultados do projeto.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>pleased with</b> something (satisfeito com algo); <b>pleased to</b> do something (contente por fazer algo); <b>pleased that</b> something happened (contente que algo aconteceu).
 
 ### Word family
 
-Não há derivados essenciais.
+<b>please</b> (agradar); <b>pleasure</b> (prazer); <b>pleasing</b> (agradável; que agrada).
 
 ### Related words and differences
 
-Compare **pleased** com termos próximos pelo contexto.
+<b>happy</b> costuma expressar felicidade ou contentamento de modo geral; <b>satisfied</b> enfatiza que algo atendeu às expectativas ou necessidades. <b>Pleased</b> pode transmitir contentamento ou satisfação, muitas vezes em resposta a algo específico.
 
 ### Source
 

@@ -7,23 +7,17 @@ anki_note_id: '1789697071066'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **seventy** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
+- **WordFamily:** <b>seventieth</b> é o ordinal correspondente a 70º: _the seventieth anniversary_ (o septuagésimo aniversário).
+- **CommonExpressions:** <b>seventy years old</b> (setenta anos); <b>seventy percent</b> (setenta por cento).
+- **RelatedWords:** <b>seventeen</b> significa 17; <b>seventy</b> significa 70. Não confunda também <b>seventieth</b>, o ordinal 70º.
 
 - **Word:** seventy
 - **Meaning:** **setenta**
 - **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of setenta.
-- **Example:** I used <b>seventy</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>seventy</b> em uma frase natural._
-- **HowToUse:** Use **seventy** conforme seu significado e sua classe gramatical.
+- **Definition:** The cardinal number equal to ten times seven.
+- **Example:** The library has <b>seventy</b> new books.
+- **ExampleTranslation:** A biblioteca tem setenta livros novos.
+- **HowToUse:** Use <b>seventy</b> as a cardinal number for the quantity 70, before a noun or on its own: _seventy books_; _I counted to seventy_.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -42,26 +36,22 @@ _number_
 
 ### How to use
 
-Use **seventy** conforme seu significado e sua classe gramatical.
+Use <b>seventy</b> as a cardinal number for the quantity 70, before a noun or on its own: _seventy books_; _I counted to seventy_.
 
 ### Example
 
-I used <b>seventy</b> in a natural sentence.
+The library has <b>seventy</b> new books.
 
-_Usei <b>seventy</b> em uma frase natural._
+A biblioteca tem setenta livros novos.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>seventy years old</b> (setenta anos); <b>seventy percent</b> (setenta por cento).
 
 ### Word family
 
-Não há derivados essenciais.
+<b>seventieth</b> é o ordinal correspondente a 70º: _the seventieth anniversary_ (o septuagésimo aniversário).
 
 ### Related words and differences
 
-Compare **seventy** com termos próximos pelo contexto.
-
-### Source
-
-Lista de estudo fornecida pelo usuário.
+<b>seventeen</b> significa 17; <b>seventy</b> significa 70. Não confunda também <b>seventieth</b>, o ordinal 70º.

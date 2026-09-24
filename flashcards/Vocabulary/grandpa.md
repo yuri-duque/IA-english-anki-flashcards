@@ -7,23 +7,18 @@ anki_note_id: '1789697070009'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **grandpa** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
-
 - **Word:** grandpa
 - **Meaning:** **vovô**; avô
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of vovô.
-- **Example:** I used <b>grandpa</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>grandpa</b> em uma frase natural._
-- **HowToUse:** Use **grandpa** conforme seu significado e sua classe gramatical.
+- **Definition:** An informal word for someone's grandfather.
+- **Example:** My <b>grandpa</b> taught me how to fish.
+- **ExampleTranslation:** Meu avô me ensinou a pescar.
+- **HowToUse:** <b>Grandpa</b> é uma forma informal e carinhosa de dizer “avô”. É comum em conversas familiares; também pode ser usado como forma de tratamento, geralmente com inicial maiúscula, como em “Hi, Grandpa!”.
+- **CommonExpressions:** <b>my grandpa</b> (meu avô); <b>Grandpa</b> + nome ou sobrenome (forma de tratamento, por exemplo, “Grandpa Joe”).
+- **WordFamily:** <b>grandpa</b> é uma forma familiar relacionada a <b>grandfather</b> (avô); <b>grandparent</b> é o termo neutro que pode significar avô ou avó.
+- **RelatedWords:** <b>grandfather</b> é mais formal ou neutro; <b>granddad</b> é outra forma informal e carinhosa, especialmente comum no inglês britânico. Todos se referem ao avô.
+- **Source:** Lista de estudo fornecida pelo usuário.
+
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,29 +33,29 @@ anki_note_id: '1789697070009'
 
 _noun_
 
-> A word used to express the idea of vovô.
+> An informal word for someone's grandfather.
 
 ### How to use
 
-Use **grandpa** conforme seu significado e sua classe gramatical.
+<b>Grandpa</b> é uma forma informal e carinhosa de dizer “avô”. É comum em conversas familiares; também pode ser usado como forma de tratamento, geralmente com inicial maiúscula, como em “Hi, Grandpa!”.
 
 ### Example
 
-I used <b>grandpa</b> in a natural sentence.
+My <b>grandpa</b> taught me how to fish.
 
-_Usei <b>grandpa</b> em uma frase natural._
+_Meu avô me ensinou a pescar._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>my grandpa</b> (meu avô); <b>Grandpa</b> + nome ou sobrenome (forma de tratamento, por exemplo, “Grandpa Joe”).
 
 ### Word family
 
-Não há derivados essenciais.
+<b>grandpa</b> é uma forma familiar relacionada a <b>grandfather</b> (avô); <b>grandparent</b> é o termo neutro que pode significar avô ou avó.
 
 ### Related words and differences
 
-Compare **grandpa** com termos próximos pelo contexto.
+<b>grandfather</b> é mais formal ou neutro; <b>granddad</b> é outra forma informal e carinhosa, especialmente comum no inglês britânico. Todos se referem ao avô.
 
 ### Source
 

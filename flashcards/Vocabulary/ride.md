@@ -10,20 +10,20 @@ anki_note_id: '1789697070916'
 - **Audio:**
 - **AudioSource:**
 - **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **ride** com termos próximos pelo contexto.
+- **WordFamily:** <b>rider</b> (pessoa que anda ou compete sobre um veículo/animal); <b>riding</b> (ato ou atividade de andar/montar).
+- **CommonExpressions:** <b>ride a bike/bicycle</b> (andar de bicicleta); <b>ride a horse</b> (andar a cavalo); <b>ride the bus</b> (ir de ônibus, como passageiro).
+- **RelatedWords:** <b>drive</b> é conduzir e controlar um carro ou outro veículo motorizado; <b>ride</b> é viajar montado em algo ou como passageiro.
 - **Etymology:**
 - **Image:**
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** ride
-- **Meaning:** **andar de**; passeio
+- **Meaning:** **andar de; montar**; viagem, passeio
 - **PartOfSpeech:** verb/noun
-- **Definition:** A word used to express the idea of andar de.
-- **Example:** I used <b>ride</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>ride</b> em uma frase natural._
-- **HowToUse:** Use **ride** conforme seu significado e sua classe gramatical.
+- **Definition:** To travel on a bicycle, horse, or motorcycle, or as a passenger in a vehicle; a journey in a vehicle.
+- **Example:** We <b>rode</b> our bikes along the river after work.
+- **ExampleTranslation:** Nós andamos de bicicleta ao longo do rio depois do trabalho.
+- **HowToUse:** Como verbo, <b>ride</b> significa deslocar-se montado em uma bicicleta, cavalo ou motocicleta; também pode significar viajar como passageiro, como em <b>ride in a car</b> ou <b>ride the bus</b>. Não costuma ser usado para quem conduz um carro: nesse caso, use <b>drive</b>. É irregular: <b>ride – rode – ridden</b>. Como substantivo, <b>a ride</b> é uma viagem ou um trajeto em um veículo.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +34,33 @@ anki_note_id: '1789697070916'
 
 ## Verso
 
-**andar de**; passeio
+**andar de; montar**; viagem, passeio
 
 _verb/noun_
 
-> A word used to express the idea of andar de.
+> To travel on a bicycle, horse, or motorcycle, or as a passenger in a vehicle; a journey in a vehicle.
 
 ### How to use
 
-Use **ride** conforme seu significado e sua classe gramatical.
+Como verbo, <b>ride</b> significa deslocar-se montado em uma bicicleta, cavalo ou motocicleta; também pode significar viajar como passageiro, como em <b>ride in a car</b> ou <b>ride the bus</b>. Não costuma ser usado para quem conduz um carro: nesse caso, use <b>drive</b>. É irregular: <b>ride – rode – ridden</b>. Como substantivo, <b>a ride</b> é uma viagem ou um trajeto em um veículo.
 
 ### Example
 
-I used <b>ride</b> in a natural sentence.
+We <b>rode</b> our bikes along the river after work.
 
-_Usei <b>ride</b> em uma frase natural._
+Nós andamos de bicicleta ao longo do rio depois do trabalho.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>ride a bike/bicycle</b> (andar de bicicleta); <b>ride a horse</b> (andar a cavalo); <b>ride the bus</b> (ir de ônibus, como passageiro).
 
 ### Word family
 
-Não há derivados essenciais.
+<b>rider</b> (pessoa que anda ou compete sobre um veículo/animal); <b>riding</b> (ato ou atividade de andar/montar).
 
 ### Related words and differences
 
-Compare **ride** com termos próximos pelo contexto.
+<b>drive</b> é conduzir e controlar um carro ou outro veículo motorizado; <b>ride</b> é viajar montado em algo ou como passageiro.
 
 ### Source
 

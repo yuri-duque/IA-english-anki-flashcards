@@ -8,6 +8,7 @@ Cada card criado nesta pasta deve aparecer nesta tabela. A coluna Anki é mantid
 | in spite of | [in spite of](in-spite-of.md) | ✅ |
 | in fact | [in fact](in-fact.md) | ✅ |
 | check if | [check if](check-if.md) | ✅ |
+| check whether | [check whether](check-whether.md) | ❌ |
 | as well | [as well](as-well.md) | ✅ |
 | get well soon | [get well soon](get-well-soon.md) | ✅ |
 | I think so | [I think so](i-think-so.md) | ✅ |

@@ -7,23 +7,18 @@ anki_note_id: '1789697071007'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **say** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** say
-- **Meaning:** **dizer**; falar
+- **Meaning:** <b>dizer</b>; falar, mencionar
 - **PartOfSpeech:** verb
-- **Definition:** A word used to express the idea of dizer.
-- **Example:** I used <b>say</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>say</b> em uma frase natural._
-- **HowToUse:** Use **say** conforme seu significado e sua classe gramatical.
+- **Definition:** To express something in words.
+- **Example:** She <b>said</b> that she was running late.
+- **ExampleTranslation:** Ela disse que estava atrasada.
+- **HowToUse:** Use <b>say</b> para indicar as palavras ou a mensagem expressa. A estrutura comum é <b>say something</b> ou <b>say something to someone</b>; quando vier uma pessoa como objeto direto, use <b>tell</b>: <b>tell someone something</b>.
+- **CommonExpressions:** <b>say hello</b> (dizer olá); <b>say something</b> (dizer algo); <b>say that...</b> (dizer que...).
+- **WordFamily:** <b>says</b> (presente com he/she/it); <b>said</b> (passado e particípio); <b>saying</b> (forma em -ing).
+- **RelatedWords:** <b>tell</b> também significa “dizer/contar”, mas normalmente recebe a pessoa como objeto direto: <b>tell me the truth</b>. Com <b>say</b>, a mensagem é o objeto: <b>say the truth</b> (menos comum) ou <b>say something to me</b>.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +29,33 @@ anki_note_id: '1789697071007'
 
 ## Verso
 
-**dizer**; falar
+<b>dizer</b>; falar, mencionar
 
 _verb_
 
-> A word used to express the idea of dizer.
+> To express something in words.
 
 ### How to use
 
-Use **say** conforme seu significado e sua classe gramatical.
+Use <b>say</b> para indicar as palavras ou a mensagem expressa. A estrutura comum é <b>say something</b> ou <b>say something to someone</b>; quando vier uma pessoa como objeto direto, use <b>tell</b>: <b>tell someone something</b>.
 
 ### Example
 
-I used <b>say</b> in a natural sentence.
+She <b>said</b> that she was running late.
 
-_Usei <b>say</b> em uma frase natural._
+Ela disse que estava atrasada.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>say hello</b> (dizer olá); <b>say something</b> (dizer algo); <b>say that...</b> (dizer que...).
 
 ### Word family
 
-Não há derivados essenciais.
+<b>says</b> (presente com he/she/it); <b>said</b> (passado e particípio); <b>saying</b> (forma em -ing).
 
 ### Related words and differences
 
-Compare **say** com termos próximos pelo contexto.
+<b>tell</b> também significa “dizer/contar”, mas normalmente recebe a pessoa como objeto direto: <b>tell me the truth</b>. Com <b>say</b>, a mensagem é o objeto: <b>say the truth</b> (menos comum) ou <b>say something to me</b>.
 
 ### Source
 

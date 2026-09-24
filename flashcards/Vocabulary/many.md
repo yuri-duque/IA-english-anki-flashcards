@@ -6,50 +6,47 @@ anki_note_id: '1789411018170'
 # many
 
 ## Dados da nota
-- **NounType:** plural countable
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **QuantityOrder:** all → most → a lot of / lots of → <span style="color:#2563eb"><b>many</b></span> → several → some → a few → few → no
-- **CommonExpressions:** <span style="color:#2563eb"><b>how many</b></span> — quantos; <span style="color:#2563eb"><b>many of</b></span> — muitos de
-- **Source:**
+- **NounType:** Usado com substantivos contáveis no plural.
+- **CommonExpressions:** <b>how many</b> — quantos/quantas; <b>many of</b> — muitos/muitas de (um grupo ou conjunto já especificado).
+- **RelatedWords:** <b>much</b> é usado com substantivos incontáveis (<b>much time</b>); <b>a lot of</b> pode ser usado com substantivos contáveis no plural e incontáveis (<b>a lot of books</b>, <b>a lot of time</b>); <b>several</b> indica mais de dois, mas geralmente menos do que <b>many</b> sugere.
 
 - **Word:** many
-- **Meaning:** <span style="color:#2563eb"><b>muitos</b></span>; muitas; um grande número de
+- **Meaning:** <b>muitos; muitas</b>; um grande número de
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of many.
-- **Example:** There are <span style="color:#2563eb"><b>many</b></span> problems to solve.
-- **ExampleTranslation:** _Há muitos problemas para resolver._
-- **HowToUse:** Use <span style="color:#2563eb"><b>many</b></span> para indicar um grande número de itens contáveis. Para incontáveis, use `much`.
+- **Definition:** Used to refer to or ask about a large number of people or things.
+- **Example:** There are <b>many</b> problems to solve.
+- **ExampleTranslation:** Há muitos problemas para resolver.
+- **HowToUse:** <b>many</b> é usado como determinante antes de substantivos contáveis no plural (<b>many problems</b>) e também pode aparecer sem substantivo quando ele está claro pelo contexto (<b>Many were absent</b>). É comum em perguntas e frases negativas; em afirmações cotidianas, <b>a lot of</b> costuma soar mais natural. Use <b>much</b> com substantivos incontáveis.
 ## Frente
 ### ENGLISH · VOCABULARY
 # many
 *What does this word mean and how is it used?*
 
 ## Verso
-<span style="color:#2563eb"><b>muitos</b></span>; muitas; um grande número de
+<b>muitos; muitas</b>; um grande número de
 
 ### Noun type
-Usado somente com substantivos **contáveis no plural**:
+<b>many</b> é usado como determinante somente com substantivos contáveis no plural:
 
-- many problems
-- many students
+- <b>many problems</b>
+- <b>many students</b>
 
 ### How to use
-Use <span style="color:#2563eb"><b>many</b></span> para indicar um grande número de itens contáveis. Para incontáveis, use `much`.
+<b>many</b> é usado como determinante antes de substantivos contáveis no plural (<b>many problems</b>) e também pode aparecer sem substantivo quando ele está claro pelo contexto (<b>Many were absent</b>). É comum em perguntas e frases negativas; em afirmações cotidianas, <b>a lot of</b> costuma soar mais natural. Use <b>much</b> com substantivos incontáveis.
 
-### Quantity order
-all → most → a lot of / lots of → <span style="color:#2563eb"><b>many</b></span> → several → some → a few → few → no
+### Example
+There are <b>many</b> problems to solve.
 
-### Examples
-There are <span style="color:#2563eb"><b>many</b></span> problems to solve.
+Há muitos problemas para resolver.
 
-_Há muitos problemas para resolver._
+How <b>many</b> questions are on the test?
 
-How <span style="color:#2563eb"><b>many</b></span> questions are on the test?
-
-_Quantas perguntas há na prova?_
+Quantas perguntas há na prova?
 
 ### Common expressions
-<span style="color:#2563eb"><b>how many</b></span> — quantos/quantas  
-<span style="color:#2563eb"><b>many of</b></span> — muitos de
+<b>how many</b> — quantos/quantas  
+<b>many of</b> — muitos/muitas de (um grupo ou conjunto já especificado)
+
+### Related words and differences
+
+<b>much</b> é usado com substantivos incontáveis (<b>much time</b>); <b>a lot of</b> pode ser usado com substantivos contáveis no plural e incontáveis (<b>a lot of books</b>, <b>a lot of time</b>); <b>several</b> indica mais de dois, mas geralmente menos do que <b>many</b> sugere.

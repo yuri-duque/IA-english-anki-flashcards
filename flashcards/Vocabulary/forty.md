@@ -7,23 +7,16 @@ anki_note_id: '1789697069876'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **forty** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
-- **Source:** Lista de estudo fornecida pelo usuário.
+- **CommonExpressions:** **in your forties** — na faixa dos quarenta anos; **forty-something** — alguém com cerca de quarenta e poucos anos.
+- **RelatedWords:** **fourteen** = catorze; **fortieth** = quadragésimo (ordinal). Não confunda **forty** (40) com **fourteen** (14).
 
 - **Word:** forty
 - **Meaning:** **quarenta**
-- **PartOfSpeech:** number
-- **Definition:** A word used to express the idea of quarenta.
-- **Example:** I used <b>forty</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>forty</b> em uma frase natural._
-- **HowToUse:** Use **forty** conforme seu significado e sua classe gramatical.
+- **PartOfSpeech:** cardinal number
+- **Definition:** The number 40.
+- **Example:** The museum is about <b>forty</b> minutes from here.
+- **ExampleTranslation:** O museu fica a cerca de quarenta minutos daqui.
+- **HowToUse:** Use <b>forty</b> para indicar a quantidade ou posição cardinal 40. Em inglês, escreve-se <b>forty</b>, sem o “u” de <i>four</i>; para a posição ordinal, use <b>fortieth</b> (40th).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -36,32 +29,24 @@ anki_note_id: '1789697069876'
 
 **quarenta**
 
-_number_
+_cardinal number_
 
-> A word used to express the idea of quarenta.
+> The number 40.
 
 ### How to use
 
-Use **forty** conforme seu significado e sua classe gramatical.
+Use <b>forty</b> para indicar a quantidade ou posição cardinal 40. Em inglês, escreve-se <b>forty</b>, sem o “u” de <i>four</i>; para a posição ordinal, use <b>fortieth</b> (40th).
 
 ### Example
 
-I used <b>forty</b> in a natural sentence.
+The museum is about <b>forty</b> minutes from here.
 
-_Usei <b>forty</b> em uma frase natural._
+_O museu fica a cerca de quarenta minutos daqui._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+**in your forties** — na faixa dos quarenta anos; **forty-something** — alguém com cerca de quarenta e poucos anos.
 
 ### Related words and differences
 
-Compare **forty** com termos próximos pelo contexto.
-
-### Source
-
-Lista de estudo fornecida pelo usuário.
+**fourteen** = catorze; **fortieth** = quadragésimo (ordinal). Não confunda **forty** (40) com **fourteen** (14).

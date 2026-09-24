@@ -6,36 +6,39 @@ anki_note_id: '1788198807669'
 # chase
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
 - **Source:** [flashcards/words/chase.md](../words/chase.md)
 
 - **Word:** chase
-- **Meaning:** **perseguir**; correr atrás; caçar; expulsar
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of chase.
-- **Example:** The dog **chased** the ball across the yard.
+- **Meaning:** <b>perseguir</b>; correr atrás; caçar; expulsar
+- **PartOfSpeech:** verb
+- **Definition:** To pursue someone or something in order to catch, find, or achieve them.
+- **Example:** The dog <b>chased</b> the ball across the yard.
 - **ExampleTranslation:** _O cachorro perseguiu a bola pelo quintal._
-- **HowToUse:** Descreve perseguir alguém ou algo, literalmente ou em sentido figurado. Também aparece com **after** para indicar aquilo que se busca.
+- **HowToUse:** O verbo <b>chase</b> descreve perseguir alguém ou algo, literalmente ou em sentido figurado. Também pode indicar a busca por um objetivo, como em <b>chase a dream</b>. A forma <b>chase after</b> enfatiza correr atrás de alguém ou de algo.
+- **CommonExpressions:** <b>chase after</b> — correr atrás de; perseguir<br><b>chase a dream</b> — perseguir um sonho
+- **RelatedWords:** <b>pursue</b> — perseguir ou buscar algo, muitas vezes de modo mais contínuo ou formal; <b>hunt</b> — caçar, geralmente procurando uma pessoa ou animal.
 ## Frente
 ### ENGLISH · VOCABULARY
 # chase
 *What does this word mean and how is it used?*
 
 ## Verso
-**perseguir**; correr atrás; caçar; expulsar
+<b>perseguir</b>; correr atrás; caçar; expulsar
 
 ### How to use
-Descreve perseguir alguém ou algo, literalmente ou em sentido figurado. Também aparece com **after** para indicar aquilo que se busca.
+O verbo <b>chase</b> descreve perseguir alguém ou algo, literalmente ou em sentido figurado. Também pode indicar a busca por um objetivo, como em <b>chase a dream</b>. A forma <b>chase after</b> enfatiza correr atrás de alguém ou de algo.
 
 ### Example
-The dog **chased** the ball across the yard.
+The dog <b>chased</b> the ball across the yard.
 
 _O cachorro perseguiu a bola pelo quintal._
 
 ### Common expressions
-**chase after** — correr atrás de; perseguir  
-**chase a dream** — perseguir um sonho
+<b>chase after</b> — correr atrás de; perseguir  
+<b>chase a dream</b> — perseguir um sonho
+
+### Related words and differences
+<b>pursue</b> — perseguir ou buscar algo, muitas vezes de modo mais contínuo ou formal; <b>hunt</b> — caçar, geralmente procurando uma pessoa ou animal.
 ---
 anki: false
 ---

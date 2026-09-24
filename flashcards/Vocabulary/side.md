@@ -7,23 +7,17 @@ anki_note_id: '1789697071114'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **side** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** <b>on the other side of</b> (do outro lado de); <b>side by side</b> (lado a lado).
+- **RelatedWords:** <b>edge</b> é a borda ou limite externo de algo; <b>side</b> é uma de suas partes ou direções.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** side
-- **Meaning:** **lado**; margem
+- **Meaning:** **lado**; face, aspecto
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of lado.
-- **Example:** I used <b>side</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>side</b> em uma frase natural._
-- **HowToUse:** Use **side** conforme seu significado e sua classe gramatical.
+- **Definition:** One of the surfaces, areas, or directions of something.
+- **Example:** The café is on the left <b>side</b> of the street.
+- **ExampleTranslation:** O café fica do <b>lado</b> esquerdo da rua.
+- **HowToUse:** Use <b>side</b> para indicar uma das partes ou direções de algo. A palavra também pode significar um aspecto de uma situação ou o grupo de alguém em uma discussão.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697071114'
 
 ## Verso
 
-**lado**; margem
+**lado**; face, aspecto
 
 _noun_
 
-> A word used to express the idea of lado.
+> One of the surfaces, areas, or directions of something.
 
 ### How to use
 
-Use **side** conforme seu significado e sua classe gramatical.
+Use <b>side</b> para indicar uma das partes ou direções de algo. A palavra também pode significar um aspecto de uma situação ou o grupo de alguém em uma discussão.
 
 ### Example
 
-I used <b>side</b> in a natural sentence.
+The café is on the left <b>side</b> of the street.
 
-_Usei <b>side</b> em uma frase natural._
+O café fica do <b>lado</b> esquerdo da rua.
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+<b>on the other side of</b> (do outro lado de); <b>side by side</b> (lado a lado).
 
 ### Related words and differences
 
-Compare **side** com termos próximos pelo contexto.
+<b>edge</b> é a borda ou limite externo de algo; <b>side</b> é uma de suas partes ou direções.
 
 ### Source
 

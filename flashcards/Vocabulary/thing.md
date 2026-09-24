@@ -7,23 +7,17 @@ anki_note_id: '1789697071385'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **thing** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **CommonExpressions:** **the thing is** (o fato é; a questão é); **one thing at a time** (uma coisa de cada vez).
+- **RelatedWords:** **thing** é uma palavra geral para algo ou uma ideia; **object** se refere especificamente a algo físico; **stuff** é informal e costuma se referir a um conjunto de coisas ou materiais, sem contagem; **matter** costuma significar assunto ou questão.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** thing
-- **Meaning:** **coisa**; assunto
+- **Meaning:** **coisa**; assunto, questão
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of coisa.
-- **Example:** I used <b>thing</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>thing</b> em uma frase natural._
-- **HowToUse:** Use **thing** conforme seu significado e sua classe gramatical.
+- **Definition:** An object, idea, event, or matter that is not named specifically.
+- **Example:** The most important <b>thing</b> is that everyone feels safe.
+- **ExampleTranslation:** O mais importante é que todos se sintam seguros.
+- **HowToUse:** Use **thing** quando não souber, não quiser ou não precisar nomear algo com precisão. Também pode se referir a um assunto ou aspecto de uma situação. Como substantivo contável, use **a thing** no singular e **things** no plural.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +28,29 @@ anki_note_id: '1789697071385'
 
 ## Verso
 
-**coisa**; assunto
+**coisa**; assunto, questão
 
 _noun_
 
-> A word used to express the idea of coisa.
+> An object, idea, event, or matter that is not named specifically.
 
 ### How to use
 
-Use **thing** conforme seu significado e sua classe gramatical.
+Use **thing** quando não souber, não quiser ou não precisar nomear algo com precisão. Também pode se referir a um assunto ou aspecto de uma situação. Como substantivo contável, use **a thing** no singular e **things** no plural.
 
 ### Example
 
-I used <b>thing</b> in a natural sentence.
+The most important <b>thing</b> is that everyone feels safe.
 
-_Usei <b>thing</b> em uma frase natural._
+_O mais importante é que todos se sintam seguros._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
-
-### Word family
-
-Não há derivados essenciais.
+**the thing is** (o fato é; a questão é); **one thing at a time** (uma coisa de cada vez).
 
 ### Related words and differences
 
-Compare **thing** com termos próximos pelo contexto.
+**thing** é uma palavra geral para algo ou uma ideia; **object** se refere especificamente a algo físico; **stuff** é informal e costuma se referir a um conjunto de coisas ou materiais, sem contagem; **matter** costuma significar assunto ou questão.
 
 ### Source
 

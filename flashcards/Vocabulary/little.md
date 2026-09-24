@@ -7,20 +7,17 @@ anki_note_id: '1789411018114'
 
 ## Dados da nota
 - **NounType:** uncountable
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
 - **QuantityOrder:** all → most → a lot of / lots of → much → some → a little → <span style="color:#2563eb"><b>little</b></span> → no
 - **CommonExpressions:** <span style="color:#2563eb"><b>very little</b></span> — pouquíssimo; <span style="color:#2563eb"><b>little by little</b></span> — pouco a pouco
-- **Source:**
+- **RelatedWords:** <b>a little</b> indica uma quantidade pequena, mas existente e muitas vezes suficiente; <b>few</b> é usado com substantivos contáveis no plural.
 
 - **Word:** little
 - **Meaning:** <span style="color:#2563eb"><b>pouco</b></span>; pouca; quase nada de
 - **PartOfSpeech:** determiner, pronoun
-- **Definition:** A word or phrase used to express the idea of little.
+- **Definition:** A small amount of something, often less than is needed or expected.
 - **Example:** We have <span style="color:#2563eb"><b>little</b></span> time to finish the project.
 - **ExampleTranslation:** _Temos pouco tempo para terminar o projeto._
-- **HowToUse:** Use <span style="color:#2563eb"><b>little</b></span> quando houver menos quantidade do que o esperado ou necessário. Compare com `a little`, que tem sentido mais positivo.
+- **HowToUse:** Use <span style="color:#2563eb"><b>little</b></span> com substantivos incontáveis para indicar uma quantidade pequena, geralmente insuficiente ou abaixo do esperado. Compare com <b>a little</b>, que enfatiza que ainda há alguma quantidade.
 ## Frente
 ### ENGLISH · VOCABULARY
 # little

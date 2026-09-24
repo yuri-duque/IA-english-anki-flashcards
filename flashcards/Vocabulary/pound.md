@@ -6,36 +6,45 @@ anki_note_id: '1788198449329'
 # pound
 
 ## Dados da nota
-- **Audio:**
-- **AudioSource:**
-- **Source:** [flashcards/words/pound.md](../words/pound.md)
+- **WordFamily:** <b>pounded</b> (past tense and past participle); <b>pounding</b> (-ing form).
+- **CommonExpressions:** <b>pound on the door</b> — bater com força na porta; <b>pound the table</b> — bater com força na mesa.
+- **RelatedWords:** <b>bang</b> enfatiza o barulho de uma batida forte; <b>pound</b> enfatiza golpes repetidos e vigorosos.
 
 - **Word:** pound
-- **Meaning:** **bater**; pancada; libra; triturar
-- **PartOfSpeech:** word
-- **Definition:** A word or phrase used to express the idea of pound.
-- **Example:** Someone was **pounding** on the door.
+- **Meaning:** <b>bater com força e repetidamente</b>; socar
+- **PartOfSpeech:** verb
+- **Definition:** To hit something repeatedly with great force.
+- **Example:** Someone was <b>pounding</b> on the door.
 - **ExampleTranslation:** _Alguém estava batendo forte na porta._
-- **HowToUse:** Como verbo, indica bater repetidamente ou triturar. Como substantivo, pode ser unidade de peso, moeda britânica ou uma pancada.
+- **HowToUse:** Como verbo, <b>pound</b> descreve golpes repetidos e fortes contra algo. Na construção <b>pound on</b> + objeto, enfatiza bater com força, geralmente fazendo barulho.
 ## Frente
 ### ENGLISH · VOCABULARY
 # pound
 *What does this word mean and how is it used?*
 
 ## Verso
-**bater**; pancada; libra; triturar
+<b>bater com força e repetidamente</b>; socar
+
+> To hit something repeatedly with great force.
 
 ### How to use
-Como verbo, indica bater repetidamente ou triturar. Como substantivo, pode ser unidade de peso, moeda britânica ou uma pancada.
+Como verbo, <b>pound</b> descreve golpes repetidos e fortes contra algo. Na construção <b>pound on</b> + objeto, enfatiza bater com força, geralmente fazendo barulho.
 
 ### Example
-Someone was **pounding** on the door.
+Someone was <b>pounding</b> on the door.
 
 _Alguém estava batendo forte na porta._
 
 ### Common expressions
-**pound on the door** — bater forte na porta  
-**pound for pound** — em comparação equivalente
+<b>pound on the door</b> — bater com força na porta; <b>pound the table</b> — bater com força na mesa.
+
+### Word family
+
+<b>pounded</b> (past tense and past participle); <b>pounding</b> (-ing form).
+
+### Related words and differences
+
+<b>Bang</b> enfatiza o barulho de uma batida forte; <b>pound</b> enfatiza golpes repetidos e vigorosos.
 ---
 anki: false
 ---

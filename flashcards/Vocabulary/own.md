@@ -7,23 +7,18 @@ anki_note_id: '1789697070631'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **own** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
+- **WordFamily:** <b>owner</b> (noun) — proprietário; <b>ownership</b> (noun) — propriedade ou responsabilidade assumida.
+- **CommonExpressions:** <b>on your own</b> — sozinho ou sem ajuda; <b>own up to</b> — admitir algo, especialmente um erro.
+- **RelatedWords:** <b>possess</b> (verb) significa possuir, em tom mais formal; <b>belong to</b> indica a quem algo pertence. <b>Own</b> como adjetivo dá ênfase a que algo é próprio: “my own room”.
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** own
-- **Meaning:** **próprio**; possuir
-- **PartOfSpeech:** adjective/verb
-- **Definition:** A word used to express the idea of próprio.
-- **Example:** I used <b>own</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>own</b> em uma frase natural._
-- **HowToUse:** Use **own** conforme seu significado e sua classe gramatical.
+- **Meaning:** <b>próprio</b> (de alguém); possuir
+- **PartOfSpeech:** adjective; verb
+- **Definition:** Used after a possessive determiner to emphasize that something belongs to that person; as a verb, it means to possess something.
+- **Example:** She built her <b>own</b> app.
+- **ExampleTranslation:** _Ela criou o <b>próprio</b> aplicativo._
+- **HowToUse:** Como adjetivo, <b>own</b> costuma vir depois de um possessivo (<i>my own</i>, <i>their own</i>) para dar ênfase a “próprio”. Como verbo, <b>own</b> significa possuir: <i>They own a house</i> (“Eles possuem uma casa”).
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -34,33 +29,33 @@ anki_note_id: '1789697070631'
 
 ## Verso
 
-**próprio**; possuir
+<b>próprio</b> (de alguém); possuir
 
-_adjective/verb_
+_adjective; verb_
 
-> A word used to express the idea of próprio.
+> Used after a possessive determiner to emphasize that something belongs to that person; as a verb, it means to possess something.
 
 ### How to use
 
-Use **own** conforme seu significado e sua classe gramatical.
+Como adjetivo, <b>own</b> costuma vir depois de um possessivo (<i>my own</i>, <i>their own</i>) para dar ênfase a “próprio”. Como verbo, <b>own</b> significa possuir: <i>They own a house</i> (“Eles possuem uma casa”).
 
 ### Example
 
-I used <b>own</b> in a natural sentence.
+She built her <b>own</b> app.
 
-_Usei <b>own</b> em uma frase natural._
+_Ela criou o <b>próprio</b> aplicativo._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>on your own</b> — sozinho ou sem ajuda; <b>own up to</b> — admitir algo, especialmente um erro.
 
 ### Word family
 
-Não há derivados essenciais.
+<b>owner</b> (noun) — proprietário; <b>ownership</b> (noun) — propriedade ou responsabilidade assumida.
 
 ### Related words and differences
 
-Compare **own** com termos próximos pelo contexto.
+<b>possess</b> (verb) significa possuir, em tom mais formal; <b>belong to</b> indica a quem algo pertence. <b>own</b> como adjetivo dá ênfase a que algo é próprio: “my own room”.
 
 ### Source
 

@@ -7,23 +7,18 @@ anki_note_id: '1789697069954'
 
 ## Dados da nota
 
-- **Audio:**
-- **AudioSource:**
-- **AudioLicense:**
-- **WordFamily:** Não há derivados essenciais.
-- **CommonExpressions:** Nenhuma expressão adicional essencial.
-- **RelatedWords:** Compare **grandfather** com termos próximos pelo contexto.
-- **Etymology:**
-- **Image:**
 - **Source:** Lista de estudo fornecida pelo usuário.
 
 - **Word:** grandfather
 - **Meaning:** **avô**
 - **PartOfSpeech:** noun
-- **Definition:** A word used to express the idea of avô.
-- **Example:** I used <b>grandfather</b> in a natural sentence.
-- **ExampleTranslation:** _Usei <b>grandfather</b> em uma frase natural._
-- **HowToUse:** Use **grandfather** conforme seu significado e sua classe gramatical.
+- **Definition:** The father of one of your parents.
+- **Example:** My <b>grandfather</b> taught me how to play chess.
+- **ExampleTranslation:** Meu avô me ensinou a jogar xadrez.
+- **HowToUse:** Use **grandfather** to refer to the father of your mother or father. It is more formal than **grandpa**; specify the side of the family with **maternal grandfather** or **paternal grandfather** when needed.
+- **CommonExpressions:** <b>maternal grandfather</b> — avô materno; <b>paternal grandfather</b> — avô paterno; <b>grandfather clock</b> — relógio de pêndulo alto.
+- **WordFamily:** <b>grandfatherly</b> (adjective) — afetuoso ou sábio como um avô; <b>grandfatherhood</b> (noun) — condição ou papel de avô.
+- **RelatedWords:** <b>grandpa</b> is a more informal, affectionate word for a <b>grandfather</b>. <b>Great-grandfather</b> is the father of one of your grandparents.
 ## Frente
 
 ### ENGLISH · VOCABULARY
@@ -38,29 +33,29 @@ anki_note_id: '1789697069954'
 
 _noun_
 
-> A word used to express the idea of avô.
+> The father of one of your parents.
 
 ### How to use
 
-Use **grandfather** conforme seu significado e sua classe gramatical.
+Use **grandfather** to refer to the father of your mother or father. It is more formal than **grandpa**; specify the side of the family with **maternal grandfather** or **paternal grandfather** when needed.
 
 ### Example
 
-I used <b>grandfather</b> in a natural sentence.
+My <b>grandfather</b> taught me how to play chess.
 
-_Usei <b>grandfather</b> em uma frase natural._
+_Meu avô me ensinou a jogar xadrez._
 
 ### Common expressions
 
-Nenhuma expressão adicional essencial.
+<b>maternal grandfather</b> — avô materno; <b>paternal grandfather</b> — avô paterno; <b>grandfather clock</b> — relógio de pêndulo alto.
 
 ### Word family
 
-Não há derivados essenciais.
+<b>grandfatherly</b> (adjective) — afetuoso ou sábio como um avô; <b>grandfatherhood</b> (noun) — condição ou papel de avô.
 
 ### Related words and differences
 
-Compare **grandfather** com termos próximos pelo contexto.
+<b>grandpa</b> is a more informal, affectionate word for a <b>grandfather</b>. <b>Great-grandfather</b> is the father of one of your grandparents.
 
 ### Source
 
